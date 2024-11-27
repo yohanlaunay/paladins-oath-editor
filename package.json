@@ -1,14 +1,13 @@
 {
 	"private": true,
 	"type": "module",
-	"homepage": ".",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
 		"preview": "vite preview",
 		"test": "vitest",
     	"predeploy": "yarn run build",
-    	"deploy": "gh-pages -d build"
+    	"deploy": "gh-pages -d dist"
 	},
 	"dependencies": {
 		"fake-indexeddb": "^6.0.0",
