@@ -1,0 +1,556 @@
+html {
+	height: 100%;
+}
+
+body {
+	min-height: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+#root {
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	line-height: 1.5;
+	font-weight: 400;
+	margin: 0;
+	height: 100vh;
+	width: 100vw;
+
+	color-scheme: light dark;
+	color: rgba(255, 255, 255, 0.87);
+	background-color: #242424;
+
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.main_menu {
+	grid-area: main_menu;
+	margin-left: 5px;
+	margin-right: 5px;
+	overflow: hidden;
+}
+
+.main_menu .socials {
+	border-top: solid 2px white;
+	padding-top: 10px;
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+	margin-top: 10px;
+	text-align: center;
+}
+
+.main_menu .sample_mods {
+	border-top: solid 2px white;
+	padding-top: 10px;
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+	margin-top: 10px;
+	align-items: center;
+	justify-content: center;
+}
+
+.main_menu .sample_mods .links {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 5px;
+	align-items: center;
+	justify-content: center;
+}
+
+.main_menu .sample_mods .links a {
+	color: white;
+}
+
+.main_menu .socials a {
+	color: white;
+}
+
+.main_menu_header {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+	margin-top: 10px;
+	align-items: center;
+	text-align: center;
+	border-bottom: solid 2px white;
+	padding-bottom: 10px;
+}
+
+.main_menu_header .title {
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+.main_menu_header .mod_id {
+	font-weight: bold;
+	color: gold;
+	font-size: 10pt;
+	line-height: 15pt;
+	inline-size: 180px;
+	overflow-wrap: break-word;
+}
+
+.main_grid_container {
+	display: grid;
+	grid-template-areas: 'main_menu main';
+	grid-template-columns: 200px auto;
+	width: 100%;
+	height: 100%;
+	gap: 20px;
+}
+
+.main_content {
+	grid-area: main;
+	overflow-x: hidden;
+	margin-top: 5px;
+}
+
+button {
+	padding: 0 2px 0 2px;
+	text-align: center;
+	font-size: 10pt;
+	line-height: 15pt;
+	font-weight: bold;
+}
+
+.popup_container {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(255, 255, 255, 0.5);
+	color: white;
+}
+
+.popup_content {
+	width: 1000px;
+	height: 800px;
+	position: relative;
+	background: black;
+	border: solid 2px white;
+	padding: 5px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.popup_header {
+	display: grid;
+	grid-template-columns: auto 50px;
+}
+
+.popup_title {
+	font-weight: bold;
+	font-size: 14pt;
+}
+
+.popup_main {
+	display: block;
+	width: 100%;
+	overflow: auto;
+}
+
+.popup_main .tabs {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 5px;
+	margin-bottom: 10px;
+}
+
+.popup_main .tabs .tab {
+	min-width: 120px;
+	cursor: pointer;
+	text-align: center;
+	background-color: black;
+	color: white;
+	border: solid 1px white;
+}
+
+.popup_main .tabs .tab.selected {
+	background-color: white;
+	color: black;
+	border: solid 1px black;
+}
+
+.main_menu_options {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 2px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: solid 2px white;
+}
+
+.main_menu_options button {
+	width: 90px;
+}
+
+#main_menu .modules {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	margin-top: 10px;
+}
+
+#main_menu .mod_type .title {
+	display: grid;
+	grid-template-columns: auto 30px;
+	background-color: darkgray;
+	color: black;
+}
+
+#main_menu .mod_type .title .label {
+	margin-left: 5px;
+	font-weight: bold;
+	line-height: 25pt;
+	text-transform: uppercase;
+}
+
+#main_menu .mod_type .title button {
+	font-size: 15pt;
+}
+
+#main_menu .module {
+	display: grid;
+	grid-template-columns: 20px auto;
+	gap: 5px;
+	margin-top: 5px;
+}
+
+#main_menu .module.selected {
+	background-color: gold;
+}
+
+#main_menu .module_id {
+	font-size: 12pt;
+	line-height: 15pt;
+	inline-size: 165px;
+	overflow-wrap: break-word;
+}
+
+#main_menu .module.selected .module_id {
+	color: black;
+	font-weight: bold;
+}
+
+input.error {
+	border: solid 1px red;
+	background-color: red;
+}
+
+select.error {
+	border: solid 1px red;
+	background-color: red;
+}
+
+div.error {
+	color: red;
+}
+
+input::placeholder {
+	color: darkgrey;
+	font-style: normal;
+}
+
+.add_action {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100px;
+	border: dashed 1px white;
+}
+
+.string_editor {
+	display: flex;
+	flex-direction: row;
+}
+
+.string_editor input {
+	min-width: 300px;
+	font-size: 11pt;
+	padding: 5px;
+}
+
+.string_editor textarea {
+	min-width: 500px;
+	min-height: 80px;
+	font-size: 11pt;
+	padding: 5px;
+}
+
+.bool_editor {
+	display: flex;
+	flex-direction: row;
+}
+
+.int_editor {
+	display: flex;
+	flex-direction: row
+}
+
+.int_editor input {
+	width: 50px;
+	font-size: 11pt;
+	padding: 5px;
+}
+
+.oneof_editor {
+	display: flex;
+	flex-direction: row
+}
+
+.custom_editor {
+	display: flex;
+	flex-flow: row wrap;
+	gap: 10px;
+}
+
+.custom_editor .items {
+	display: flex;
+	flex-direction: column;
+}
+
+.custom_editor .item {
+	display: flex;
+	flex-flow: row wrap;
+	gap: 10px;
+}
+
+.custom_editor .item button {
+	min-width: 60px;
+}
+
+.custom_editor .item .summary {
+	margin-left: 10px;
+	font-size: 12pt;
+	line-height: 18pt;
+}
+
+.custom_editor .add_action {
+	margin-top: 10px;
+	min-width: 130px;
+}
+
+.image_editor {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.image_editor img {
+	border: 1.5mm ridge rgba(255, 255, 255, 1);
+	width: 256px;
+}
+
+.image_editor .actions {
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	align-items: center;
+	justify-content: center;
+	width: 256px;
+}
+
+.image_editor .actions button {
+	min-width: 100px;
+}
+
+.image_editor .items {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.res_editor {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.res_editor .item {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	width: 256px;
+}
+
+.res_editor .item .content {
+	border: 1.5mm ridge rgba(255, 255, 255, 1);
+}
+
+.res_editor .item img {
+	width: 100%;
+}
+
+.res_editor .item .name {
+	text-align: center;
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.res_editor .item .actions {
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	align-items: center;
+	justify-content: center;
+	width: 256px;
+}
+
+.res_editor .actions button {
+	width: 80px;
+}
+
+.res_options {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 5px;
+}
+
+.res_options .option img {
+	width: 100%;
+}
+
+.res_options .option .name {
+	text-align: center;
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.res_options .option .description {
+	text-align: center;
+	font-size: 8pt;
+}
+
+.res_options .option {
+	border: solid 1px gray;
+	width: 256px;
+}
+
+.res_options .option.selected {
+	border-color: gold;
+}
+
+.value_editor {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	gap: 5px;
+}
+
+.value_editor .item {
+	display: flex;
+	flex-direction: row;
+	gap: 5px;
+}
+
+.value_editor .add_action {
+	min-width: 130px;
+	border: none;
+}
+
+.value_editor .add_action button {
+	min-width: 100%;
+}
+
+.spec_editor .header {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 10px;
+}
+
+.spec_editor .header .title {
+	color: gold;
+	font-size: 24pt;
+	font-weight: bold;
+}
+
+.spec_editor .header .description {
+	color: white;
+	font-size: 12pt;
+}
+
+.spec_editor .prop_containers {
+	display: grid;
+	grid-template-columns: 200px auto;
+	gap: 5px;
+}
+
+.spec_editor .prop_footer {
+	display: grid;
+	grid-template-columns: 200px auto;
+	gap: 5px;
+}
+
+.spec_editor .prop_footer .actions {
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+}
+
+.spec_editor .prop_footer .actions button {
+	width: 100%;
+	font-weight: bold;
+	font-size: 15pt;
+	line-height: 18pt;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.spec_editor .prop_title {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+}
+
+.spec_editor .prop_title .title {
+	font-weight: bold;
+	font-size: 14pt;
+	line-height: 18pt;
+}
+
+.spec_editor .prop_extras {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+	align-items: center;
+	justify-content: center;
+}
+
+.spec_editor .prop_extras img {
+	width: 80%;
+}
+
+.spec_editor .prop_extras a {
+	color: white;
+}
+
+.spec_editor .prop_container {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 10px;
+}
+
+.spec_editor .prop_container .prop_description {
+	font-size: 12pt;
+	line-height: 20pt;
+}
+
+.spec_editor .prop_container .prop_value_container {
+	margin-top: 10px;
+}
