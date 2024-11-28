@@ -22,9 +22,10 @@ const __readB64Data = async (zip, path) => {
             resolve(data);
         }
         try {
-            reader.readAsDataURL(await __readFileBlob(zip, path));
+            const blob = await __readFileBlob(zip, path);
+            reader.readAsDataURL(blob);
         } catch (e) {
-            reject(e);
+            reject(new Error("Cannot load file at path '"+path+"': "+e.message));
         }
     });
 }
@@ -53,7 +54,7 @@ const __findRootModJson = async (zip) => {
     try {
         return {
             data: await __readJsonContent(zip, 'mod.json'),
-            rootFolder: './'
+            rootFolder: ''
         }
     } catch (e) {
         const rootFolders = [];
@@ -121,11 +122,19 @@ const __loadZipModule = async (zip, rootFolder, modDesc, moduleType, moduleId) =
                 if (Array.isArray(data)) {
                     const files = [];
                     for (const fileName of data) {
-                        files.push(await __readB64Data(modZip, fileName));
+                        try {
+                            files.push(await __readB64Data(modZip, fileName));
+                        } catch (e) {
+                            throw new Error("Error reading file '" + fileName + "': " + e.message);
+                        }
                     }
                     out[propId] = files;
                 } else {
-                    out[propId] = await __readB64Data(modZip, data);
+                    try {
+                        out[propId] = await __readB64Data(modZip, data);
+                    } catch (e) {
+                        throw new Error("Error reading file '" + data + "': " + e.message);
+                    }
                 }
                 continue;
             }
@@ -255,8 +264,8 @@ export const ZipService = {
             jsonData.mod_preview = await __readB64Data(zip, rootFolder + 'mod_preview.jpg');
             modDesc = ModDescriptor.fromJson(jsonData);
         } catch (e) {
-            console.error("Error parsing mod.json", e);
-            throw new Error("Error parsing 'mod.json': " + e.message);
+            console.error("Error loading mod.json", e);
+            throw new Error("Error loading 'mod.json': " + e.message);
         }
 
         // now load all modules following the loading order.
