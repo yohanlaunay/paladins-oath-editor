@@ -10,6 +10,6 @@
 ---@param context Context: script execution context, also provides R/W access to mod state. See format in docs.
 ---@param gameState GameState: Mutable GameState. See format in docs Any changes to it will be read by the game after execution of this function.
 function OnTurnStarts(context, gameState)
-    print("Player is bleeding")
+    print("Automaton turn starts")
     gameState.Player.AcquireCard(GameValues.CardWoundId, GameValues.CardLocationHand)
 end
