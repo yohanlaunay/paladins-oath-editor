@@ -1,0 +1,1243 @@
+{
+  "GameResourceType": {
+    "Card": "Card",
+    "MapSection": "MapSection",
+    "Terrain": "Terrain",
+    "Location": "Location",
+    "Enemy": "Enemy",
+    "Follower": "Follower",
+    "Scoring": "Scoring",
+    "Blessing": "Blessing",
+    "Rewards": "Rewards",
+    "Oath": "Oath",
+    "Character": "Character",
+    "Scenario": "Scenario",
+    "ScenarioExtension": "ScenarioExtension",
+    "Language": "Language"
+  },
+  "GameResources": {
+    "Card": {
+      "card_fury": {
+        "id": "card_fury",
+        "name": "[Action (Starter)] Fury",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/4/46/Fury.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_iron_resolve": {
+        "id": "card_iron_resolve",
+        "name": "[Action (Starter)] Iron Resolve",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/3/35/Iron_resolve.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_frenzy": {
+        "id": "card_frenzy",
+        "name": "[Action (Starter)] Frenzy",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/f/f1/Frenzy.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_wayfinding": {
+        "id": "card_wayfinding",
+        "name": "[Action (Starter)] Wayfinding",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/0/08/Wayfinding.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_endurance": {
+        "id": "card_endurance",
+        "name": "[Action (Starter)] Endurance",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/0/0a/Endurance.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_prayer_of_healing": {
+        "id": "card_prayer_of_healing",
+        "name": "[Action (Starter)] Prayer of Healing",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/7/74/Prayer_of_healing.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_honour": {
+        "id": "card_honour",
+        "name": "[Action (Starter)] Honour",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/1/10/Honour.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_contract": {
+        "id": "card_contract",
+        "name": "[Action (Starter)] Contract",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/4/45/Contract.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_arcane_crafting": {
+        "id": "card_arcane_crafting",
+        "name": "[Action (Starter)] Arcane Crafting",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/2/23/Arcane_crafting.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_arcane_source": {
+        "id": "card_arcane_source",
+        "name": "[Action (Starter)] Arcane Source",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/a/af/Arcane_source.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_arcane_language": {
+        "id": "card_arcane_language",
+        "name": "[Action (Starter)] Arcane Language",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/b/b2/Arcane_language.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_preparation": {
+        "id": "card_preparation",
+        "name": "[Action (Starter)] Preparation",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/a/aa/Preparation.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_arcane_mastery": {
+        "id": "card_arcane_mastery",
+        "name": "[Action (Starter)] Arcane Mastery",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/9/9e/Arcane_mastery.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_righteousness": {
+        "id": "card_righteousness",
+        "name": "[Action (Starter)] Righteousness",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/4/49/Righteousness.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_cold_mastery": {
+        "id": "card_cold_mastery",
+        "name": "[Action (Starter)] Cold Mastery",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/b/bf/Cold_mastery.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_battlemaster": {
+        "id": "card_battlemaster",
+        "name": "[Action (Starter)] Battlemaster",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/1/18/Battlemaster.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_crystal_source": {
+        "id": "card_crystal_source",
+        "name": "[Action (Starter)] Crystal Source",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/d/d3/Crystal_source.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_goodberry": {
+        "id": "card_goodberry",
+        "name": "[Action (Starter)] Goodberry",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/9/9a/Goodberry.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_versatility": {
+        "id": "card_versatility",
+        "name": "[Action (Starter)] Versatility",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/9/91/Versatility.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_arcane_control": {
+        "id": "card_arcane_control",
+        "name": "[Action (Starter)] Arcane Control",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/8/8b/Arcane_control.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_acrobatics": {
+        "id": "card_acrobatics",
+        "name": "[Action (Starter)] Acrobatics",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/d/db/Acrobatics.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_forced_march": {
+        "id": "card_forced_march",
+        "name": "[Action (Starter)] Forced March",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/a/a2/Forced_march.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": true,
+          "groupingKey": "Action (Starter)"
+        }
+      },
+      "card_pyrokinesis": {
+        "id": "card_pyrokinesis",
+        "name": "[Action] Pyrokinesis",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/5/5e/Pyrokinesis.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_ice_manipulation": {
+        "id": "card_ice_manipulation",
+        "name": "[Action] Ice Manipulation",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/4/4f/Ice_Manipulation.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_invocation": {
+        "id": "card_invocation",
+        "name": "[Action] Invocation",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/b/bd/Invocation.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_telekinesis_bolt": {
+        "id": "card_telekinesis_bolt",
+        "name": "[Action] Telekinesis Bolt",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/2/27/Telekinesis_Bolt.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_berserk": {
+        "id": "card_berserk",
+        "name": "[Action] Berserk",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/4/44/Berserk.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_frost_saturation": {
+        "id": "card_frost_saturation",
+        "name": "[Action] Frost Saturation",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/6/62/Frost_Saturation.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_prowess": {
+        "id": "card_prowess",
+        "name": "[Action] Prowess",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/e/e6/Prowess.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_regeneration": {
+        "id": "card_regeneration",
+        "name": "[Action] Regeneration",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/5/53/Regeneration.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_subdue": {
+        "id": "card_subdue",
+        "name": "[Action] Subdue",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/8/89/Subdue.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_ice_dash": {
+        "id": "card_ice_dash",
+        "name": "[Action] Ice Dash",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/5/51/Ice_dash.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_cloud_walking": {
+        "id": "card_cloud_walking",
+        "name": "[Action] Cloud Walking",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/1/17/Cloud_Walking.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_summon_mount": {
+        "id": "card_summon_mount",
+        "name": "[Action] Summon Mount",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/e/e8/Summon_mount.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_sanguine_evocation": {
+        "id": "card_sanguine_evocation",
+        "name": "[Action] Sanguine Evocation",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/7/74/Sanguine_evocation.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_incarnum": {
+        "id": "card_incarnum",
+        "name": "[Action] Incarnum",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/b/bb/Incarnum.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_life_transference": {
+        "id": "card_life_transference",
+        "name": "[Action] Life Transference",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/5/5a/Life_transference.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_tireless": {
+        "id": "card_tireless",
+        "name": "[Action] Tireless",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/f/f1/Tireless.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_scare_tactics": {
+        "id": "card_scare_tactics",
+        "name": "[Action] Scare Tactics",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/7/7b/Scare_tactics.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_blood_pact": {
+        "id": "card_blood_pact",
+        "name": "[Action] Blood Pact",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/a/ae/Blood_pact.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_entropy_manipulation": {
+        "id": "card_entropy_manipulation",
+        "name": "[Action] Entropy Manipulation",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/0/0d/Entropy_manipulation.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_indomitable_rage": {
+        "id": "card_indomitable_rage",
+        "name": "[Action] Indomitable Rage",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/0/0a/Indomitable_rage.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_riposte": {
+        "id": "card_riposte",
+        "name": "[Action] Riposte",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/d/de/Riposte.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_transmutation": {
+        "id": "card_transmutation",
+        "name": "[Action] Transmutation",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/c/cd/Transmutation.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_rooted_faith": {
+        "id": "card_rooted_faith",
+        "name": "[Action] Rooted Faith",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/d/d3/Rooted_faith.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_mana_abjuration": {
+        "id": "card_mana_abjuration",
+        "name": "[Action] Mana Abjuration",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/d/db/Mana_abjuration.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_glorious_death": {
+        "id": "card_glorious_death",
+        "name": "[Action] Glorious Death",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/4/4c/Glorious_Death.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_power_word": {
+        "id": "card_power_word",
+        "name": "[Action] Power Word",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/e/e0/Power_word.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_flesh_to_stone": {
+        "id": "card_flesh_to_stone",
+        "name": "[Action] Flesh to Stone",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/6/69/Flesh_to_stone.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_lightning_blast": {
+        "id": "card_lightning_blast",
+        "name": "[Action] Lightning Blast",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/0/08/Lightning_blast.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_arcane_mimicry": {
+        "id": "card_arcane_mimicry",
+        "name": "[Action] Arcane Mimicry",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/d/d4/Arcane_mimicry.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_archetype": {
+        "id": "card_archetype",
+        "name": "[Action] Archetype",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/b/b2/Archetype.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_ascension": {
+        "id": "card_ascension",
+        "name": "[Action] Ascension",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/c/cb/Ascension.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_blood_rite": {
+        "id": "card_blood_rite",
+        "name": "[Action] Blood Rite",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/c/cb/Blood_rite.png",
+        "properties": {
+          "cardType": "Action",
+          "isStarter": false,
+          "groupingKey": "Action"
+        }
+      },
+      "card_fire_artillery": {
+        "id": "card_fire_artillery",
+        "name": "[Spell] Fire Artillery",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/f/f8/Fire_artillery.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_arctic_reckoning": {
+        "id": "card_arctic_reckoning",
+        "name": "[Spell] Arctic Reckoning",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/0/0b/Artic_reckoning.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_enfeeble": {
+        "id": "card_enfeeble",
+        "name": "[Spell] Enfeeble",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/2/26/Enfeeble.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_shock_wave": {
+        "id": "card_shock_wave",
+        "name": "[Spell] Shockwave",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/6/65/Shockwave.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_pyrokinetic_combat": {
+        "id": "card_pyrokinetic_combat",
+        "name": "[Spell] Pyrokinetic Combat",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/7/75/Pyrokinetic_combat.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_astral_rift": {
+        "id": "card_astral_rift",
+        "name": "[Spell] Astral Rift",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/e/e1/Astral_rift.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_cloud_kill": {
+        "id": "card_cloud_kill",
+        "name": "[Spell] Cloud Kill",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/e/e0/Cloud_kill.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_fire_ward": {
+        "id": "card_fire_ward",
+        "name": "[Spell] Fire Ward",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/e/e9/Fire_ward.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_glacial_heart": {
+        "id": "card_glacial_heart",
+        "name": "[Spell] Glacial Heart",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/2/25/Glacial_heart.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_levitate": {
+        "id": "card_levitate",
+        "name": "[Spell] Levitate",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/a/ad/Levitate.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_sylvanism": {
+        "id": "card_sylvanism",
+        "name": "[Spell] Sylvanism",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/d/db/Sylvanism.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_impurity_destruction": {
+        "id": "card_impurity_destruction",
+        "name": "[Spell] Impurity Destruction",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/2/2c/Impurity_destruction.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_crystal_siege": {
+        "id": "card_crystal_siege",
+        "name": "[Spell] Crystal Siege",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/7/7f/Crystal_siege.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_ethereal_form": {
+        "id": "card_ethereal_form",
+        "name": "[Spell] Ethereal Form",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/a/ae/Ethereal_form.png",
+        "properties": {
+          "cardType": "Spell",
+          "isStarter": false,
+          "groupingKey": "Spell"
+        }
+      },
+      "card_mark_of_the_tyrant": {
+        "id": "card_mark_of_the_tyrant",
+        "name": "[Relic] Mark of the Tyrant",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/8/8c/Mark_of_the_tyrant.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      },
+      "card_angelic_tears": {
+        "id": "card_angelic_tears",
+        "name": "[Relic] Angelic Tears",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/f/f0/Angelic_tears.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      },
+      "card_crimson_shroud": {
+        "id": "card_crimson_shroud",
+        "name": "[Relic] Crimson Shroud",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/f/fe/Crimson_shroud.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      },
+      "card_cerulean_mantle": {
+        "id": "card_cerulean_mantle",
+        "name": "[Relic] Cerulean Mantle",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/d/d9/Cerulean_mantle.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      },
+      "card_silvermoon_cloak": {
+        "id": "card_silvermoon_cloak",
+        "name": "[Relic] Silvermoon Cloak",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/a/a2/Silvermoon_cloak.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      },
+      "card_smaragdine_cape": {
+        "id": "card_smaragdine_cape",
+        "name": "[Relic] Smaragdine Cape",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/f/fb/Smaragdine_cape.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      },
+      "card_holy_slayer_ring": {
+        "id": "card_holy_slayer_ring",
+        "name": "[Relic] Holy Slayer Ring",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/f/f6/Holy_slayer_ring.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      },
+      "card_ethereal_crucifix": {
+        "id": "card_ethereal_crucifix",
+        "name": "[Relic] Ethereal Crucifix",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/6/60/Ethereal_crucifix.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      },
+      "card_sacred_scroll": {
+        "id": "card_sacred_scroll",
+        "name": "[Relic] Sacred Scroll",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/e/eb/Sacred_scroll.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      },
+      "card_conjurer_writ": {
+        "id": "card_conjurer_writ",
+        "name": "[Relic] Writ of the Conjurer",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/1/17/Conjurer_writ.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      },
+      "card_chalice_of_power": {
+        "id": "card_chalice_of_power",
+        "name": "[Relic] Chalice of Power",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/b/b4/Chalice_of_power.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      },
+      "card_holy_shield": {
+        "id": "card_holy_shield",
+        "name": "[Relic] Holy Shield",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/b/b1/Holy_shield.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      },
+      "card_shadow_puppets": {
+        "id": "card_shadow_puppets",
+        "name": "[Relic] Shadow Puppets",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/9/9c/Shadow_puppets.png",
+        "properties": {
+          "cardType": "Relic",
+          "isStarter": false,
+          "groupingKey": "Relic"
+        }
+      }
+    },
+    "MapSection": {
+      "map_section_reg_1": {
+        "id": "map_section_reg_1",
+        "name": "[Regular] 1",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/5/53/Map_section_reg_1.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_2": {
+        "id": "map_section_reg_2",
+        "name": "[Regular] 2",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/a/a6/Map_section_reg_2.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_3": {
+        "id": "map_section_reg_3",
+        "name": "[Regular] 3",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/7/7b/Map_section_reg_3.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_4": {
+        "id": "map_section_reg_4",
+        "name": "[Regular] 4",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/e/eb/Map_section_reg_4.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_5": {
+        "id": "map_section_reg_5",
+        "name": "[Regular] 5",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/1/19/Map_section_reg_5.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_6": {
+        "id": "map_section_reg_6",
+        "name": "[Regular] 6",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/0/08/Map_section_reg_6.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_7": {
+        "id": "map_section_reg_7",
+        "name": "[Regular] 7",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/a/ac/Map_section_reg_7.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_8": {
+        "id": "map_section_reg_8",
+        "name": "[Regular] 8",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/c/ce/Map_section_reg_8.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_9": {
+        "id": "map_section_reg_9",
+        "name": "[Regular] 9",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/1/1e/Map_section_reg_9.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_10": {
+        "id": "map_section_reg_10",
+        "name": "[Regular] 10",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/3/38/Map_section_reg_10.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_11": {
+        "id": "map_section_reg_11",
+        "name": "[Regular] 11",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/6/65/Map_section_reg_11.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_12": {
+        "id": "map_section_reg_12",
+        "name": "[Regular] 12",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/5/56/Map_section_reg_12.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_13": {
+        "id": "map_section_reg_13",
+        "name": "[Regular] 13",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/2/27/Map_section_reg_13.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_reg_14": {
+        "id": "map_section_reg_14",
+        "name": "[Regular] 14",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/9/9e/Map_section_reg_14.png",
+        "properties": {
+          "sectionType": "Regular",
+          "groupingKey": "Regular"
+        }
+      },
+      "map_section_core_1": {
+        "id": "map_section_core_1",
+        "name": "[Core] 1",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/a/a9/Map_section_core_1.png",
+        "properties": {
+          "sectionType": "Core",
+          "groupingKey": "Core"
+        }
+      },
+      "map_section_core_2": {
+        "id": "map_section_core_2",
+        "name": "[Core] 2",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/8/88/Map_section_core_2.png",
+        "properties": {
+          "sectionType": "Core",
+          "groupingKey": "Core"
+        }
+      },
+      "map_section_core_3": {
+        "id": "map_section_core_3",
+        "name": "[Core] 3",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/c/c0/Map_section_core_3.png",
+        "properties": {
+          "sectionType": "Core",
+          "groupingKey": "Core"
+        }
+      },
+      "map_section_core_4": {
+        "id": "map_section_core_4",
+        "name": "[Core] 4",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/e/e5/Map_section_core_4.png",
+        "properties": {
+          "sectionType": "Core",
+          "groupingKey": "Core"
+        }
+      },
+      "map_section_core_5": {
+        "id": "map_section_core_5",
+        "name": "[Core] 5",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/5/5a/Map_section_core_5.png",
+        "properties": {
+          "sectionType": "Core",
+          "groupingKey": "Core"
+        }
+      },
+      "map_section_core_6": {
+        "id": "map_section_core_6",
+        "name": "[Core] 1",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/0/09/Map_section_core_6.png",
+        "properties": {
+          "sectionType": "Core",
+          "groupingKey": "Core"
+        }
+      },
+      "map_section_core_special_citadel_w": {
+        "id": "map_section_core_special_citadel_w",
+        "name": "[Special] White Citadel",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/c/c5/Map_section_core_special_citadel_w.png",
+        "properties": {
+          "sectionType": "Core",
+          "groupingKey": "Citadel"
+        }
+      },
+      "map_section_core_special_citadel_b": {
+        "id": "map_section_core_special_citadel_b",
+        "name": "[Special] Blue Citadel",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/4/46/Map_section_core_special_citadel_b.png",
+        "properties": {
+          "sectionType": "Core",
+          "groupingKey": "Citadel"
+        }
+      },
+      "map_section_core_special_citadel_g": {
+        "id": "map_section_core_special_citadel_g",
+        "name": "[Special] Green Citadel",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/0/0e/Map_section_core_special_citadel_g.png",
+        "properties": {
+          "sectionType": "Core",
+          "groupingKey": "Citadel"
+        }
+      },
+      "map_section_core_special_citadel_r": {
+        "id": "map_section_core_special_citadel_r",
+        "name": "[Special] Red Citadel",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/2/20/Map_section_core_special_citadel_r.png",
+        "properties": {
+          "sectionType": "Core",
+          "groupingKey": "Citadel"
+        }
+      },
+      "map_section_core_special_camp": {
+        "id": "map_section_core_special_camp",
+        "name": "[Special] Camp",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/d/d2/Map_section_core_special_camp.png",
+        "properties": {
+          "sectionType": "Core",
+          "groupingKey": "Special"
+        }
+      },
+      "map_section_starter_circular": {
+        "id": "map_section_starter_circular",
+        "name": "[Starter] Circular",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/b/be/Map_section_starter_circular.png",
+        "properties": {
+          "sectionType": "Starter",
+          "groupingKey": "Starter"
+        }
+      },
+      "map_section_starter_cone": {
+        "id": "map_section_starter_cone",
+        "name": "[Starter] Cone",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/f/f1/Map_section_starter_cone.png",
+        "properties": {
+          "sectionType": "Starter",
+          "groupingKey": "Starter"
+        }
+      },
+      "map_section_starter_corridor": {
+        "id": "map_section_starter_corridor",
+        "name": "[Starter] Corridor",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/2/28/Map_section_starter_corridor.png",
+        "properties": {
+          "sectionType": "Starter",
+          "groupingKey": "Starter"
+        }
+      },
+      "map_section_starter_corridor_tight": {
+        "id": "map_section_starter_corridor_tight",
+        "name": "[Starter] Corridor Tight",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/9/9d/Map_section_starter_corridor_tight.png",
+        "properties": {
+          "sectionType": "Starter",
+          "groupingKey": "Starter"
+        }
+      }
+    },
+    "Terrain": {
+      "terrain__desert": {
+        "id": "terrain__desert",
+        "name": "Desert [5/3]",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/4/45/Desert_tile.png",
+        "properties": {}
+      },
+      "terrain__forest": {
+        "id": "terrain__forest",
+        "name": "Forest [3/5]",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/f/ff/Forest_tile.png",
+        "properties": {}
+      },
+      "terrain__hills": {
+        "id": "terrain__hills",
+        "name": "Hills [3/3]",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/3/3c/Hills_tile.png",
+        "properties": {}
+      },
+      "terrain__lake": {
+        "id": "terrain__lake",
+        "name": "Lake [X/X]",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/e/e5/Lake_tile.png",
+        "properties": {}
+      },
+      "terrain__marsh": {
+        "id": "terrain__marsh",
+        "name": "Marsh [4/4]",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/3/34/Marsh_tile.png",
+        "properties": {}
+      },
+      "terrain__mountains": {
+        "id": "terrain__mountains",
+        "name": "Mountains [X/X]",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/d/d2/Mountains_tile.png",
+        "properties": {}
+      },
+      "terrain__plains": {
+        "id": "terrain__plains",
+        "name": "Plains [2/2]",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/c/c8/Plains_tile.png",
+        "properties": {}
+      },
+      "terrain__swamp": {
+        "id": "terrain__swamp",
+        "name": "Swamp [5/5]",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/6/6d/Swamp_tile.png",
+        "properties": {}
+      }
+    },
+    "Location": {
+      "location_krak": {
+        "id": "location_krak",
+        "name": "Krak",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/d/da/Krak1_icon.png",
+        "properties": {}
+      },
+      "location_spire": {
+        "id": "location_spire",
+        "name": "Spire",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/8/86/Spire1_icon.png",
+        "properties": {}
+      },
+      "location_citadel_blue": {
+        "id": "location_citadel_blue",
+        "name": "Citadel of Scahyrst (Blue)",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/8/89/Citadel_icon_%28Blue%29.png",
+        "properties": {}
+      },
+      "location_citadel_red": {
+        "id": "location_citadel_red",
+        "name": "Citadel of Mistmoor (Red)",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/0/0f/Citadel_icon_%28Red%29.png",
+        "properties": {}
+      },
+      "location_citadel_green": {
+        "id": "location_citadel_green",
+        "name": "Citadel of Valmynne (Green)",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/b/b4/Citadel_icon_%28Green%29.png",
+        "properties": {}
+      },
+      "location_citadel_white": {
+        "id": "location_citadel_white",
+        "name": "Citadel of Barad (White)",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/0/07/Citadel_icon_%28White%29.png",
+        "properties": {}
+      },
+      "location_labyrinth": {
+        "id": "location_labyrinth",
+        "name": "Labyrinth",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/c/c9/Labyrinth1_icon.png",
+        "properties": {}
+      },
+      "location_maze": {
+        "id": "location_maze",
+        "name": "Maze",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/f/f4/Maze1_icon.png",
+        "properties": {}
+      },
+      "location_tomb": {
+        "id": "location_tomb",
+        "name": "Tomb",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/6/6b/Tomb1_icon.png",
+        "properties": {}
+      },
+      "location_ruins": {
+        "id": "location_ruins",
+        "name": "Ruins",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/e/ec/Ruins1_icon.png",
+        "properties": {}
+      },
+      "location_dungeon": {
+        "id": "location_dungeon",
+        "name": "Dungeon",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/9/9a/Dungeon1_icon.png",
+        "properties": {}
+      },
+      "location_hideout": {
+        "id": "location_hideout",
+        "name": "Hideout",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/7/7a/Hideout1_icon.png",
+        "properties": {}
+      },
+      "location_hallowed": {
+        "id": "location_hallowed",
+        "name": "Hallowed Site",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/f/f8/Hallowed1_icon.png",
+        "properties": {}
+      },
+      "location_portal": {
+        "id": "location_portal",
+        "name": "Portal",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/7/7b/Portal1_icon.png",
+        "properties": {}
+      },
+      "location_village": {
+        "id": "location_village",
+        "name": "Village",
+        "image": "https://static.wikia.nocookie.net/paladinsoath/images/6/63/Village1_icon.png",
+        "properties": {}
+      },
+      "location_market": {
+        "id": "location_market",
+        "name": "Bazaar",
+        "image": "",
+        "properties": {}
+      }
+    }
+  }
+}
