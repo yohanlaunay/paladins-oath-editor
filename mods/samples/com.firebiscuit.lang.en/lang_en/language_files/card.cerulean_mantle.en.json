@@ -1,0 +1,5 @@
+{
+    "card.data.cerulean_mantle.name":"Cerulean Mantle",
+    "card.data.cerulean_mantle.actions.basic":"Gain a <style=\"value\">Blue</style> Mana and a <style=\"value\">Blue</style> Crystal.\n<style=\"value\">+1 XP</style>",
+    "card.data.cerulean_mantle.actions.throw":"<style=\"sacrifice\">Destroy</style> to generate an <style=\"status\">Endless</style> supply of <style=\"value\">Blue</style> and <style=\"value\">Black</style> Mana.\n<style=\"value\">+1 XP</style> for each <style=\"value\">Blue Spell</style> you <style=\"status\">Cast</style>"
+}

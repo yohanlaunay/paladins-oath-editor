@@ -1,0 +1,4 @@
+{
+    "skill.data.raven_vision.name":"Raven Vision",
+    "skill.data.raven_vision.combo":"<i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">1</style> <size=-5>(<style=\"status\">Day</style>)</size>\n<i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">2</style> <size=-5>(<style=\"status\">Night</style>)</size>"
+}

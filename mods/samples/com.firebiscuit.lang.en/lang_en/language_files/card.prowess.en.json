@@ -1,0 +1,5 @@
+{
+    "card.data.prowess.name": "Prowess",
+    "card.data.prowess.actions.basic": "Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>.\nYou can use Move as Attack this turn",
+    "card.data.prowess.actions.advanced": "Move<sprite name=\"card_icon_move\"><style=\"value\">4</style>. You can use:\n<style=\"value\">1</style> Move as Attack<sprite name=\"card_icon_attack\"><style=\"value\">1</style> <b>or</b>\n<style=\"value\">2</style> Move as <i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">1</style>"
+}

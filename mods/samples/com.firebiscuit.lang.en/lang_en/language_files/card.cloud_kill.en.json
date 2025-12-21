@@ -1,0 +1,5 @@
+{
+    "card.data.cloud_kill.name":"Cloud Kill",
+    "card.data.cloud_kill.actions.basic":"Targeted Enemy <style=\"status\">does not</style> Attack",
+    "card.data.cloud_kill.actions.advanced":"<style=\"status\">Destroy</style> targeted Enemy <i>(<style=\"value\">Attack Phase</style> only)</i>"
+}

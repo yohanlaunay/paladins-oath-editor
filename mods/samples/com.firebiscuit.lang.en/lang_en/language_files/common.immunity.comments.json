@@ -1,0 +1,5 @@
+{
+    "immunity.condition.except{0}":"List of Immunities (comma<space> separated). Example: 'Arcane, Physical'",
+    "immunity.condition.if{0}":"List of Immunities (comma<space> separated). Example: 'Arcane, Physical'",
+    "immunity.condition.list{0}":"List of Immunities (comma<space> separated). Example: 'Arcane, Physical'"
+}

@@ -1,0 +1,4 @@
+{
+    "skill.data.crystallic_hypnosis.name":"Crystallic Hypnosis",
+    "skill.data.crystallic_hypnosis.combo":"During <style=\"status\">Interactions</style>, Leadership<sprite name=\"card_icon_influence\"><style=\"value\">1</style> for <style=\"value\">each</style> distinct Crystal Colors in your Inventory"
+}

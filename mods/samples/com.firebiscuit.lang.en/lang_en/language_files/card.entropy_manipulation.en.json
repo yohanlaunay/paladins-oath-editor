@@ -1,0 +1,9 @@
+{
+    "card.data.entropy_manipulation.name": "Entropy Manipulation",
+    "card.data.entropy_manipulation.actions.basic": "<style=\"sacrifice\">Sacrifice</style> an <style=\"value\">Action</style> card to Gain <style=\"value\">2</style> crystals of the <style=\"status\">same color</style> as the card",
+    "card.data.entropy_manipulation.actions.advanced": "<style=\"sacrifice\">Sacrifice</style> an <style=\"value\">Action</style> card to Gain a crystal of <style=\"value\">each basic color</style> that <style=\"status\">does not match</style> the color of the card",
+    "card.data.entropy_manipulation.actions.sacrifice.white":"<style=\"sacrifice\">Sacrifice</style> a <style=\"value\">White</style> Action card",
+    "card.data.entropy_manipulation.actions.sacrifice.red":"<style=\"sacrifice\">Sacrifice</style> a <style=\"value\">Red</style> Action card",
+    "card.data.entropy_manipulation.actions.sacrifice.green":"<style=\"sacrifice\">Sacrifice</style> a <style=\"value\">Green</style> Action card",
+    "card.data.entropy_manipulation.actions.sacrifice.blue":"<style=\"sacrifice\">Sacrifice</style> a <style=\"value\">Blue</style> Action card"
+}

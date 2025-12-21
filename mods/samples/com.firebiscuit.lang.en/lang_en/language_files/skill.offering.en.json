@@ -1,0 +1,6 @@
+{
+    "skill.data.offering.name":"Offering",
+    "skill.data.offering.combo":"The <style=\"status\">default</style> action of one <style=\"status\">Starter</style> Card gives <style=\"value\">+2</style> instead of <style=\"value\">+1</style>. Any other <i>(non-wounds)</i> card will give <style=\"value\">+3</style> instead",
+    "skill.data.offering.combo.starter":"The <style=\"status\">default</style> action of one <style=\"status\">Starter</style> Card gives <style=\"value\">+2</style> instead of <style=\"value\">+1</style>",
+    "skill.data.offering.combo.non_starter":"The <style=\"status\">default</style> action of one <style=\"status\">Non-Starter</style> Card gives <style=\"value\">+3</style> instead of <style=\"value\">+1</style>"
+}

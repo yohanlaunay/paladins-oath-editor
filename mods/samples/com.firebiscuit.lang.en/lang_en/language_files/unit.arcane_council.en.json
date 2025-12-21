@@ -1,0 +1,9 @@
+{
+    "unit.data.arcane_council.name":"Arcane Council",
+    "unit.data.arcane_council.lore":"The council is formed by the four highest wizards and conjurers from the Arcane Order. They are only seen in the most dire of circumstances. All council members can cast spells at the same time.",
+    "unit.data.arcane_council.combo.0":"<style=\"status\">Cancel</style> an Enemy Attack",
+    "unit.data.arcane_council.combo.1":"Target an Enemy to be <style=\"sacrifice\">Destroyed</style> if <style=\"status\">Blocked</style>",
+    "unit.data.arcane_council.combo.2":"<style=\"status\">Reduce</style> an Enemy's Armor by <style=\"value\">5</style>",
+    "unit.data.arcane_council.combo.3":"<style=\"status\">Remove</style> <b>Resistances</b> and <b>Fortifications</b> of one Enemy",
+    "unit.data.arcane_council.description.visuals":"Group of four wizards. One bald bearded man with large gems around his neck. A short silver-haired women with a long grey cape. A dark elf with large pointy purple hood carrying a diamond-shaped purple gem. A red-head woman with curly hairs and a long uncovered neck and shoulders."
+}

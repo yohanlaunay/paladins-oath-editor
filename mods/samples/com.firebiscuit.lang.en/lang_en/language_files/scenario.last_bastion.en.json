@@ -1,0 +1,5 @@
+{
+    "scenario.data.last_bastion.name":"The Last Bastion",
+    "scenario.data.last_bastion.description":"You have rid the land of most of the invaders from the Conjunction of the Planes with the exception of <style=\"value\">one last Citadel</style>. The remaining invaders all hunkered down in this now <style=\"status\">heavily guarded</style> bastion.",
+    "scenario.data.last_bastion.win.0":"The <style=\"value\">Citadel</style> must be <style=\"status\">Conquered</style> before the end of the last Round."
+}

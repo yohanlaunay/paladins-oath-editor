@@ -1,0 +1,5 @@
+{
+    "card.data.arctic_reckoning.name":"Arctic Reckoning",
+    "card.data.arctic_reckoning.actions.basic":"<i>Range</i> <style=\"value\">Frost</style> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">5</style>",
+    "card.data.arctic_reckoning.actions.advanced":"Take a <style=\"wound\">Wound</style>.\n<i>Siege</i> <style=\"value\">Frost</style> Attack<sprite name=\"card_icon_attack_siege\"><style=\"value\">8</style>"
+}

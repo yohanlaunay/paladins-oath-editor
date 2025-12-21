@@ -1,0 +1,4 @@
+{
+    "skill.data.dark_vision.name":"Dark Vision",
+    "skill.data.dark_vision.combo":"Move<sprite name=\"card_icon_move\"><style=\"value\">1</style> <size=-5>(<style=\"status\">Day</style>)</size>\nMove<sprite name=\"card_icon_move\"><style=\"value\">2</style> <size=-5>(<style=\"status\">Night</style>)</size>"
+}

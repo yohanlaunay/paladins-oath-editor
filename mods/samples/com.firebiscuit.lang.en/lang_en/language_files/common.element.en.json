@@ -1,0 +1,15 @@
+{
+    "element.condition.any":"<style=\"value\">ANY</style> Element",
+    "element.condition.except":"Except <style=\"value\">{0}</style> Elements",
+    "element.condition.if":"If <style=\"value\">{0}</style>",
+    "element.condition.list":"<style=\"value\">{0}</style> Element",
+    "element.condition.none":"<style=\"value\">NO</style>",
+    "element.conversion":"Convert <style=\"value\">{0}</style> to <style=\"value\">{1}</style>",
+    "resistance.condition.any":"<style=\"value\">ANY</style> <style=\"status\">Resistance</style>",
+    "resistance.condition.except":"Except <style=\"status\">Resistance</style> to <style=\"value\">{0}</style>",
+    "resistance.condition.if":"If <style=\"value\">{0}</style> <style=\"status\">Resistance</style>",
+    "resistance.condition.list":"<style=\"value\">{0}</style> <style=\"status\">Resistance</style>",
+    "resistance.condition.none":"<style=\"value\">NO</style>",
+    "resistance.help.name":"Resistances",
+    "resistance.help.description":"Some Enemies or Followers have Resistances to certain type Elements or Physical Resistance. Resistances on Enemies make Attacks or Blocks of the same type inefficient requiring double the amount. Resistances on Followers means that before taking damage of the resistant type, the damage is first reduced by the Armor value"
+}

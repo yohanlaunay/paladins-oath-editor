@@ -1,0 +1,7 @@
+{
+    "unit.data.falconeer.name":"Falconeer",
+    "unit.data.falconeer.lore":"Falconeers come from lands filled with swamps and bogs, they domesticated all kinds of birds of Prey that help them hunt in hazardous terrain. Falconeers are deadly in Battle as they can blind, distract or hurt their opponents without being seen.",
+    "unit.data.falconeer.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.falconeer.combo.1":"<i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">2</style>",
+    "unit.data.falconeer.description.visuals":"Small Humanoid creature, could be a child or a little person in size. Fully covered with metallic armor from head to toe with two holes for his sight. A metallic owl or falcon is resting on his extended arm."
+}

@@ -1,0 +1,27 @@
+{
+    "skill.descriptor":"Blessing <style=\"value\">{0}</style>",
+    "skill.activated.before_battle.description":"The Blessing has been <style=\"status\">Activated</style> before the Battle started and cannot be activated again until the next Day/Night cycle or the next Battle / Exploration phase - depending on the <style=\"status\">Refresh</style> conditions.",
+    "skill.activated.for_payment.description":"The Blessing has been <style=\"status\">Used</style> for Payment of other <i>Abilities and Effects</i> and cannot be activated unless you <style=\"status\">Deactivate</style> the other entity that uses it.",
+    "skill.condition.once_per_round.description":"This Blessing can be activated <style=\"value\">Once</style> per <style=\"status\">Day/Night</style> cycle",
+    "skill.deactivation.content":"You are about to <style=\"status\">Deactivate</style> the effects and side-effects triggered by this Blessing.\n\nYou can <style=\"status\">Reactivate</style> them by clicking on the Blessing again.\n\n<b>Continue?</b>",
+    "skill.deactivation.title":"<style=\"status\">Deactivate</style> this Blessing",
+    "skill.locked.title":"Blessing cannot be activated",
+    "skill.passive.title":"Passive Blessing",
+    "skill.passive.description":"This Blessing only provide passive Effects that are automatically activated",
+    "skill.selection.panel.activate_btn":"Select",
+    "skill.selection.panel.empty":"No valid Blessing to select.",
+    "skill.selection.panel.title.default": {
+        "1": "Select <style=\"value\">{0}</style> Blessing",
+        "n": "Select <style=\"value\">{0}</style> Blessings",
+        "t": 1},
+    "skill.status.exhausted.description":"The Blessing has been <style=\"status\">Activated</style> and cannot be activated again until the next Day/Night cycle or the next Battle / Exploration phase - depending on the <style=\"status\">Refresh</style> conditions.",
+    "skills.panel.description":"This panel shows all your Blessings: powerful abilities granted by your deity to help with your Crusade.",
+    "skills.panel.empty":"You haven't acquired any Blessings yet. They are typically awarded when you <style=\"status\">Level-Up</style>.",
+    "skills.panel.title":"Blessings",
+    "skills.list.title":"Blessings",
+    "skills.list.empty":"No Blessings",
+    "skills.help.name":"Blessings",
+    "skills.help.description":"When you level-up you may gain a Blessing from your God. These are very powerful Abilities usable once a Round or Turn (see icon for details)",
+    "skills.help.refresh.name":"Refreshing Blessings",
+    "skills.help.refresh.description":"Some powerful Blessings are only refreshed at the end of the Round"
+}

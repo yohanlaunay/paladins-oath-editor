@@ -1,0 +1,4 @@
+{
+    "skill.data.eerie_riposte.name":"Eerie Riposte",
+    "skill.data.eerie_riposte.combo":"Block<sprite name=\"card_icon_block\"><style=\"value\">1</style> <b>then</b> <style=\"status\">Reduce</style> Enemy <b>Armor</b> by <style=\"value\">1</style>"
+}

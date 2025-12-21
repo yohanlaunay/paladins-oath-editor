@@ -1,0 +1,13 @@
+{
+    "location.data.spire.descriptor":"Spire",
+    "location.data.spire.name":"Spire",
+    "location.data.spire.reward.name":"Arcane Discovery",
+    "location.data.spire.effect.training":"<style=\"status\">Learn</style> <style=\"value\">Spells</style> from the Market for <style=\"value\">7</style> Leadership + <style=\"value\">Mana</style> of the <style=\"status\">same</style> color as the spell.",
+    "location.data.spire.effect.recruitment":"<style=\"status\">Recruit</style> <style=\"value\">Followers</style>.",
+    "location.data.spire.unconquered.title":"Unconquered",
+    "location.data.spire.unrevealed.tooltip.header":"Unrevealed Enemies",
+    "location.data.spire.unrevealed.tooltip.content":"Enemies guarding this Spire will be revealed during the <style=\"value\">Day</style> if you are <style=\"status\">adjacent</style> to it.",
+    "location.data.spire.interaction.training.label":"Learn Spells",
+    "location.data.spire.purchase.spell.title":"Learn Spells",
+    "location.data.spire.purchase.spell.btn.label":"Learn"
+}

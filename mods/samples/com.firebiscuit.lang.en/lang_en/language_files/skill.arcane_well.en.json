@@ -1,0 +1,4 @@
+{
+    "skill.data.arcane_well.name":"Arcane Well",
+    "skill.data.arcane_well.combo":"Generate a <style=\"value\">Mana</style> of any color <style=\"status\">except</style> <style=\"value\">Gold</style>"
+}

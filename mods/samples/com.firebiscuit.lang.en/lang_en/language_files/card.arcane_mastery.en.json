@@ -1,0 +1,5 @@
+{
+    "card.data.arcane_mastery.name":"Arcane Mastery",
+    "card.data.arcane_mastery.actions.basic":"Gain <style=\"value\">Blue</style>, <style=\"value\">White</style> or <style=\"value\">Red</style> Mana <b>or</b> a <style=\"value\">Green</style> Crystal",
+    "card.data.arcane_mastery.actions.advanced":"Gain <style=\"status\">Advanced Effects</style> of a Card for <style=\"value\">Free</style>.\n<style=\"value\">+3</style> to Attack, Block, Leadership or Movement it generates"
+}

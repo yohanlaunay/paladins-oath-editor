@@ -1,0 +1,10 @@
+{
+    "map.tile.starter.name":"Starter Tile",
+    "map.tile.starter.description":"Starting tile automatically placed when the hero first arrives on the Map.",
+    "map.tile.regular.name":"Regular Tile",
+    "map.tile.regular.description":"When <style=\"status\">Exploring</style>, these tiles can be placed anywhere.",
+    "map.tile.core.name":"Core Tile",
+    "map.tile.core.description":"When <style=\"status\">Exploring</style>, these tiles can only be placed <style=\"status\">adjacent</style> to <style=\"value\">2</style> other tiles.",
+    "map.show.btn.label":"Show Map",
+    "map.hide.btn.label":"Hide Map"
+}

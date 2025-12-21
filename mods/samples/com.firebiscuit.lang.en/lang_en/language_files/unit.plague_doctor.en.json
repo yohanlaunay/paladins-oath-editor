@@ -1,0 +1,7 @@
+{
+    "unit.data.plague_doctor.name":"Plague Doctor",
+    "unit.data.plague_doctor.lore":"Medical practitioners that study the art of diseases, poison and decay. They are often seen roaming Temples and hospices collecting samples from dead or diseased bodies.",
+    "unit.data.plague_doctor.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.plague_doctor.combo.1":"<i>Siege</i> Attack<sprite name=\"card_icon_attack_siege\"><style=\"value\">4</style>",
+    "unit.data.plague_doctor.description.visuals":"Human wearing a grey and green outfit, fully covering his face and body using leather clothing and a mask with a long beak. His leather belt is carrying multiple flasks filled with a green bubbly liquid."
+}

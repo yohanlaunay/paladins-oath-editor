@@ -1,0 +1,17 @@
+{
+    "card.data.sylvanism.name":"Sylvanism",
+    "card.data.sylvanism.actions.basic":"Heal<sprite name=\"card_icon_heal\"><style=\"value\">3</style> or Heal<sprite name=\"card_icon_heal\"><style=\"value\">5</style> in a Forest",
+    "card.data.sylvanism.actions.advanced":"Heal<sprite name=\"card_icon_heal\"><style=\"value\">3</style> or Heal<sprite name=\"card_icon_heal\"><style=\"value\">5</style> in a Forest.\n<style=\"status\">Refresh</style> up to <style=\"status\">3</style> levels worth of Followers or <style=\"status\">5</style> levels worth in a Forest",
+    "card.data.sylvanism.actions.advanced.heal":"Heal<sprite name=\"card_icon_heal\"><style=\"value\">3</style> or Heal<sprite name=\"card_icon_heal\"><style=\"value\">5</style> in a Forest",
+    "card.data.sylvanism.actions.advanced.refresh":"<style=\"status\">Refresh</style> up to <style=\"status\">3</style> levels worth of Followers or <style=\"status\">5</style> levels worth in a Forest",
+    "card.data.sylvanism.actions.advanced.forest":"<style=\"status\">Refresh</style> <style=\"status\">5</style> levels-worth of Followers while in a Forest",
+    "card.data.sylvanism.actions.advanced.not_forest":"<style=\"status\">Refresh</style> <style=\"status\">3</style> levels-worth of Followers",
+    "card.data.sylvanism.actions.advanced.111":"<style=\"status\">Refresh</style> <style=\"value\">3x</style> Level <style=\"status\">1</style> Followers",
+    "card.data.sylvanism.actions.advanced.12":"<style=\"status\">Refresh</style> a Level <style=\"status\">1</style> and a Level <style=\"status\">2</style> Follower",
+    "card.data.sylvanism.actions.advanced.11111":"<style=\"status\">Refresh</style> <style=\"value\">5x</style> Level <style=\"status\">1</style> Followers",
+    "card.data.sylvanism.actions.advanced.1112":"<style=\"status\">Refresh</style> <style=\"value\">3x</style> Level <style=\"status\">1</style> and a Level <style=\"status\">2</style> Follower",
+    "card.data.sylvanism.actions.advanced.122":"<style=\"status\">Refresh</style> a Level <style=\"status\">1</style> and <style=\"value\">2x</style> Level <style=\"status\">2</style> Followers",
+    "card.data.sylvanism.actions.advanced.113":"<style=\"status\">Refresh</style> <style=\"value\">2x</style> Level <style=\"status\">1</style> and a Level <style=\"status\">3</style> Follower",
+    "card.data.sylvanism.actions.advanced.23":"<style=\"status\">Refresh</style> a Level <style=\"status\">2</style> and a Level <style=\"status\">3</style> Follower",
+    "card.data.sylvanism.actions.advanced.41":"<style=\"status\">Refresh</style> a Level <style=\"status\">4</style> and a Level <style=\"status\">1</style> Follower"
+}

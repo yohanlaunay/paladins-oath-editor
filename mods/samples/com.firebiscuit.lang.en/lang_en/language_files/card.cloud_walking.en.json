@@ -1,0 +1,5 @@
+{
+    "card.data.cloud_walking.name": "Cloud Walking",
+    "card.data.cloud_walking.actions.basic": "Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>.\nThe cost of <style=\"value\">Plain</style>, <style=\"value\">Desert</style> and <style=\"value\">Marsh</style> is <style=\"status\">Reduced by 1</style>",
+    "card.data.cloud_walking.actions.advanced": "Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>. The cost of <style=\"value\">Plain</style>, <style=\"value\">Desert</style> and <style=\"value\">Marsh</style> is <style=\"status\">Reduced by 2</style>. You may pay <style=\"value\">Blue</style> Mana to enable travel through <style=\"value\">Lakes</style> for <style=\"value\">Free</style>"
+}

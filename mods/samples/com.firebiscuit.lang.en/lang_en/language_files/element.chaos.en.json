@@ -1,0 +1,4 @@
+{
+    "element.data.chaos.name":"Chaos",
+    "element.data.chaos.description":"<b>Block Phase:</b>\r\n\r\n<style=\"value\">Chaos</style> Attacks can only be efficiently <style=\"status\">Blocked</style> by <style=\"value\">Chaos</style> Blocks. All other Blocks are <style=\"status\">Inefficient</style> (<style=\"value\">Divided by 2</style>)."
+}

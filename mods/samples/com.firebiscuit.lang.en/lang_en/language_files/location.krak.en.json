@@ -1,0 +1,9 @@
+{
+    "location.data.krak.descriptor":"Krak",
+    "location.data.krak.name":"Krak",
+    "location.data.krak.effect.recruitment":"<style=\"status\">Recruit</style> <style=\"value\">Followers</style>.",
+    "location.data.krak.effect.hand_size_increase":"<style=\"status\">Start your turn</style> at or adjacent to any of your Kraks and you will draw additional cards <b>as if</b> your Hand Size was <style=\"value\">increased by 1</style> per Krak that you own.",
+    "location.data.krak.unconquered.title":"Unconquered",
+    "location.data.krak.unrevealed.tooltip.header":"Unrevealed Enemies",
+    "location.data.krak.unrevealed.tooltip.content":"Enemies guarding this Krak will be revealed during the <style=\"value\">Day</style> if you are <style=\"status\">adjacent</style> to it."
+}

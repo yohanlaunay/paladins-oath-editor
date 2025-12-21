@@ -1,0 +1,4 @@
+{
+    "armor.tooltip":"Entity Armor is used to reduce the number of <style=\"wound\">Wounds</style> taken.\n\nIf any <style=\"wound\">Damage</style> is done, the entity receives <style=\"value\">1</style> Wound, then the Damage is reduced by the entity's Armor. Take more wounds, reduce by armor, etc. until the damage is reduced to <style=\"value\">0</style>.\n\n\nIf the entity has <style=\"status\">Resistance</style> to the damage <style=\"value\">Element</style> type, then before taking the first <style=\"wound\">Wound</style> the damage is first reduced by the entity's Armor",
+    "armor.tooltip.header":"Armor"
+}

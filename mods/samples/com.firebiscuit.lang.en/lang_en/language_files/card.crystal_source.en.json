@@ -1,0 +1,9 @@
+{
+    "card.data.crystal_source.name": "Crystal Source",
+    "card.data.crystal_source.actions.basic": "<style=\"status\">Crystallize</style> a Mana of any (basic) color. You may pay a non-wound Card to take this card back into your <style=\"value\">Hand</style> at <b>End of Turn</b>",
+    "card.data.crystal_source.actions.basic.move": "Pay a non-wound Card to take this card back into your <style=\"value\">Hand</style> at <b>End of Turn</b>",
+    "card.data.crystal_source.actions.basic.pick_crystal": "Select a Mana to <style=\"status\">Crystallize</style>",
+    "card.data.crystal_source.actions.advanced": "Gain a <style=\"value\">Crystal</style> of any (basic) color. You may pay any Card (including <style=\"wound\">Wound</style>) to take this card back into your <style=\"value\">Hand</style> at <b>End of Turn</b>",
+    "card.data.crystal_source.actions.advanced.pick_crystal": "Select a <style=\"status\">Crystal</style> to Gain",
+    "card.data.crystal_source.actions.advanced.move": "Pay any Card (including <style=\"wound\">Wound</style>) to take this card back into your <style=\"value\">Hand</style> at <b>End of Turn</b>"
+}

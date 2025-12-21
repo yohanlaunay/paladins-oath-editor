@@ -1,0 +1,8 @@
+{
+    "location.assault.unit_restriction.some_units{0}":"Quantity",
+    "location.data.common.cta.need_movement_points_to_assault{0}":"Quantity",
+    "location.type.condition.except{0}":"List of Location Names (comma<space> separated). Example: 'Citadel, Temple'",
+    "location.type.condition.if{0}":"List of Location Names (comma<space> separated). Example: 'Citadel, Temple'",
+    "location.type.condition.list{0}":"List of Location Names (comma<space> separated). Example: 'Citadel, Temple'",
+    "location.hand_size_bonus.title{0}":"Bonus value (positive number)"
+}

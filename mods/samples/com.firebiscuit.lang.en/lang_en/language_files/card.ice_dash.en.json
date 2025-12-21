@@ -1,0 +1,5 @@
+{
+    "card.data.ice_dash.name":"Ice Dash",
+    "card.data.ice_dash.actions.basic":"Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>.\nMove cost of <style=\"value\">Swamps</style> is reduced to <style=\"value\">1</style>",
+    "card.data.ice_dash.actions.advanced":"Move<sprite name=\"card_icon_move\"><style=\"value\">4</style>. You can travel through <style=\"value\">Lakes</style>. Move cost of <style=\"value\">Lakes</style> and <style=\"value\">Swamps</style> is reduced to <style=\"value\">1</style>"
+}

@@ -1,0 +1,15 @@
+{
+	"guid": "scenario_ext_consecrator",
+	"guid.comments": "string. guid, unique only within the mod. Will be turned into GUID 'mod:'+$yourModId+':'+$guid",
+	"name": "Consecrator",
+	"name.comments": "string. Name to be displayed in the scenario configuration options screen",
+	"description": "The Paladin creates a Temple at every non-fortified location that it conquers.",
+	"description.comments": "string. Mod description to be displayed in the scenario configuration options screen",
+	"applicableScenarios": [],
+	"applicableScenarios.comments": "(Optional) List<Scenario::GUID>. List of scenarios this extension can be applied to. If empty it will be applicable to all scenarios.",
+	"script": {
+        "fileName":"consecrator.lua",
+        "fileName.comments": "string. Name of the script file in the same folder as the mods.json. The extension matters, use one of the supported extension (ex: '.lua')"
+	},
+	"script.comments": "ModScriptInfo. Script to execute."
+}

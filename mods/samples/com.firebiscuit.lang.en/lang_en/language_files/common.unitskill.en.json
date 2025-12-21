@@ -1,0 +1,9 @@
+{
+    "unitskill.detach.tooltip.title":"Detach this Blessing",
+    "unitskill.detach.tooltip.description":"Click to <style=\"status\">Detach</style> this Blessing. The <style=\"value\">Card</style> that was used to generate this Blessing will be put back into the <style=\"value\">Discard</style> pile",
+    "unitskill.detach.confirm.title":"Detach the Blessing from this Follower?",
+    "unitskill.detach.confirm.content":"Do you want to <style=\"status\">Detach</style> the Blessing <style=\"value\">{0}</style> from this Follower?\n\nThe <style=\"value\">Card</style> that was used to generate this Blessing will be put back into the <style=\"value\">Discard</style> pile",
+    "unitskill.detach.confirm.yes":"Detach",
+    "unitskill.help.name":"Follower Blessing",
+    "unitskill.help.description":"Powerful Relics can be activated to Bless a Follower granting them special Abilities or increased stats. Blessings can be detached at the Campfire but the associated Relic will be put in the Discard pile to be drawn back on the next Round"
+}

@@ -1,0 +1,6 @@
+{
+    "skill.data.nether_conjuration.name":"Nether Conjuration",
+    "skill.data.nether_conjuration.combo":"<style=\"status\">Discard</style> a <style=\"wound\">Wound</style> to Gain a <style=\"value\">Red</style> or <style=\"value\">Black</style> Mana Essence <b>or</b> any <style=\"wound\">non-Wound</style> Card for a <style=\"value\">White</style> or <style=\"value\">Green</style> Mana Essence",
+    "skill.data.nether_conjuration.combo.wound":"<style=\"status\">Discard</style> a <style=\"wound\">Wound</style> to Gain a <style=\"value\">Red</style> or <style=\"value\">Black</style> Mana Essence",
+    "skill.data.nether_conjuration.combo.non_wound":"<style=\"status\">Discard</style> a non-Wound Card to Gain a <style=\"value\">White</style> or <style=\"value\">Green</style> Mana Essence"
+}

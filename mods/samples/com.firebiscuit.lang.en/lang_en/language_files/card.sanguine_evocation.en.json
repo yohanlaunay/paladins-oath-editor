@@ -1,0 +1,7 @@
+{
+    "card.data.sanguine_evocation.name": "Sanguine Evocation",
+    "card.data.sanguine_evocation.actions.basic": "Take a <style=\"wound\">Wound</style> to gain a <style=\"value\">Red</style> crystal and a mana of <style=\"value\">Any</style> color",
+    "card.data.sanguine_evocation.actions.advanced": "Take a <style=\"wound\">Wound</style> to gain <style=\"value\">3</style> mana of <style=\"value\">Any</style> color. You may also <style=\"status\">Crystallize</style> one Mana",
+    "card.data.sanguine_evocation.actions.any_token": "Gain a Mana of <style=\"value\">Any</style> color",
+    "card.data.sanguine_evocation.actions.crystallize": "<style=\"status\">Crystallize</style> one Mana"
+}

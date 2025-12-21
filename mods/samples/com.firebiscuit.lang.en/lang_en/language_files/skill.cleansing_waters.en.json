@@ -1,0 +1,4 @@
+{
+    "skill.data.cleansing_waters.name":"Cleansing Waters",
+    "skill.data.cleansing_waters.combo":"Heal<sprite name=\"card_icon_heal\"><style=\"value\">1</style>.\nGain a <style=\"value\">Blue Crystal</style>"
+}

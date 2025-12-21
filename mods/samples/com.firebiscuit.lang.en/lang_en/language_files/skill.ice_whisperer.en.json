@@ -1,0 +1,4 @@
+{
+    "skill.data.ice_whisperer.name":"Ice Whisperer",
+    "skill.data.ice_whisperer.combo":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>or</b>\n<style=\"value\">Frost</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style>"
+}

@@ -1,0 +1,181 @@
+{
+	"guid": "character_agamoto",
+	"guid.comments": "string. guid, unique only within the mod. Will be turned into GUID 'mod:'+$yourModId+':'+$guid",
+	"name": "Agamoto",
+	"name.comments": "string. Paladin name (not localized)",
+	"description": "Agamoto was a powerful paladin finely atune to the gods. After passing, Mages placed Agamoto's soul into a receptacle so the Paladin can continue doing good deeds even after death.",
+	"description.comments": "string. Backstory of the paladin.",
+	"playstyleInfo": "This paladin has strong magic abilities but weak defense",
+	"playstyleInfo.comments": "string. flavor text describing what is good/bad at.",
+	"portraitSprite": "character_agamoto_portrait.png",
+	"portraitSprite.comments": "string. name of local file (local to the mod character folder). PNG, 256x256.",
+	"medallionSprite": "character_agamoto_medallion.png",
+	"medallionSprite.comments": "string. name of local file (local to the mod character folder). PNG, 192x192.",
+	"figurineSprite": "character_agamoto_figurine.png",
+	"figurineSprite.comments": "string. name of local file (local to the mod character  folder). PNG, 512x768, Outline (10,243;0,0,0).",
+	"fullbodySprite": "character_agamoto_fullbody.png",
+	"fullbodySprite.comments": "string. name of local file (local to the mod character  folder). PNG, 1024x1024, Outline (10,243;0,0,0).",
+	"tileDefaultSprite": "character_agamoto_tile_default.png",
+	"tileDefaultSprite.comments": "string. name of local file (local to the mod character  folder). PNG, 256x384, Outline (10,243;0,0,0).",
+	"tileOccupiedSprite": "character_agamoto_tile_occupied.png",
+	"tileOccupiedSprite.comments": "string. name of local file (local to the mod character  folder). PNG, 256x384, Outline (10,243;0,0,0).",
+	"ownershipTokenMapPropSprite": "character_agamoto_ownership_token_map_prop.png",
+	"ownershipTokenMapPropSprite.comments": "string. name of local file (local to the mod character  folder). PNG, 256x256, Outline (10,243;0,0,0).",
+	"levels": [
+		{
+			"requiredXp": 0
+		},
+		{
+			"requiredXp": 3,
+			"requiredXp.comments": "int >= 0. At which XP this level up will be given.",
+			"rewardsLevelUp": "mod:com.firebiscuit.agamoto:rewards_level_up_armor2_or_handsize2",
+			"rewardsLevelUp.comments": "(Optional) Rewards::GUID [default=EMPTY]. ID of the rewards information to be given when leveling up. Don't specify if you don't want to give a reward at that level."
+		},
+		{
+			"requiredXp": 8,
+			"rewardsLevelUp": "character_level_up_reward_unitslot_and_armor"
+		},
+		{
+			"requiredXp": 15,
+			"rewardsLevelUp": "character_level_up_reward_card_and_skill"
+		},
+		{
+			"requiredXp": 24,
+			"rewardsLevelUp": "character_level_up_reward_unitslot_and_hand_size"
+		},
+		{
+			"requiredXp": 35,
+			"rewardsLevelUp": "character_level_up_reward_card_and_skill"
+		},
+		{
+			"requiredXp": 48,
+			"rewardsLevelUp": "character_level_up_reward_unitslot_and_armor"
+		},
+		{
+			"requiredXp": 63,
+			"rewardsLevelUp": "character_level_up_reward_card_and_skill"
+		},
+		{
+			"requiredXp": 80,
+			"rewardsLevelUp": "character_level_up_reward_unitslot_and_hand_size"
+		},
+		{
+			"requiredXp": 99,
+			"rewardsLevelUp": "character_level_up_reward_card_and_skill"
+		}
+	],
+	"levels.comments": "List<CharacterLevel>. Describes XP requirements and rewards for each level.",
+	"inaneBlessings": [
+		"skill_monastic_empowerment",
+		"skill_ice_rain",
+		"skill_life_elixir",
+		"skill_air_crafting",
+		"skill_earth_crafting",
+		"skill_fire_crafting",
+		"skill_ambient_crystallization",
+		"skill_crystallic_hypnosis",
+		"skill_wind_portal",
+		"skill_mana_infusion"
+	],
+	"inaneBlessings.comments": "List<Blessing::GUID>. List of blessings the character is born with. Will be added to the list of available blessings.",
+	"inaneCards": [
+		"card_fury",
+		"card_fury",
+		"card_iron_resolve",
+		"card_frenzy",
+		"card_frenzy",
+		"card_wayfinding",
+		"card_endurance",
+		"card_prayer_of_healing",
+		"card_honour",
+		"card_contract",
+		"card_arcane_source",
+		"card_arcane_crafting",
+		"card_arcane_language",
+		"card_preparation",
+		"card_versatility",
+		"card_versatility"
+	],
+	"inaneCards.comments": "List<Card::GUID>. List of cards the character is born with, will be added to the deck.",
+	"uniqueInaneCardsInfo": [
+		"card_versatility"
+	],
+	"uniqueInaneCardsInfo.comments": "(Optional) List<Card::GUID> [default=EMPTY]. Display purpose only, shows which cards are unique to this character (compared to other characters). Those cards should appear in the list of inaneCards too.",
+	"personalOaths": [
+		"mod:com.firebiscuit.agamoto:oath_rebellion"
+	],
+	"personalOaths.comments": "(Optional) List<Oath::GUID> [default=EMPTY]. List of Oaths that are unique to this character (Oaths that are marked as 'character specific').",
+	"defaultAllowedAmbientDie": 1,
+	"defaultAllowedAmbientDie.comments": "(Optional) int > 0 [default=1]. How many Ambient mana can the character use.",
+	"numPointsRequiredPerWound": 1,
+	"numPointsRequiredPerWound.comments": "(Optional) int > 0 [default=1]. How many Healing points are required to heal 1 wound on this character.",
+	"defaultExplorationDistance": 1,
+	"defaultExplorationDistance.comments": "(Optional) int > 0 [default=1]. How many hexes away from exploration spot can the character explore.",
+	"defaultExplorationMovementCost": 2,
+	"defaultExplorationMovementCost.comments": "(Optional) int >= 0 [default=2]. How many movement points does it cost to explore (by default).",
+	"starterArmor": 2,
+	"starterArmor.comments": "int > 0. How much armor does the character start with.",
+	"starterHandSize": 5,
+	"starterHandSize.comments": "int > 0. How many cards can the character hold in hand by default.",
+	"starterFollowerSlotCount": 1,
+	"starterFollowerSlowCount.comments": "int >= 0. How many followers can the character manage from the start.",
+	"starterReputation": 0,
+	"starterReputation.comments": "int [-7,+7]. Starting character reputation (0=neutral).",
+	"dummyPlayerStartingBoons": {
+		"crystalsInInventory": [
+			"mana_red",
+			"mana_red",
+			"mana_red"
+		],
+		"crystalsInInventory.comments": "(Optional) List<ManaColor::GUID> [default=EMPTY]. List of mana crystals the character will start with."
+	},
+	"dummyPlayerStartingBoons.comments": "CrusadeStartingBoons. Boons the dummy player starts with (typically should be N=3 crystals)",
+	"startingBoons": {
+		"cards": [],
+		"cards.comments": "(Optional) List<Card::GUID> [default=EMPTY]. List of cards the character will start with.",
+		"followers": [
+			"unit_cardinal",
+			"unit_cardinal"
+		],
+		"followers.comments": "(Optional) List<Follower::GUID> [default=EMPTY]. List of units the character will start with.",
+		"blessings": [
+			"skill_mithril_scimitars"
+		],
+		"blessings.comments": "(Optional) List<Blessing::GUID> [default=EMPTY]. List of skills the character will start with.",
+		"crystalsInInventory": [
+			"mana_red",
+			"mana_red",
+			"mana_red"
+		],
+		"crystalsInInventory.comments": "(Optional) List<ManaColor::GUID> [default=EMPTY]. List of mana crystals the character will start with.",
+		"armorBonus": 0,
+		"armorBonus.comments": "(Optional) int [default=0]. Can be negative. Increase/Reduce character armor.",
+		"handSizeBonus": 0,
+		"handSizeBonus.comments": "(Optional) int [default=0]. Can be negative. Increase/Reduce character hand size.",
+		"reputationBonus": 0,
+		"reputationBonus.comments": "(Optional) int [default=0]. Can be negative. Increase/Reduce character reputation.",
+		"followerSlotsBonus": 0,
+		"followerSlotsBonus.comments": "(Optional) int >= 0 [default=0]. Increase starting number of unit slots (will add the 'units' to it too)."
+	},
+	"startingBoons.comments": "(Optional) CrusadeStartingBoons [default=EMPTY]. Additional boons the character starts with (ex: crystals, followers, blessings ...)",
+	"roundBoons": {
+		"mana": [
+			{
+				"color": "mana_red",
+				"color.comments": "ManaColor::GUID.",
+				"form": 2,
+				"form.comments": "ManaForm::int. Form of the mana (crystal, token, ...)"
+			}
+		],
+		"mana.comments": "(Optional) List<Mana> [default=EMPTY]. List of mana that the character will receive every round.",
+		"reputationBonus": 0,
+		"reputationBonus.comments": "(Optional) int [default=0]. Can be negative. Increase/Reduce character reputation every round.",
+		"movementPoints": 2,
+		"movementPoints.comments": "(Optional) int >= 0 [default=0]. Gain movement points every round.",
+		"healingPoints": 2,
+		"healingPoints.comments": "(Optional) int >= 0 [default=0]. Gain healing points every round.",
+		"leadershipPoints": 0,
+		"leadershipPoints.comments": "(Optional) int >= 0 [default=0]. Gain leadership points every round."
+	},
+	"roundBoons.comments": "(Optional) CrusadeRoundBoons [default=EMPTY]. Boons the character receives every round  (ex: crystals, followers, blessings, reputation, movement"
+}

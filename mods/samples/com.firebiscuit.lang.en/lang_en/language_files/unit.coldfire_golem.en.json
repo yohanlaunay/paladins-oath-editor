@@ -1,0 +1,7 @@
+{
+    "unit.data.coldfire_golem.name":"ColdFire Golem",
+    "unit.data.coldfire_golem.lore":"Created by the Ice Mages from the Arcane Order to help fight back the invaders. The ColdFire Golems are born of Ice turned Flame contained in a metallic carcass.",
+    "unit.data.coldfire_golem.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.coldfire_golem.combo.1":"<style=\"value\">Frost</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">6</style>",
+    "unit.data.coldfire_golem.description.visuals":"Metallic golem, similar in shape as a furnace except blue flames are ocming out of every orifice. His head is shaped like a polished pointy stone with a single glowing blue crystal in the center. He is surrounded by blue icy flames."
+}

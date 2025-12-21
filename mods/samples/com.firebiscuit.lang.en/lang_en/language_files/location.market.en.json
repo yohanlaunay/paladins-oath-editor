@@ -1,0 +1,7 @@
+{
+    "location.data.market.descriptor":"Bazaar",
+    "location.data.market.name":"Bazaar",
+    "location.data.market.effect.recruit":"<style=\"status\">Recruit</style> <style=\"value\">ANY</style> of the Follower from the Market here but the Bazaar imposes <style=\"status\">Taxes</style> depending on the Followers <style=\"value\">Preferred Locations</style>. So you might need to pay more than when recruiting the Followers at their preferred Location.",
+    "location.data.market.recruit.tax.title":"Recruitment Tax",
+    "location.data.market.recruit.tax.tooltip.header":"Recruitment Tax"
+}

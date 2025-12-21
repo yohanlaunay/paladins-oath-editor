@@ -1,0 +1,13 @@
+{
+    "immunity.arcane.description":"Enemies with <style=\"value\">Arcane Immunity</style> are immune to any kind of non-attack and non-block effects (ex: effects reducing fortification or effects cancelling their attacks).",
+    "immunity.arcane.name":"Arcane",
+    "immunity.arcane.help.name":"Arcane Immunity",
+    "immunity.arcane.help.description":"Enemies with <style=\"value\">Arcane Immunity</style> are immune to any kind of non-attack and non-block effects (ex: effects reducing fortification or effects cancelling their attacks).",
+    "immunity.condition.any":"<style=\"value\">ANY</style> <style=\"status\">Immunity</style>",
+    "immunity.condition.except":"Except <style=\"status\">Immunity</style> to <style=\"value\">{0}</style>",
+    "immunity.condition.if":"If <style=\"value\">{0}</style> <style=\"status\">Immunity</style>",
+    "immunity.condition.list":"<style=\"value\">{0}</style> <style=\"status\">Immunity</style>",
+    "immunity.condition.none":"<style=\"value\">NO</style>",
+    "immunity.help.name":"Immunities",
+    "immunity.help.description":"Enemies with Immunities ignore effects from your Cards, Blessings or Followers depending on the kind of Immunity. Check the Enemy Immunity type for details"
+}

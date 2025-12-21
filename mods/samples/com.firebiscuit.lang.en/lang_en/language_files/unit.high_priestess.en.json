@@ -1,0 +1,7 @@
+{
+    "unit.data.high_priestess.name":"High Priestess",
+    "unit.data.high_priestess.lore":"The High Priestess is a powerful figure in the Arcane Order. She goes from Temple to Temple inspecting reliquaries and ensuring the powerful relics they contain are in order. Usually reluctant to engage in worldly affairs, the recent occurrences of corrupted Magic since the conjunction of the planes has made her wary and willing to help.",
+    "unit.data.high_priestess.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.high_priestess.combo.1":"<style=\"value\">Frost</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">4</style> <b>or</b> <style=\"value\">Frost</style> Block<sprite name=\"card_icon_block\"><style=\"value\">4</style>",
+    "unit.data.high_priestess.description.visuals":"Tall white woman with long blonde hairs and piercing blue eyes. Wearing a blue linen outfit. Holding on to a long magical staff adorned with a tall blue shining gem emanating circular blue ice."
+}

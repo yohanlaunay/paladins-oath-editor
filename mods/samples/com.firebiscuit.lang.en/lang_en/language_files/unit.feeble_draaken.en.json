@@ -1,0 +1,7 @@
+{
+    "unit.data.feeble_draaken.name":"Feeble Draaken",
+    "unit.data.feeble_draaken.lore":"There are only a few of them in existence. They come from Draaken eggs that were hatched before their term and didn't reach maturity. They share similar but weaker traits with their Draaken cousins like strength, magic abilities and very long lives.",
+    "unit.data.feeble_draaken.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.feeble_draaken.combo.1":"<i>Range</i> <style=\"value\">Fire</style> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">4</style>",
+    "unit.data.feeble_draaken.description.visuals":"Small pathetic looking dragon with visible skeleton under the skin. Thin limbs and globulous brown eyes with small horns and small wings. Surrounded by a ball of fire."
+}

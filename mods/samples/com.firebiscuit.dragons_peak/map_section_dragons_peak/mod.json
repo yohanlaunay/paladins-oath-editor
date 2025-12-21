@@ -1,0 +1,53 @@
+{
+	"guid": "map_section_dragons_peak",
+	"guid.comments": "string. guid, unique only within the mod. Will be turned into GUID 'mod:'+$yourModId+':'+$guid",
+	"numInstancesInDeck": 1,
+	"numInstancesInDeck.comments": "(Optional) int >=0 [default=1]. How many times this tile can appear in the draw deck. Set 0 to disable drawing this tile.",
+	"sectionType": 2,
+	"sectionType.comments": "(Optional) MapSectionType::int [default=REGULAR(1)].",
+	"hexes": [
+		{
+			"terrain": "terrain__mountains",
+			"terrain.comments": "Terrain::GUID.",
+			"rampagingEnemy": "enemy_viserion",
+			"rampagingEnemy.comments": "(Optional) EnemyType::GUID [default=NONE]. This enemy will be loaded on the tile. Either specify 'rampagingEnemyType' or 'rampagingEnemy' but not both. You can use modded enemy Ids here."
+		},
+		{
+			"terrain": "mod:com.firebiscuit.dragons_peak:terrain_void",
+			"terrain.comments": "Terrain::GUID."
+		},
+		{
+			"terrain": "terrain__mountains",
+			"terrain.comments": "Terrain::GUID.",
+			"rampagingEnemy": "enemy_fire_drake",
+			"rampagingEnemy.comments": "(Optional) EnemyType::GUID [default=NONE]. This enemy will be loaded on the tile. Either specify 'rampagingEnemyType' or 'rampagingEnemy' but not both. You can use modded enemy Ids here."
+		},
+		{
+			"terrain": "terrain__plains",
+			"terrain.comments": "Terrain::GUID.",
+			"location": "location_spire",
+			"location.comments": "(Optional) Location::GUID [default=NONE]."
+		},
+		{
+			"terrain": "terrain__mountains",
+			"terrain.comments": "Terrain::GUID.",
+			"rampagingEnemy": "enemy_azureus",
+			"rampagingEnemy.comments": "(Optional) EnemyType::GUID [default=NONE]. This enemy will be loaded on the tile. Either specify 'rampagingEnemyType' or 'rampagingEnemy' but not both. You can use modded enemy Ids here."
+		},
+		{
+			"terrain": "terrain__mountains",
+			"terrain.comments": "Terrain::GUID.",
+			"rampagingEnemy": "enemy_vermillion",
+			"rampagingEnemy.comments": "(Optional) EnemyType::GUID [default=NONE]. This enemy will be loaded on the tile. Either specify 'rampagingEnemyType' or 'rampagingEnemy' but not both. You can use modded enemy Ids here."
+		},
+		{
+			"terrain": "terrain__plains",
+			"terrain.comments": "Terrain::GUID.",
+			"location": "location_temple",
+			"location.comments": "(Optional) Location::GUID [default=NONE].",
+			"rampagingEnemyType": "enemy_type_arcanum",
+			"rampagingEnemyType.comments": "(Optional) EnemyType::GUID [default=NONE]. Enemy will be drawn from the list of enemies of this type. Either specify 'rampagingEnemyType' or 'rampagingEnemy' but not both."
+		}
+	],
+	"hexes.comments": "List<MapHexData>[7]. List of hexes configuration for this tile (7 hexes exactly). See 'hexes.jpg' for hexes location."
+}

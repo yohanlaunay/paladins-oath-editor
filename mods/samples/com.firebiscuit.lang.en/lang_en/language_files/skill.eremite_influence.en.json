@@ -1,0 +1,4 @@
+{
+    "skill.data.eremite_influence.name":"Eremite Influence",
+    "skill.data.eremite_influence.combo":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">1</style> <style=\"value\">+2</style> per <style=\"status\">empty</style> Follower <b>Slot</b>"
+}

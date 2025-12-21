@@ -1,0 +1,7 @@
+{
+    "terrain.condition.except{0}":"List of Terrain Types (comma<space> separated). Example: 'Desert, Grass, Swamp'",
+    "terrain.condition.if{0}":"List of Terrain Types (comma<space> separated). Example: 'Desert, Grass, Swamp'",
+    "terrain.condition.list{0}":"List of Terrain Types (comma<space> separated). Example: 'Desert, Grass, Swamp'",
+    "terrain.move.cost{0}":"Time Of Day. Example: 'Day', 'Night'",
+    "terrain.move.cost{1}":"Positive Number"
+}

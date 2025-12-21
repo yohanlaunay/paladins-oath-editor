@@ -1,0 +1,5 @@
+{
+    "card.data.ice_manipulation.name": "Ice Manipulation",
+    "card.data.ice_manipulation.actions.basic": "Gain a <style=\"value\">Blue Crystal</style>",
+    "card.data.ice_manipulation.actions.advanced": "<i>Range</i> <style=\"value\">Frost</style> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>"
+}

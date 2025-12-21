@@ -1,0 +1,4 @@
+{
+    "skill.data.imbued_strength.name":"Imbued Strength",
+    "skill.data.imbued_strength.combo":"Increase a Card's <b>Attacks</b>\nby <style=\"value\">1</style> in the <style=\"status\">Range Phase</style>\nby <style=\"value\">2</style> in the <style=\"status\">Attack Phase</style>"
+}

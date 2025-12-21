@@ -1,0 +1,5 @@
+{
+    "scenario.data.holy_war.name":"Holy War",
+    "scenario.data.holy_war.description":"Since the Conjunction of the Planes, all the Citadels have been <style=\"status\">corrupted</style>. You embark on a Crusade to <style=\"value\">liberate the Citadels</style> from the ungodly creatures that occupy their walls.",
+    "scenario.data.holy_war.win.0":"All the <style=\"value\">Citadels</style> must be <style=\"status\">Conquered</style> before the end of the last Round."
+}

@@ -1,0 +1,12 @@
+{
+    "location.data.hallowed.descriptor":"Hallowed Site",
+    "location.data.hallowed.name":"Hallowed Site",
+    "location.data.hallowed.reward.ritual.name":"Ritual Rewards",
+    "location.data.hallowed.status.conquered":"The Ritual has been <style=\"status\">Performed</style>.",
+    "location.data.hallowed.effect.ritual":"Perform a <style=\"status\">Blood Sacrifice</style> by defeating the Enemies there <style=\"value\">OR</style> a <style=\"status\">Magic Ritual</style> by consuming Mana to receive <style=\"value\">Rewards</style> from the Gods.",
+    "location.data.hallowed.effect.reveal":"The type of Ritual is <style=\"status\">Revealed</style> during the <style=\"value\">Day</style> or when you <style=\"status\">Move</style> into the space.",
+    "location.data.hallowed.ritual.blood.title":"Blood Sacrifice",
+    "location.data.hallowed.ritual.blood.subtitle":"Enemies to Defeat",
+    "location.data.hallowed.ritual.magic.title":"Magic Ritual",
+    "location.data.hallowed.ritual.label":"Perform Ritual"
+}

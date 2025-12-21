@@ -1,0 +1,18 @@
+{
+    "offer.units.location.list{0}":"List of Location Names (comma<space> separated). Example: 'Citadel, Temple'",
+    "offer.locations.panel.title.with_count":"Title of panel with special cards",
+    "offer.locations.panel.title.with_count{0}":"Count",
+    "player.healing.failed.reason.condition_not_met{0}":"Effect Condition description (any text)",
+    "player.healing.failed.reason.not_enough_points{0}":"Quantity",
+    "player.status.knocked_out.description.dynamic{0}":"Quantity. Num Wounds",
+    "player.status.knocked_out.description.dynamic{1}":"Quantity. Hand Size (num cards)",
+    "hand.panel.title.with_hand_size{0}":"Current Quantity",
+    "hand.panel.title.with_hand_size{1}":"Total Quantity",
+    "hand.panel.title.draw_pile_size{0}":"Remaining Draw Pile Quantity",
+    "level.title{0}":"Positive Number",
+    "codex.menu.header":"Title for the help menu that has all the ganme concepts and items in the game",
+    "codex.menu.panels.glossary.title":"Title for the codex category listing all the game terms and concepts",
+    "codex.menu.panels.bestiary.title":"Title for the codex category listing all the enemies/monsters the player will face",
+    "codex.menu.panels.library.title":"Title for the codex category listing all the cards",
+    "codex.menu.panels.cavalry.title":"Title for the codex category listing all the followers that can be recruited"
+}

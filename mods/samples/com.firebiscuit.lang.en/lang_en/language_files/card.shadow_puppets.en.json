@@ -1,0 +1,5 @@
+{
+    "card.data.shadow_puppets.name":"Shadow Puppets",
+    "card.data.shadow_puppets.actions.basic":"<style=\"status\">Discard</style> cards (excl. Wounds) to get <i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">2</style> per discarded card.\nGain <style=\"value\">1 XP</style> per Enemy defeated",
+    "card.data.shadow_puppets.actions.throw":"<style=\"sacrifice\">Destroy</style> the Puppets to <style=\"value\">Double</style> <b>all</b> <i>Range</i> Attacks<sprite name=\"card_icon_attack_range\"> <b>OR</b> convert them to <i>Siege</i> Attacks<sprite name=\"card_icon_attack_siege\"> <b>OR</b> Convert <b>all</b> <i>Siege</i> Attacks<sprite name=\"card_icon_attack_siege\"> to <i>Range</i> Attacks<sprite name=\"card_icon_attack_range\"> at <style=\"value\">x2</style> value"
+}

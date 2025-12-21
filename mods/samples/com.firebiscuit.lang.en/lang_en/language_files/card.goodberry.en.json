@@ -1,0 +1,5 @@
+{
+    "card.data.goodberry.name":"Goodberry",
+    "card.data.goodberry.actions.basic":"Heal<sprite name=\"card_icon_heal\"><style=\"value\">1</style>, <style=\"status\">Draw</style> a card, Gain a <style=\"value\">Green</style> Mana <b>or</b> <style=\"status\">Refresh</style> a Follower\n(<i>Level</i> <style=\"value\">1 - 2</style>)",
+    "card.data.goodberry.actions.advanced":"Heal<sprite name=\"card_icon_heal\"><style=\"value\">2</style>, <style=\"status\">Draw</style> <style=\"value\">2</style> cards, Gain a <style=\"value\">Green</style> Crystal <b>or</b> <style=\"status\">Refresh</style> a Follower\n(<i>Level</i> <style=\"value\">1 - 3</style>)"
+}

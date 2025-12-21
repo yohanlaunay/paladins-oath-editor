@@ -1,0 +1,8 @@
+{
+    "attack.mods.condition.except{0}":"Attack Modifier (ex: Poison, Paralyzing, Bulky)",
+    "attack.mods.condition.if{0}":"Attack Modifier (ex: Poison, Paralyzing, Bulky)",
+    "attack.mods.condition.list{0}":"Attack Modifier (ex: Poison, Paralyzing, Bulky)",
+    "attack.type.condition.except{0}":"Attack Type (ex: Siege, Range, Basic)",
+    "attack.type.condition.if{0}":"Attack Type (ex: Siege, Range, Basic)",
+    "attack.type.condition.list{0}":"Attack Type (ex: Siege, Range, Basic)"
+}

@@ -1,0 +1,13 @@
+{
+    "benediction.data.night.5.name":"Determination",
+    "benediction.data.night.5.description":{
+        "1": "Immediately <style=\"status\">Search</style> your <b>Deck</b> for <style=\"value\">{0}</style> Card to put in your <b>Hand</b>",
+        "n": "Immediately <style=\"status\">Search</style> your <b>Deck</b> for <style=\"value\">{0}</style> Cards to put in your <b>Hand</b>",
+        "t": 1},
+    "benediction.data.night.5.selection.close.confirm.title":"Cancel Card Selection?",
+    "benediction.data.night.5.selection.close.confirm.content":"If you don't select cards now for your <style=\"value\">Benediction</style>, you <style=\"status\">will not be able</style> to select cards again <style=\"value\">for this Round</style>.\n\n<style=\"status\">Cancel</style> Selection?",
+    "benediction.data.night.5.selection.title":{
+        "1": "Select <style=\"value\">{0}</style> Card to move to your <style=\"value\">Hand</style>",
+        "n": "Select <style=\"value\">{0}</style> Cards to move to your <style=\"value\">Hand</style>",
+        "t": 1}
+}

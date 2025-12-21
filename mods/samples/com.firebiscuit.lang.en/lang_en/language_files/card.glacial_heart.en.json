@@ -1,0 +1,5 @@
+{
+    "card.data.glacial_heart.name":"Glacial Heart",
+    "card.data.glacial_heart.actions.basic":"Targeted Enemy <style=\"status\">does not</style> Attack and <style=\"status\">loses</style> <style=\"value\">Fire</style> Resistance <i>(if any)</i>",
+    "card.data.glacial_heart.actions.advanced":"Targeted Enemy <style=\"status\">does not</style> Attack and <style=\"status\">loses</style> <style=\"value\">4</style> Armor"
+}

@@ -1,0 +1,8 @@
+{
+    "unit.data.cryoptera.name":"Cryoptera",
+    "unit.data.cryoptera.lore":"Underworld creature that roams underground and are only found on the surface when summoned by magic practitioners. They typically feeds on Pacifiers and other mana-filled beings. They can absorb and regurgitate Mana into different forms and shapes.",
+    "unit.data.cryoptera.combo.0":"<style=\"value\">Frost</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">4</style> <b>or</b> <style=\"value\">Frost</style> Block<sprite name=\"card_icon_block\"><style=\"value\">4</style>",
+    "unit.data.cryoptera.combo.1":"<i>Siege</i> <style=\"value\">Frost</style> Attack<sprite name=\"card_icon_attack_siege\"><style=\"value\">4</style>",
+    "unit.data.cryoptera.combo.2":"Gain a <style=\"value\">Blue</style> Mana and a <style=\"value\">Blue</style> Crystal",
+    "unit.data.cryoptera.description.visuals":"Large blue bat with long fangs and large ears. Emanates ice or cold energy."
+}

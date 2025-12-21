@@ -1,0 +1,16 @@
+{
+    "campfire.rest.card_select.title{0}": "Number of Cards",
+    "campfire.end_turn.card_select.title.mandatory{0}": "Number of Cards",
+    "campfire.deck.label.with_size{0}":"Card Deck Name (ex: Draw Pile, Discard Pile, Hand)",
+    "campfire.deck.label.with_size{1}":"Number of Cards",
+    "campfire.deck.label.with_size_and_wounds{0}":"Card Deck Name (ex: Draw Pile, Discard Pile, Hand)",
+    "campfire.deck.label.with_size_and_wounds{1}":"Number of Cards",
+    "campfire.deck.label.with_size_and_wounds{2}":"Number of Wound Cards",
+    "campfire.deck.hand.label.with_size{0}":"Card Deck Name (ex: Draw Pile, Discard Pile, Hand)",
+    "campfire.deck.hand.label.with_size{1}":"Number of Cards",
+    "campfire.deck.hand.label.with_size{2}":"Max Number of Cards",
+    "campfire.deck.hand.label.with_size_and_wounds{0}":"Card Deck Name (ex: Draw Pile, Discard Pile, Hand)",
+    "campfire.deck.hand.label.with_size_and_wounds{1}":"Number of Cards",
+    "campfire.deck.hand.label.with_size_and_wounds{2}":"Number of Wound Cards",
+    "campfire.deck.hand.label.with_size_and_wounds{3}":"Max Number of Cards"
+}

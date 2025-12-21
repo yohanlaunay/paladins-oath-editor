@@ -1,0 +1,37 @@
+{
+    "fortification.help.name":"Fortifications",
+    "fortification.help.description":"Some Enemies have natural Fortifications. Others gain Fortifications when they occupy a Fortified Location that you Assault. Fortifications prevent usage of non-siege Attacks. Fortifications stack so double-Fortifications prevent any kind of range or siege attacks on the Enemy. If you group Fortified and non-Fortified enemies during battle the non-fortified enemies will also gain Fortifications.",
+    "fortification.condition.any":"<style=\"value\">ANY</style> Fortification",
+    "fortification.condition.except":"Except <style=\"status\">{0}</style>",
+    "fortification.condition.if":"If <style=\"status\">{0}</style>",
+    "fortification.condition.list":"{0}",
+    "fortification.condition.none":"<style=\"value\">NO</style>",
+    "fortification.double_fortified.description":"Enemies that are <style=\"status\">Double Fortified</style> are typically protected by their own fortification also within the fortified walls of the battle location and cannot be targeted by any kind of attack in the <i>Range Attack</i> phase.\n\nYou will need to wait for the <i>Attack</i> Phase where they come out in the open to target them.\n\nWhen <style=\"status\">grouped</style> with non-fortified enemies they will <style=\"value\">share</style> their <style=\"status\">Fortification</style> with the non-fortified enemies which will become <style=\"status\">Fortified</style> and already <style=\"status\">Fortified</style> enemies will become <style=\"value\">Double Fortified</style>.",
+    "fortification.double_fortified.name":"Double Fortified",
+    "fortification.fortified.description":"<style=\"status\">Fortified</style> sites, increases the fortification of all the Enemies within it.\n\nEnemies that are <style=\"status\">Fortified</style> are protected by the fortifications of the battle location (or their own Fortification) and can only be targeted by <style=\"value\">Siege</style> Attacks in the <i>Range Attack</i> phase.\n\nWhen <style=\"status\">grouped</style> with <style=\"status\">non-fortified</style> enemies they will share their <style=\"status\">Fortification</style> with the non-fortified enemies.",
+    "fortification.fortified.name":"Fortified",
+    "fortification.modifier.always_fortified": {
+        "1": "{0} Becomes <style=\"status\">Always Fortified</style>",
+        "n": "{0} Become <style=\"status\">Always Fortified</style>",
+        "t": 1},
+    "fortification.modifier.gain_fortification": {
+        "1": "{0} Gains <style=\"status\">Fortification</style>",
+        "n": "{0} Gain <style=\"status\">Fortification</style>",
+        "t": 1},
+    "fortification.modifier.lose_all_fortification": {
+        "1": "{0} Loses <style=\"status\">All Fortifications</style>",
+        "n": "{0} Lose <style=\"status\">All Fortifications</style>",
+        "t": 1},
+    "fortification.modifier.lose_fortification": {
+        "1": "{0} Loses <style=\"status\">Fortification</style>",
+        "n": "{0} Lose <style=\"status\">Fortification</style>",
+        "t": 1},
+    "fortification.modifier.never_fortified": {
+        "1": "{0} Becomes <style=\"status\">Never Fortified</style>",
+        "n": "{0} Become <style=\"status\">Never Fortified</style>",
+        "t": 1},
+    "fortification.never_fortified.description":"Enemies that are <style=\"status\">Never fortified</style> alwas ignore any kind of fortification that are provided by the environment or battle arena or when grouped with other enemies. \n\nThey typically always attack in the open and thus can be targeted by any kind of <style=\"value\">Range</style> attack in the <i>Range Attack</i> phase.",
+    "fortification.never_fortified.name":"Never Fortified",
+    "fortification.not_fortified.description":"Enemies that are <style=\"status\">Not fortified</style> are not protected by the fortification of the battle location and thus can be targeted by any kind of <style=\"value\">Range</style> attack in the <i>Range Attack</i> phase.\n\n<style=\"status\">Not Fortified</style> enemies <style=\"status\">grouped</style> with <style=\"status\">Fortified</style> enemies will benefit from the fortification brought by the other enemies in the group and become <style=\"status\">Fortified</style> themselves.",
+    "fortification.not_fortified.name":"Not Fortified"
+}

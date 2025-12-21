@@ -1,0 +1,7 @@
+{
+    "unit.data.battlehammer.name":"Battlehammer",
+    "unit.data.battlehammer.lore":"Battlehammer is the name of the clan of reputable <style=\"value\">Dwarven Warriors</style> that came down the Mountains to participate in the fight against the creatures that invaded the Kingdoms disturbing the peace (and trading routes).",
+    "unit.data.battlehammer.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style>",
+    "unit.data.battlehammer.combo.1":"Block<sprite name=\"card_icon_block\"><style=\"value\">4</style>,\n<style=\"value\">x2</style> against <style=\"value\">Quick</style> Attack",
+    "unit.data.battlehammer.description.visuals":"Gruffy looking dwarf. Wearing a green cape covering the top half of his face and shoulders. Long orange beard. Carrying a large wooden shield, almost as big as him, and a long and heavy battle hammer adorned with a silver lion head."
+}

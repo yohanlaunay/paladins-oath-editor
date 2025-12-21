@@ -1,0 +1,11 @@
+{
+    "location.data.dungeon.name":"Dungeon",
+    "location.data.dungeon.descriptor":"Dungeon",
+    "location.data.dungeon.reward.name":"Dungeon Loot",
+    "location.data.dungeon.status.conquered":"The Dungeon has been <style=\"status\">Looted</style>.",
+    "location.data.dungeon.effect.assault":"<style=\"status\">Enter</style> to Battle with the Enemies lurking there and <style=\"status\">Loot</style> their <style=\"value\">Relic or Spell stash</style>. Your Followers will not participate and Night restrictions apply.",
+    "location.data.dungeon.effect.assault_conquered":"When <style=\"status\">Looted</style>, you can still Battle with new Enemies there but there won't be any more loot to be found.",
+    "location.data.dungeon.assault.title":"Lurking Enemies",
+    "location.data.dungeon.assault.subtitle":"Enter to Battle",
+    "location.data.dungeon.assault.label":"Enter"
+}

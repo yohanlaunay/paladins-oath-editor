@@ -1,0 +1,5 @@
+{
+    "card.data.contract.name":"Contract",
+    "card.data.contract.actions.basic":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">2</style>",
+    "card.data.contract.actions.advanced":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">5</style>.\nReputation <style=\"value\">-1</style> at end of the turn"
+}

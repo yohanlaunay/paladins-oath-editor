@@ -1,0 +1,4 @@
+{
+    "skill.data.pathfinder.name":"Pathfinder",
+    "skill.data.pathfinder.combo":"Move<sprite name=\"card_icon_move\"><style=\"value\">1</style>.\nExploration <style=\"status\">Distance</style> <style=\"value\">+2</style> <size=-5>(<style=\"status\">Day</style>)</size>, Exploration <style=\"status\">Cost</style> <style=\"value\">-2</style><size=-5> (<style=\"status\">Night</style>)</size>"
+}

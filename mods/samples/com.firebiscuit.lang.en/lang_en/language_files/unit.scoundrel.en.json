@@ -1,0 +1,10 @@
+{
+    "unit.data.scoundrel.name":"Scoundrel",
+    "unit.data.scoundrel.lore":"Infamous and for hire, Scoundrels will employ all kinds of sneaky tactics to help their employer get what they want, including infiltration and undercover work.",
+    "unit.data.scoundrel.cost.recruit.description":"Base cost Leadership <style=\"value\">{0}</style> but <b>Reputation</b> impact is <style=\"value\">inverted</style> (bad reputation = cheaper cost)",
+    "unit.data.scoundrel.combo.0":"Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.scoundrel.combo.1":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style>. Reputation <style=\"value\">-1</style> at the end of the turn",
+    "unit.data.scoundrel.combo.2":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">4</style>. Reputation <style=\"value\">-1</style> at the end of the turn",
+    "unit.data.scoundrel.rewards.name":"Scoundrel Tactics",
+    "unit.data.scoundrel.description.visuals":"Thieving looking character. Carrying an S-shaped dagger. Wearing a long red hood covering his face entirely except for red piercing eyes. He is wearing a light leather armor. Other red eyes are seen behind him, indicating he likely doesn't act alone."
+}

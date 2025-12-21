@@ -1,0 +1,4 @@
+{
+    "skill.data.tormenting_thoughts.name":"Tormenting Thoughts",
+    "skill.data.tormenting_thoughts.combo":"During the <i>Block</i> Phase, <b>reduce</b> an Enemy's <style=\"status\">Attack</style> by <style=\"value\">1</style>, or <b>increase</b> it by <style=\"value\">2</style> but <b>reduce</b> its <style=\"status\">Armor</style> by <style=\"value\">2</style>"
+}

@@ -1,0 +1,7 @@
+{
+    "card.data.glorious_death.name": "Glorious Death",
+    "card.data.glorious_death.actions.basic": "Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>or</b> Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style> and <style=\"value\">+1</style> Reputation per Enemy <style=\"status\">Defeated</style> by this Attack",
+    "card.data.glorious_death.actions.basic.glorious": "Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>and</b> <style=\"value\">+1</style> Reputation per Enemy <style=\"status\">Defeated</style> by this Attack",
+    "card.data.glorious_death.actions.advanced": "Attack<sprite name=\"card_icon_attack\"><style=\"value\">6</style> <b>or</b> Attack<sprite name=\"card_icon_attack\"><style=\"value\">4</style> and <style=\"value\">+1</style> Reputation and <style=\"value\">+1</style> XP per Enemy <style=\"status\">Defeated</style> by this Attack",
+    "card.data.glorious_death.actions.advanced.glorious": "Attack<sprite name=\"card_icon_attack\"><style=\"value\">4</style> <b>and</b> <style=\"value\">+1</style> Reputation <b>and</b> <style=\"value\">+1</style> XP per Enemy <style=\"status\">Defeated</style> by this Attack"
+}

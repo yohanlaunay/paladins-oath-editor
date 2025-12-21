@@ -1,0 +1,4 @@
+{
+    "skill.data.wind_portal.name":"Wind Portal",
+    "skill.data.wind_portal.combo":"<style=\"status\">Teleport</style><sprite name=\"card_icon_move\"><style=\"value\">1</style> Space away for <style=\"status\">Free</style> or <sprite name=\"card_icon_move\"><style=\"value\">2</style> Spaces away for <style=\"value\">2</style> Movement"
+}

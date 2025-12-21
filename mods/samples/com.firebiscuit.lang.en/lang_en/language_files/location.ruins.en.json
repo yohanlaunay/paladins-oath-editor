@@ -1,0 +1,10 @@
+{
+    "location.data.ruins.descriptor":"Ruins",
+    "location.data.ruins.name":"Ruins",
+    "location.data.ruins.reward.name":"Loot from Battle",
+    "location.data.ruins.status.conquered":"The Ruins have been <style=\"status\">Cleared</style>.",
+    "location.data.ruins.effect.assault":"<style=\"status\">Enter</style> to Battle with the Enemies lurking there and <style=\"status\">Loot</style> their <style=\"value\">Crystals & Relic stash</style>.",
+    "location.data.ruins.assault.title":"Lurking Enemies",
+    "location.data.ruins.assault.subtitle":"Enter to Battle",
+    "location.data.ruins.assault.label":"Enter"
+}

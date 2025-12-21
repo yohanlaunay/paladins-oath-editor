@@ -1,0 +1,5 @@
+{
+    "card.data.regeneration.name": "Regeneration",
+    "card.data.regeneration.actions.basic": "Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>.\nHeal<sprite name=\"card_icon_heal\"><style=\"value\">1</style>",
+    "card.data.regeneration.actions.advanced": "Move<sprite name=\"card_icon_move\"><style=\"value\">4</style>.\nHeal<sprite name=\"card_icon_heal\"><style=\"value\">2</style>"
+}

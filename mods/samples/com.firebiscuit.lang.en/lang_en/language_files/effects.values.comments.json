@@ -1,0 +1,8 @@
+{
+    "effects.values.data.add.description{0}":"Dynamic Value Description. Example: '2', '# of Cards in Hand', '# of Enemies Blocked'",
+    "effects.values.data.divide.description{0}":"Dynamic Value Description. Example: '2', '# of Cards in Hand', '# of Enemies Blocked'",
+    "effects.values.data.multiply.description{0}":"Dynamic Value Description. Example: '2', '# of Cards in Hand', '# of Enemies Blocked'",
+    "effects.values.data.percent_add.description{0}":"Dynamic Value Description. Example: '2', '# of Cards in Hand', '# of Enemies Blocked'",
+    "effects.values.data.percent_remove.description{0}":"Dynamic Value Description. Example: '2', '# of Cards in Hand', '# of Enemies Blocked'",
+    "effects.values.data.remove.description{0}":"Dynamic Value Description. Example: '2', '# of Cards in Hand', '# of Enemies Blocked'"
+}

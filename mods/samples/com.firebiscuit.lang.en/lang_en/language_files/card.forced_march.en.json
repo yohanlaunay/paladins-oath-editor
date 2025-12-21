@@ -1,0 +1,6 @@
+{
+    "card.data.forced_march.name":"Forced March",
+    "card.data.forced_march.actions.basic":"Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>.\nAnother card gets <style=\"value\">+1</style> to the Movement it provides",
+    "card.data.forced_march.actions.basic.move":"Discard a card to get Move<sprite name=\"card_icon_move\"><style=\"value\">2</style> <b>or</b> activate another card to get <style=\"value\">+1</style> to the Movement it provides",
+    "card.data.forced_march.actions.advanced":"Move<sprite name=\"card_icon_move\"><style=\"value\">4</style>.\nEvery <b>other</b> Card gets <style=\"value\">+1</style> to the Movement it provides"
+}

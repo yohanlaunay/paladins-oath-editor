@@ -1,0 +1,48 @@
+{
+	"guid": "scenario_hostages",
+	"guid.comments": "string. guid, unique only within the mod. Will be turned into GUID 'mod:'+$yourModId+':'+$guid",
+	"name": "Hostages",
+	"name.comments": "string. Name to be displayed in the scenario configuration options screen",
+	"description": "Local villagers told you that monsters have taken their friends hostage at the Bazaar and fortified themselves. You must liberate them from all surrounding enemies.",
+	"description.comments": "string. Mod description to be displayed in the scenario configuration options screen",
+	"iconSprite": "icon.png",
+	"iconSprite.comments": "string. name of local file (local to the mod folder). PNG, 256x256. Shown in battle and location enemy lists.",
+	"duration": 2,
+	"duration.comments": "int [ScenarioDuration enum]",
+	"difficulty": 2,
+	"difficulty.comments": "int [ScenarioDifficulty enum]",
+	"winConditions": [
+		"Defeat all the Rampaging Enemies around the Bazaar.",
+		"Defeat all the Enemies in Kraks around the Bazaar.",
+		"Move to the Bazaar."
+	],
+	"winConditions.comments": "List<string>. Win conditions description (not localized)",
+	"specialRules": [
+		"Villagers gave you a precious Relic and crystals and will supply you with White Crystal every round.",
+		"One of them knows the way and will accompany you.",
+		"The longer you wait, the worse your reputation becomes."
+	],
+	"specialRules.comments": "List<string>. Special scenario rules description (not localized)",
+	"shouldCompleteAtEndOfTurn": true,
+	"shouldCompleteAtEndOfTurn.comments": "bool [default=True]. False if the scenario will be ended as soon as conditions are completed instead of waiting for end of turn.",
+	"scoreCategories": [
+		"score_xp",
+		"score_units",
+		"score_crystal_pairs",
+		"score_wounds_2",
+		"score_spells_2",
+		"score_relics_2",
+		"score_advanced_actions_1",
+		"score_conquered_locations",
+		"score_conquered_citadels_10",
+		"score_conquered_all_citadels_15",
+		"score_end_of_round_unannounced_5",
+		"score_remaining_rounds_30"
+	],
+	"scoreCategories.comments": "List<ScoreCategory::GUID>. List of categories contributing to scenario score.",
+	"script": {
+		"fileName": "scenario_hostages.lua",
+		"fileName.comments": "string. Name of the script file in the same folder as the mods.json. The extension matters, use one of the supported extension (ex: '.lua')"
+	},
+	"script.comments": "ModScriptInfo. Script to execute."
+}

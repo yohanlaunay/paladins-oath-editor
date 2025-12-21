@@ -1,0 +1,7 @@
+{
+    "card.data.righteousness.name":"Righteousness",
+    "card.data.righteousness.actions.basic":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">2</style>.\n<style=\"value\">+1 XP</style> at <b>End of Turn</b> if used during <style=\"status\">Interaction</style>",
+    "card.data.righteousness.actions.advanced":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">4</style>.\n<style=\"value\">+1 XP</style> <b>and</b> <style=\"value\">+1 Reputation</style> at <b>End of Turn</b> if used during <style=\"status\">Interaction</style>",
+    "card.data.righteousness.actions.basic.rewards.name":"Righteousness",
+    "card.data.righteousness.actions.advanced.rewards.name":"Righteousness"
+}

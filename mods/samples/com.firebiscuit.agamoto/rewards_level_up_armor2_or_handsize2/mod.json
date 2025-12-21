@@ -1,0 +1,13 @@
+{
+	"guid": "rewards_level_up_armor2_or_handsize2",
+	"guid.comments": "string. guid, unique only within the mod. Will be turned into GUID 'mod:'+$yourModId+':'+$guid",
+	"name": "Level-Up Rewards",
+	"name.comments": "string. Reward name (not localized) to be displayed when the rewards are distributed.",
+	"comboType": 1,
+	"comboType.comments": "(Optional) int (AND=0 | OR=1) [default=AND(0)]. Determines how the reward options are given to the player.",
+	"rewardOptions": [
+		"reward_player_armor_2",
+		"reward_player_hand_size_2"
+	],
+	"rewardOptions.comments": "List<RewardData::GUID>. List of rewards to give to the player. Cannot be empty."
+}

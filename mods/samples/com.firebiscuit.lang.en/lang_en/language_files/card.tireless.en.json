@@ -1,0 +1,7 @@
+{
+    "card.data.tireless.name": "Tireless",
+    "card.data.tireless.actions.basic": "Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>. At <b>End of Turn</b> you may <style=\"status\">shuffle</style> the card back into your <style=\"value\">Deck</style> (if it is <style=\"status\">not empty</style>)",
+    "card.data.tireless.actions.basic.move": "At <b>End of Turn</b> <style=\"status\">shuffle</style> the card back into your <style=\"value\">Deck</style> (if it is <style=\"status\">not empty</style>)",
+    "card.data.tireless.actions.advanced": "Move<sprite name=\"card_icon_move\"><style=\"value\">4</style>. At <b>End of Turn</b> you may put the card to the <style=\"status\">Top</style> of your <style=\"value\">Deck</style>",
+    "card.data.tireless.actions.advanced.move": "At <b>End of Turn</b> you may put the card to the <style=\"status\">Top</style> of your <style=\"value\">Deck</style>"
+}

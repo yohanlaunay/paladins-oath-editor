@@ -1,0 +1,5 @@
+{
+    "card.data.archetype.name": "Archetype",
+    "card.data.archetype.actions.basic": "Leadership<sprite name=\"card_icon_influence\"><style=\"value\">2</style>. Once this turn, pay Leadership<sprite name=\"card_icon_influence\"><style=\"value\">6</style> to <b>Gain</b> an <style=\"value\">Advanced Action</style> from the <b>Market</b> <size=-5>to <b>Discard Pile</b></size>",
+    "card.data.archetype.actions.advanced": "Leadership<sprite name=\"card_icon_influence\"><style=\"value\">4</style>. Once this turn, pay Leadership<sprite name=\"card_icon_influence\"><style=\"value\">9</style> to <b>Gain</b> an <style=\"value\">Advanced Action</style> from the <b>Market</b> <size=-5>to <style=\"value\">Hand</style></size>"
+}

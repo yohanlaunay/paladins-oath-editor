@@ -1,0 +1,5 @@
+{
+    "mana.data.gold.name":"Gold",
+    "mana.data.gold.name.full":"Gold Mana",
+    "mana.data.gold.description":"<i><style=\"status\">Special</style> Mana Color.</i>\n\n<style=\"value\">Gold</style> can only be used during the <style=\"status\">Day</style> as a replacement for any <style=\"value\">Basic</style> Mana Color. Gold will be inert during Night time."
+}

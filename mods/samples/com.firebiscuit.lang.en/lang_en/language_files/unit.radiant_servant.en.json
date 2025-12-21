@@ -1,0 +1,8 @@
+{
+    "unit.data.radiant_servant.name":"Radiant Servant",
+    "unit.data.radiant_servant.lore":"Small creatures that live in the Forest adept at Healing magic and restorative potions. They are often found around Villages or Temples providing care and procuring all kinds of cures and remedies.",
+    "unit.data.radiant_servant.combo.0":"Heal<sprite name=\"card_icon_heal\"><style=\"value\">2</style>",
+    "unit.data.radiant_servant.combo.1":"<style=\"status\">Refresh</style> a Follower (<i>Level</i> <style=\"value\">1</style> or <style=\"value\">2</style>)",
+    "unit.data.radiant_servant.combo.2":"Gain a <style=\"value\">Green</style> Mana",
+    "unit.data.radiant_servant.description.visuals":"Tiny bipedal creature coming from the woods. Wearing a wooden face, leafs for hair, mushrooms for shoulders. Frail arms carrying a metallic staff with a moon-shaped or hook tip. He is radiating energy like a yellow halo of light."
+}

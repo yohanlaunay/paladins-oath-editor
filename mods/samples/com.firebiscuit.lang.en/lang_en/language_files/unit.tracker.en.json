@@ -1,0 +1,7 @@
+{
+    "unit.data.tracker.name":"Tracker",
+    "unit.data.tracker.lore":"Some adventurers from the land of the Mousefolks with a keen nose and great sense of orientation. They are ideal explorers and will scout for the best roads and tracks when in their natural habitat.",
+    "unit.data.tracker.combo.0":"Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>. Move cost of Forests, Hills and Swamps is <style=\"status\">Reduced by 1</style> this turn",
+    "unit.data.tracker.combo.1":"Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.tracker.description.visuals":"Small mouse, size of a child. Carrying a backpack and wearing a light green tunic and a helmet with tree leaves growing out of it. The mouse uses a bamboo walking stick and a short sword."
+}

@@ -1,0 +1,5 @@
+{
+    "card.data.cold_mastery.name":"Cold Mastery",
+    "card.data.cold_mastery.actions.basic":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>or</b>\n<style=\"value\">Frost</style> Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "card.data.cold_mastery.actions.advanced":"<style=\"value\">Frost</style> Block<sprite name=\"card_icon_block\"><style=\"value\">5</style>,\n<style=\"value\">+1</style> per Enemy abilities and Attack modifiers"
+}

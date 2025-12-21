@@ -1,0 +1,7 @@
+{
+    "benediction.data.day.5.name":"Well Rested",
+    "benediction.data.day.5.description":{
+        "1": "Immediately <style=\"status\">Draw</style> <style=\"value\">{0}</style> Card",
+        "n": "Immediately <style=\"status\">Draw</style> <style=\"value\">{0}</style> Cards",
+        "t": 1}
+}

@@ -1,0 +1,5 @@
+{
+    "card.data.summon_mount.name": "Summon Mount",
+    "card.data.summon_mount.actions.basic": "Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>. The cost of <style=\"value\">all</style> Terrains is <style=\"status\">Reduced by 1</style> (min. <style=\"value\">2</style>)",
+    "card.data.summon_mount.actions.advanced": "Move<sprite name=\"card_icon_move\"><style=\"value\">4</style>. The cost of <style=\"value\">all</style> Terrains is <style=\"status\">Reduced to 2</style>"
+}

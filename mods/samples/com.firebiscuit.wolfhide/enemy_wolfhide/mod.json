@@ -1,0 +1,65 @@
+{
+	"guid": "enemy_wolfhide",
+	"guid.comments": "string. guid, unique only within the mod. Will be turned into GUID 'mod:'+$yourModId+':'+$guid",
+	"numInstancesInDeck": 3,
+	"numInstancesInDeck.comments": "int >= 0 [default=1]. If > 0, the enemy will be added to draw piles.",
+	"name": "Wolfhide",
+	"name.comments": "string. Enemy name (not localized)",
+	"enemyType": "enemy_type_vermling",
+	"enemyType.comments": "EnemyType::GUID. ID of the enemy type resource",
+	"armor": 3,
+	"armor.comments": "int > 0.",
+	"isElusive": true,
+	"isElusive.comments": "(Optional) bool [default=false]. If true, MUST specify elusive data.",
+	"elusiveData": {
+		"armorIfBlocked": 1,
+		"armorIfBlocked.comments": "int > 0."
+	},
+	"elusiveData.comments": "(Optional) ElusiveData. only specify if 'isElusive' is true.",
+	"fortification": 3,
+	"fortification.comments": "(Optional) Fortification::int [default=NotFortified(2)]. Enum value",
+	"xpGain": 3,
+	"xpGain.comments": "int >= 0. How much XP gained when defeating the enemy in battle.",
+	"reputationGain": 0,
+	"reputationGain.comments": "(Optional) int >= 0 [default=0]. How much reputation gained when defeating the enemy in battle.",
+	"reputationGainBonusWhenRampaging": 1,
+	"reputationGainBonusWhenRampaging.comments": "(Optional) int >= 0 [default=1]. How much additional reputation gained when defeating the enemy in battle when it is rampaging.",
+	"challengeRating": 2,
+	"challengeRating.comments": "(Optional) int [1-10] [default=1]. How difficult is the enemy. Used for balancing when drawing randomly and for generating Battle Tale. Check the Wiki for example ratings.",
+	"attacks": [
+		{
+			"element": "element_physical",
+			"element.comments": "Element::GUID. Resource ID. for the attack element",
+			"attackType": 0,
+			"attackType.comments": "(Optional) AttackType::int [default=Basic(0)]. Int value for AttackType enum.",
+			"value": 4,
+			"value.comments": "int > 0. Value of the attack.",
+			"attackModifiers": [
+				1
+			],
+			"attackModifiers.comments": "(Optional) List<AttackModifier::int> [default=EMPTY]. List of modifier enum values (Poison, Cumbersome, ...)"
+		}
+	],
+	"attacks.comments": "List<AttackData>. Can be empty if 'summoningAttacks' as at least one value.",
+	"summoningAttacks": [],
+	"summoningAttacks.comments": "List<EnemyType>. Type of enemy summoned by this attack. Can be empty if 'attacks' as at least one value.",
+	"immunities": [],
+	"immunities.comments": "List<Immunity::int>. List of immunity enum values.",
+	"resistances": [
+		"element_fire"
+	],
+	"resistances.comments": "List<Element::GUID>. List of element Ids the enemy is resistant to.",
+	"portraitSprite": "wolfhide_portrait.png",
+	"portraitSprite.comments": "string. name of local file (local to the mod enemy folder). PNG, 512x512. Shown in battle and location enemy lists.",
+	"fullBodySprite": "wolfhide_full.png",
+	"fullBodySprite.comments": "string. name of local file (local to the mod enemy folder). PNG, 1024x1024, Outline (10px; 0,0,0). Shown in battle.",
+	"fullBodyOutlineSprite": "wolfhide_full_outline.png",
+	"fullBodyOutlineSprite.comments": "string. name of local file (local to the mod enemy folder). PNG, White, 1024x1024. Shown in battle.",
+	"tileData": {
+		"tileNormalSprite": "wolfhide_tile_default.png",
+		"tileNormalSprite.comments": "string. local file path in mod enemy folder. PNG, 512x768, Outline (10px; 0,0,0), Using the map token base.",
+		"tileOutlinedSprite": "wolfhide_tile_default_outlined.png",
+		"tileOutlinedSprite.comments": "string. local file path in mod enemy folder. PNG, 512x768, Outline (5px; 0,255,33), outlined version of Normal."
+	},
+	"tileData.comments": "EnemyTileData. Info to represent the enemy on the map."
+}

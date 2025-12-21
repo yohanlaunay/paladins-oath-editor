@@ -1,0 +1,5 @@
+{
+    "card.data.impurity_destruction.name":"Impurity Destruction",
+    "card.data.impurity_destruction.actions.basic":"Ignore Location <style=\"status\">Fortifications</style>.\nEnemies get Armor <style=\"value\">-1</style>",
+    "card.data.impurity_destruction.actions.advanced":"During <style=\"value\">Attack Phase</style>, <style=\"status\">Destroy</style> targeted enemy.\nOther enemies get Armor <style=\"value\">-1</style>"
+}

@@ -1,0 +1,7 @@
+{
+    "card.data.angelic_tears.name":"Angelic Tears",
+    "card.data.angelic_tears.actions.basic":"<style=\"status\">Give</style> to a Follower:\n<style=\"value\">Once a Day / Night</style> before Battle, <style=\"status\">Refresh</style> that Follower",
+    "card.data.angelic_tears.actions.throw":"<style=\"sacrifice\">Destroy</style> outside of combat to <style=\"status\">Refresh</style> <style=\"value\">All</style> the Followers under your command",
+    "card.data.angelic_tears.skill.name":"Angelic Resilience",
+    "card.data.angelic_tears.skill.description":"<style=\"status\">Activate</style> before Battle to <style=\"status\">Refresh</style> the Follower"
+}

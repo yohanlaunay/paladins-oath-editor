@@ -1,0 +1,5 @@
+{
+    "card.data.pyrokinetic_combat.name":"Pyrokinetic Combat",
+    "card.data.pyrokinetic_combat.actions.basic":"<style=\"value\">Fire</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>or</b>\n<style=\"value\">Fire</style> Block<sprite name=\"card_icon_block\"><style=\"value\">7</style>",
+    "card.data.pyrokinetic_combat.actions.advanced":"<style=\"value\">Fire</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>or</b>\n<style=\"value\">Fire</style> Block<sprite name=\"card_icon_block\"><style=\"value\">7</style>.\n<style=\"value\">+2</style> per <style=\"status\">Enemy faced</style>"
+}

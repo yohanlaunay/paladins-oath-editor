@@ -1,0 +1,4 @@
+{
+    "skill.data.death_ward.name":"Death Ward",
+    "skill.data.death_ward.combo":"<style=\"status\">Heal</style> up to <style=\"value\">2</style> <style=\"wound\">Wounds</style> from your Hand.\n<i>(Before or After Battle)</i>"
+}

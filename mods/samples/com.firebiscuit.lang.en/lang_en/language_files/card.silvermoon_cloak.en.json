@@ -1,0 +1,5 @@
+{
+    "card.data.silvermoon_cloak.name":"Silvermoon Cloak",
+    "card.data.silvermoon_cloak.actions.basic":"Gain a <style=\"value\">White</style> Mana and a <style=\"value\">White</style> Crystal.\n<style=\"value\">+1 XP</style>",
+    "card.data.silvermoon_cloak.actions.throw":"<style=\"sacrifice\">Destroy</style> to generate an <style=\"status\">Endless</style> supply of <style=\"value\">White</style> and <style=\"value\">Black</style> Mana.\n<style=\"value\">+1 XP</style> for each <style=\"value\">White Spell</style> you <style=\"status\">Cast</style>"
+}

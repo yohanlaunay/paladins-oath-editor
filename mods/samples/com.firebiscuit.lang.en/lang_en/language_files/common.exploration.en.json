@@ -1,0 +1,8 @@
+{
+    "exploration.panels.map_tiles.regular.tooltip.header":"Regular Map Sections Remaining",
+    "exploration.panels.map_tiles.core.tooltip.header":"Core Map Sections Remaining",
+    "exploration.dialog.move_or_interact.title":"Move or Look",
+    "exploration.dialog.move_or_interact.content":"Are you trying to <style=\"status\">Move</style> or <style=\"status\">Look</style> at the features of this Tile like Enemies, Location and other <style=\"status\">Interactable</style> elements?",
+    "exploration.dialog.move_or_interact.btn.move":"Move",
+    "exploration.dialog.move_or_interact.btn.look":"Look"
+}

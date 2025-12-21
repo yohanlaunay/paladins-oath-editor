@@ -1,0 +1,5 @@
+{
+    "card.data.crimson_shroud.name":"Crimson Shroud",
+    "card.data.crimson_shroud.actions.basic":"Gain a <style=\"value\">Red</style> Mana and a <style=\"value\">Red</style> Crystal.\n<style=\"value\">+1 XP</style>",
+    "card.data.crimson_shroud.actions.throw":"<style=\"sacrifice\">Destroy</style> to generate an <style=\"status\">Endless</style> supply of <style=\"value\">Red</style> and <style=\"value\">Black</style> Mana.\n<style=\"value\">+1 XP</style> for each <style=\"value\">Red Spell</style> you <style=\"status\">Cast</style>"
+}

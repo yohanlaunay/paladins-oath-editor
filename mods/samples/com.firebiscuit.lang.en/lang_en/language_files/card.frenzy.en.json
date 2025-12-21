@@ -1,0 +1,5 @@
+{
+    "card.data.frenzy.name":"Frenzy",
+    "card.data.frenzy.actions.basic":"Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>",
+    "card.data.frenzy.actions.advanced":"<i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>"
+}

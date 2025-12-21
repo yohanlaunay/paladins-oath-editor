@@ -1,0 +1,10 @@
+{
+    "home.menu.game.load.scenario.label{0}":"Scenario Name",
+    "home.menu.game.load.oath.label{0}":"Name",
+    "home.menu.game.load.level.label{0}":"Positive number",
+    "home.menu.score.btn.show{0}":"Score value (Positive number)",
+    "home.mods.actions.unregister.confirmation.content{0}":"Mod Id (string)",
+    "home.mods.actions.update.confirmation.content{0}":"Mod Id (string)",
+    "home.menu.options.game.gameplay.map.zoom_sensitivity{0}":"Zoom sensitivity value (int)",
+    "home.menu.options.game.accessibility.ui.scroll_sensitivity{0}":"UI Scrolling Sensitivity (int)"
+}

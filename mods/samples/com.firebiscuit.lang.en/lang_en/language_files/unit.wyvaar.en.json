@@ -1,0 +1,8 @@
+{
+    "unit.data.wyvaar.name":"Wyvaar",
+    "unit.data.wyvaar.lore":"Powerful summoned creature resembling a Black Panther. Wyvaar has been the trusty companion of Zaurahel since he defeated Wyvaar's abusive summoner in the underworld. After the summoner's death, Wyvaar decided to remain in this plane of existence and accompany Zaurahel wherever he goes.",
+    "unit.data.wyvaar.combo.0":"<i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">2</style>",
+    "unit.data.wyvaar.combo.1":"Block<sprite name=\"card_icon_block\"><style=\"value\">2</style>",
+    "unit.data.wyvaar.combo.2":"Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>",
+    "unit.data.wyvaar.description.visuals":"Very large black panther with piercing but comforting white eyes. Blue light emanating from its black fur."
+}

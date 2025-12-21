@@ -1,0 +1,8 @@
+{
+    "unit.data.sylvain_guards.name":"Sylvain Guards",
+    "unit.data.sylvain_guards.lore":"Race of giant living trees, the Sylvain Guards are usually recruited to help fortify the Kingdom's Citadels and protect the troops. Given the current situation, it will not be easy to convince their employer to let them go.",
+    "unit.data.sylvain_guards.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">5</style>",
+    "unit.data.sylvain_guards.combo.1":"Block<sprite name=\"card_icon_block\"><style=\"value\">8</style>,\n<style=\"value\">x2</style> against <style=\"value\">Quick</style> Attack",
+    "unit.data.sylvain_guards.combo.2":"Your Followers gain <style=\"value\">all</style> Resistances (<b>Before Battle</b>)",
+    "unit.data.sylvain_guards.description.visuals":"Small group of living tree stubs with yellow leaves for hair and yellow looking eyes. Large opening in the trunk acting as a mouth. Short wooden arms."
+}

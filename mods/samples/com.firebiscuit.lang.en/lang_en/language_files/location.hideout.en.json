@@ -1,0 +1,10 @@
+{
+    "location.data.hideout.descriptor":"Hideout",
+    "location.data.hideout.name":"Hideout",
+    "location.data.hideout.reward.name":"Loot from Battle",
+    "location.data.hideout.status.conquered":"The Hideout has been <style=\"status\">Cleared</style>.",
+    "location.data.hideout.effect.assault":"<style=\"status\">Enter</style> to Battle with the Enemies lurking there and <style=\"status\">Loot</style> their <style=\"value\">Crystals stash</style>.",
+    "location.data.hideout.assault.title":"Lurking Enemies",
+    "location.data.hideout.assault.subtitle":"Enter to Battle",
+    "location.data.hideout.assault.label":"Enter"
+}

@@ -1,0 +1,8 @@
+{
+    "unit.data.faerie.name":"Faerie",
+    "unit.data.faerie.lore":"Beings born of magic, always found roaming near sources of magic or powerful magic items like Spires and Temple reliquaries. They were first discovered by the High Priestess when hunting for relics and they have been studied and used by the Arcane Order for their extraordinary resistance to magic.",
+    "unit.data.faerie.combo.0":"<i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>",
+    "unit.data.faerie.combo.1":"<i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>.\nAn Enemy loses <style=\"value\">all</style> Fortifications",
+    "unit.data.faerie.combo.2":"<i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>.\nAn Enemy loses <style=\"value\">all</style> Resistances",
+    "unit.data.faerie.description.visuals":"Tiny flying elf with long silver hair and blue transparent wings. Wearing a green tunic. Carrying a green orb with bubbling energy inside and multiple streams of green energy circulating around her."
+}

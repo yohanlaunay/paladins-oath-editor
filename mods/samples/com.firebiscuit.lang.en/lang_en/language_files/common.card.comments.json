@@ -1,0 +1,13 @@
+{
+    "card.location.condition.except{0}":"List of Card Decks (comma<space> separated). Example: 'Discard Pile, Draw Pile'",
+    "card.location.condition.if{0}":"List of Card Decks (comma<space> separated). Example: 'Discard Pile, Draw Pile'",
+    "card.location.condition.list{0}":"List of Card Decks (comma<space> separated). Example: 'Discard Pile, Draw Pile'",
+    "card.slot.condition.except{0}":"List of Card Slots (comma<space> separated). Example: 'Advanced, Basic'",
+    "card.slot.condition.if{0}":"List of Card Slots (comma<space> separated). Example: 'Advanced, Basic'",
+    "card.slot.condition.list{0}":"List of Card Slots (comma<space> separated). Example: 'Advanced, Basic'",
+    "card.name.with_count{0}":"Card Name",
+    "card.name.with_count{1}":"Card Count",
+    "card.type.condition.except{0}":"List of Card Types (comma<space> separated). Example: 'Spell, Relic, Action'",
+    "card.type.condition.if{0}":"List of Card Types (comma<space> separated). Example: 'Spell, Relic, Action'",
+    "card.type.condition.list{0}":"List of Card Types (comma<space> separated). Example: 'Spell, Relic, Action'"
+}

@@ -1,0 +1,7 @@
+{
+    "unit.data.pirate.name":"Pirate",
+    "unit.data.pirate.lore":"Typically at sea, but with the conjunction of the planes their maritime activities were severely disrupted so they are now taking matters into their own hooks.",
+    "unit.data.pirate.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">5</style>",
+    "unit.data.pirate.combo.1":"<i>Range</i> <style=\"value\">Fire</style> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">6</style>",
+    "unit.data.pirate.description.visuals":"White beard pirate wearing a blue outfit. Holding a large blunderbuss cannon and carrying a bag full of ammunition."
+}

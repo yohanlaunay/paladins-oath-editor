@@ -1,0 +1,10 @@
+{
+	"guid": "lang_en",
+	"guid.comments": "string. guid, unique only within the mod. Will be turned into GUID 'mod:'+$yourModId+':'+$guid",
+	"name": "Language Pack (English)",
+	"name.comments": "string. Internal name only",
+	"description": "Sample language pack with all english texts.",
+	"description.comments": "string. Mod description to be displayed in the scenario configuration options screen",
+	"folders": ["language_files"],
+	"files.comments": "List<string> of all file names in this folder with language JSON data"
+}

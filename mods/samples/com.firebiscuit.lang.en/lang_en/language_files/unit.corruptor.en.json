@@ -1,0 +1,8 @@
+{
+    "unit.data.corruptor.name":"Corruptor",
+    "unit.data.corruptor.lore":"Alchemists basking in decomposed Mana vapors giving them unique abilities to corrode and corrupt Metal and Spirit.",
+    "unit.data.corruptor.combo.0":"<i>Range</i> Attack<sprite name=\"card_icon_attack\"><style=\"value\">1</style>.\n<b>Other</b> Followers get <style=\"value\">+1</style> to their Attacks",
+    "unit.data.corruptor.combo.1":"<style=\"status\">Reduce</style> an Enemy Armor <b>and</b> Attack by <style=\"value\">1</style>",
+    "unit.data.corruptor.combo.2":"<style=\"status\">Reduce</style> an Enemy Attack by <style=\"value\">3</style>",
+    "unit.data.corruptor.description.visuals":"Large metallic suit of armor, covering the body fully like a metal hazmat suit. Metallic tubes coming in an out of the armor with some grey liquid spilling out of the joints. The suit has a purple faceplate but it's unclear whether the creature inside is still human anymore. The creature is holding multiple flasks of pink corrosive liquid. A magnetic aura is emanating from the suit."
+}

@@ -1,0 +1,5 @@
+{
+    "scenario.data.epic_conquest.name":"Epic Conquest",
+    "scenario.data.epic_conquest.description":"Embark on an epic journey to <style=\"status\">take over</style> all the Citadels with this long scenario where you can make full use of all your Cards, Spells, Followers and Relics.",
+    "scenario.data.epic_conquest.win.0":"All the <style=\"value\">Citadels</style> must be <style=\"status\">Conquered</style> before the end of the last Round."
+}

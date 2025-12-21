@@ -1,0 +1,7 @@
+{
+    "skill.data.decaying_smite.name":"Decaying Smite",
+    "skill.data.decaying_smite.combo":"Remove one <style=\"value\">Resistance or Fortification</style> from an Enemy or one <style=\"value\">Element or Modifier</style> from their Attacks <size=-2>(ineffective against <style=\"status\">Arcane Immunity</style>)</size>",
+    "skill.data.decaying_smite.combo.resistance":"Enemy loses one <style=\"value\">Resistance</style>",
+    "skill.data.decaying_smite.combo.attack.element":"Enemy loses one Attack <style=\"value\">Element</style>",
+    "skill.data.decaying_smite.combo.attack.modifier":"Enemy loses one Attack <style=\"value\">Modifier</style>"
+}

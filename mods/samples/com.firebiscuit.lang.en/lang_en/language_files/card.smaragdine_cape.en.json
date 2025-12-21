@@ -1,0 +1,5 @@
+{
+    "card.data.smaragdine_cape.name":"Smaragdine Cape",
+    "card.data.smaragdine_cape.actions.basic":"Gain a <style=\"value\">Green</style> Mana and a <style=\"value\">Green</style> Crystal.\n<style=\"value\">+1 XP</style>",
+    "card.data.smaragdine_cape.actions.throw":"<style=\"sacrifice\">Destroy</style> to generate <style=\"status\">Endless</style> supply of <style=\"value\">Green</style> and <style=\"value\">Black</style> Mana.\n<style=\"value\">+1 XP</style> for each <style=\"value\">Green Spell</style> you <style=\"status\">Cast</style>"
+}

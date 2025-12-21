@@ -1,0 +1,13 @@
+{
+    "benediction.data.day.2.name":"Renewal",
+    "benediction.data.day.2.description":{
+        "1": "Immediately <style=\"status\">Discard</style> up to <style=\"value\">{0}</style> Card (including <style=\"wound\">Wounds</style>) and <style=\"status\">Draw</style> that many cards. The <style=\"status\">Discarded</style> cards will be shuffled back into your Deck afterwards",
+        "n": "Immediately <style=\"status\">Discard</style> up to <style=\"value\">{0}</style> Cards (including <style=\"wound\">Wounds</style>) and <style=\"status\">Draw</style> that many cards. The <style=\"status\">Discarded</style> cards will be shuffled back into your Deck afterwards",
+        "t": 1},
+    "benediction.data.day.2.selection.title":{
+        "1": "Select up to <style=\"value\">{0}</style> Card to <style=\"value\">Discard</style>",
+        "n": "Select up to <style=\"value\">{0}</style> Cards to <style=\"value\">Discard</style>",
+        "t": 1},
+    "benediction.data.day.2.selection.close.confirm.title":"Cancel Card Selection?",
+    "benediction.data.day.2.selection.close.confirm.content":"If you don't select cards now for your <style=\"value\">Benediction</style>, you <style=\"status\">will not be able</style> to select cards again <style=\"value\">for this Round</style>.\n\n<style=\"status\">Cancel</style> Selection?"
+}

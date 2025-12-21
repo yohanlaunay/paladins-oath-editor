@@ -1,0 +1,4 @@
+{
+    "skill.data.purification.name":"Purification",
+    "skill.data.purification.combo":"<style=\"status\">Reduce</style> Enemy Armor <style=\"value\">by 1</style> for each <style=\"status\">Resistance</style> they have"
+}

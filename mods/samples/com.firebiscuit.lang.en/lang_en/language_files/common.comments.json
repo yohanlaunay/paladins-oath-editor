@@ -1,0 +1,14 @@
+{
+    "common.menu.panels.category.label.with_entries_count{0}":"Category Name. Example: 'Cards', 'Enemies'",
+    "common.menu.panels.category.label.with_entries_count{1}":"Category Entries Count. Example: 5",
+    "game.phase.condition.except{0}":"List of Phases (comma<space> separated). Example: 'Before Battle, Range Attacks, Block'",
+    "game.phase.condition.if{0}":"List of Phases (comma<space> separated). Example: 'Before Battle, Range Attacks, Block'",
+    "game.phase.condition.list{0}":"List of Phases (comma<space> separated). Example: 'Before Battle, Range Attacks, Block'",
+    "game.settings.graphics.resolution.option{0}": "Width. Number.",
+    "game.settings.graphics.resolution.option{1}": "Height. Number.",
+    "game.settings.graphics.monitor.option{0}": "Monitor Number",
+    "game.time.condition.except{0}":"List of Time conditions (comma<space> separated). Example: 'Day, Night'",
+    "game.time.condition.if{0}":"List of Time conditions (comma<space> separated). Example: 'Day, Night'",
+    "game.time.condition.list{0}":"List of Time conditions (comma<space> separated). Example: 'Day, Night'",
+    "locale.en.name":"Name of this Language to show to the user"
+}

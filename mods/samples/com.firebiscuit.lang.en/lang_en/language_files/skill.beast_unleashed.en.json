@@ -1,0 +1,4 @@
+{
+    "skill.data.beast_unleashed.name":"Beast Unleashed",
+    "skill.data.beast_unleashed.combo":"<style=\"status\">Discard</style> a Card to get Move<sprite name=\"card_icon_move\"><style=\"value\">4</style>, Leadership<sprite name=\"card_icon_influence\"><style=\"value\">4</style>, Attack<sprite name=\"card_icon_attack\"><style=\"value\">4</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">4</style>.\n<style=\"value\">+1</style> per <style=\"status\">empty</style> Follower <b>Slot</b>"
+}

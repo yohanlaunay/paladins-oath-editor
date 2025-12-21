@@ -1,0 +1,5 @@
+{
+    "card.data.pyrokinesis.name": "Pyrokinesis",
+    "card.data.pyrokinesis.actions.basic": "Gain a <style=\"value\">Red Crystal</style>",
+    "card.data.pyrokinesis.actions.advanced": "<i>Range</i> <style=\"value\">Fire</style> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>"
+}

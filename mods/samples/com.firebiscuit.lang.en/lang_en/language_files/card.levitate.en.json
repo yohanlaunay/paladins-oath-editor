@@ -1,0 +1,5 @@
+{
+    "card.data.levitate.name":"Levitate",
+    "card.data.levitate.actions.basic":"Pay <style=\"value\">1 - 5</style> Movement to <style=\"status\">Teleport</style> that many spaces on the map",
+    "card.data.levitate.actions.advanced":"<style=\"status\">Cancel</style> targeted Enemy's Attack. Pay <style=\"value\">1</style> Movement to target a second Enemy, <style=\"value\">2</style> for a third Enemy, etc"
+}

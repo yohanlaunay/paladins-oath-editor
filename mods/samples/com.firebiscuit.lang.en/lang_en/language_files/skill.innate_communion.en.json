@@ -1,0 +1,4 @@
+{
+    "skill.data.innate_communion.name":"Innate Communion",
+    "skill.data.innate_communion.combo":"The <style=\"status\">default</style> action of <style=\"value\">1</style> Card gives <style=\"value\">+2</style> instead of <style=\"value\">+1</style>.\n<style=\"value\">+3</style> if you didn't use any <style=\"value\">Ambient Mana</style> this turn"
+}

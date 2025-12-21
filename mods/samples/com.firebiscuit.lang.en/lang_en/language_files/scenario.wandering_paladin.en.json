@@ -1,0 +1,5 @@
+{
+    "scenario.data.wandering_paladin.name":"Wandering Paladin",
+    "scenario.data.wandering_paladin.description":"You are on your personal crusade to rid the land of the spawns that came from the Conjunction of the Planes.",
+    "scenario.data.wandering_paladin.win.0":"<style=\"status\">Explore</style> and <style=\"status\">Battle</style> until you don't want to anymore."
+}

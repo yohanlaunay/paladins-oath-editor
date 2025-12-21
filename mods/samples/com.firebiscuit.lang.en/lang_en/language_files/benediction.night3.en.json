@@ -1,0 +1,13 @@
+{
+    "benediction.data.night.3.name":"Arcane Domination",
+    "benediction.data.night.3.description":{
+        "1": "At the <style=\"value\">Start</style> of each turn, you may activate this ability to <style=\"status\">Re-Roll</style> up to <style=\"value\">{0} Ambient Mana</style>. <style=\"value\">Gold</style> will always be selected if present",
+        "n": "At the <style=\"value\">Start</style> of each turn, you may activate this ability to <style=\"status\">Re-Roll</style> up to <style=\"value\">{0} Ambient Mana</style>. <style=\"value\">Gold</style> will always be selected if present",
+        "t": 1},
+    "benediction.data.night.3.source.updated.title":"Updated Ambient Mana",
+    "benediction.data.night.3.activation_reminder.title":"Benediction Not Activated",
+    "benediction.data.night.3.activation_reminder.content":"You have not <style=\"status\">Activated</style> your Benediction for this <b>Turn</b>.\n\nDo you want to continue with <style=\"value\">Exploration</style> or <b>check</b> the Benediction first?",
+    "benediction.data.night.3.activation_reminder.activate.accept.label":"Explore",
+    "benediction.data.night.3.activation_reminder.activate.cancel.label":"Cancel"
+
+}

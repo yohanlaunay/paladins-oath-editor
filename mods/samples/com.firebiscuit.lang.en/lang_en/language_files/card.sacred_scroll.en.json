@@ -1,0 +1,9 @@
+{
+    "card.data.sacred_scroll.name":"Sacred Scroll",
+    "card.data.sacred_scroll.actions.basic":"<style=\"status\">Discard</style> a card:\nTeleport<sprite name=\"card_icon_move\"><style=\"value\">2</style> <size=-5>(<style=\"status\">White</style>)</size>\n<style=\"value\">2</style> Crystals <size=-5>(<style=\"status\">Blue</style>)</size>\n<style=\"status\">Refresh</style> a Follower (lvl. 1-3) <size=-5>(<style=\"status\">Red</style>)</size>\nHeal<sprite name=\"card_icon_heal\"><style=\"value\">3</style> <size=-5>(<style=\"status\">Green</style>)</size>",
+    "card.data.sacred_scroll.actions.basic.get_crystals":"Get <style=\"value\">2</style> Crystals",
+    "card.data.sacred_scroll.actions.throw":"<style=\"sacrifice\">Destroy</style> to choose <style=\"value\">2</style> of the options above without discarding a card",
+    "card.data.sacred_scroll.actions.throw.free_basic":"Teleport<sprite name=\"card_icon_move\"><style=\"value\">2</style>, <style=\"value\">2</style> Crystals, <style=\"status\">Refresh</style> a Follower <b>or</b> Heal<sprite name=\"card_icon_heal\"><style=\"value\">3</style>",
+    "card.data.sacred_scroll.actions.throw.get_crystals":"Get <style=\"value\">2</style> Crystals",
+    "card.data.sacred_scroll.actions.get_crystal":"Choose a Crystal"
+}

@@ -1,0 +1,8 @@
+{
+    "unit.data.squealer.name":"Squealer",
+    "unit.data.squealer.lore":"Race of sewer rats, typically living in packs. Can be controlled with the right incentives. They can be used for assaults, invasion and exploration work by sending them ahead. Their numbers can dwindle but they always seem to make more...",
+    "unit.data.squealer.combo.0":"<i>Siege</i> Attack<sprite name=\"card_icon_attack_siege\"><style=\"value\">1</style>",
+    "unit.data.squealer.combo.1":"<style=\"status\">Exploration</style> cost is reduced by <style=\"value\">2</style>",
+    "unit.data.squealer.combo.2":"Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>. <style=\"status\">Exploration</style> distance increased by <style=\"value\">1</style>",
+    "unit.data.squealer.description.visuals":"Large swarm of rats with glowing red eyes."
+}

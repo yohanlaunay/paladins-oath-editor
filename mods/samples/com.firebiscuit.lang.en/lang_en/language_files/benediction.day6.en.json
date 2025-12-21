@@ -1,0 +1,8 @@
+{
+    "benediction.data.day.6.name":"Time Stop",
+    "benediction.data.day.6.description":"<style=\"value\">Once</style> this round, you can activate this ability to <style=\"value\">take another turn</style> immediately after your current turn. <b>Except if end of round is announced</b>. This extra turn will not advance the timer",
+    "benediction.data.day.6.activation_reminder.title":"Benediction Not Activated",
+    "benediction.data.day.6.activation_reminder.content":"You have not <style=\"status\">Activated</style> your Benediction for this <b>Round</b>.\n\nDo you want to continue with <style=\"value\">Exploration</style> or <b>check</b> the Benediction first?",
+    "benediction.data.day.6.activation_reminder.activate.accept.label":"Explore",
+    "benediction.data.day.6.activation_reminder.activate.cancel.label":"Cancel"
+}

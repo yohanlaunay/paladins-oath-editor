@@ -1,0 +1,8 @@
+{
+    "location.data.source.descriptor":"Source",
+    "location.data.source.name":"Source",
+    "location.data.source.effect.healing_essence":"<style=\"status\">Ending</style> your turn at the Source allows you to <style=\"status\">Throw</style> <style=\"wound\">1 Wound</style> from your Hand or Discard pile.",
+    "location.data.source.effect.imbued_magic":"<style=\"status\">Starting</style> your turn at the Source gives you <style=\"value\">1 Gold Mana</style> during the <style=\"status\">Day</style> or <style=\"value\">1 Black Mana</style> at <style=\"status\">Night</style>.",
+    "location.data.source.reward.start_turn.name":"Drawing from the Source",
+    "location.data.source.reward.end_turn.name":"Resting at the Source"
+}

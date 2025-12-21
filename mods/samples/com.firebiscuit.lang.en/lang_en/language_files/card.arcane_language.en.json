@@ -1,0 +1,5 @@
+{
+    "card.data.arcane_language.name":"Arcane Language",
+    "card.data.arcane_language.actions.basic":"Gain <style=\"value\">Blue</style>, <style=\"value\">White</style> or <style=\"value\">Red</style> Mana",
+    "card.data.arcane_language.actions.advanced":"Gain <style=\"status\">Advanced Effects</style> of a Card for <style=\"value\">Free</style>.\n<style=\"value\">+2</style> to Attack, Block, Leadership or Movement it generates"
+}

@@ -1,0 +1,5 @@
+{
+    "card.data.arcane_crafting.name":"Arcane Crafting",
+    "card.data.arcane_crafting.actions.basic":"Turn <style=\"value\">1</style> Mana of any <style=\"status\">Basic</style> Color into <style=\"value\">Crystal</style>",
+    "card.data.arcane_crafting.actions.advanced":"Gain a <style=\"value\">Mana Crystal</style> of your choice"
+}

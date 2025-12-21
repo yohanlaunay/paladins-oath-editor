@@ -1,0 +1,7 @@
+{
+    "card.data.mark_of_the_tyrant.name":"Mark of the Tyrant",
+    "card.data.mark_of_the_tyrant.actions.basic":"<style=\"status\">Give</style> to a Follower:\nDuring <style=\"value\">Block</style>, <style=\"status\">Exhaust</style> the Follower to <style=\"status\">Cancel</style> an Enemy's <style=\"value\">Attack</style> <b>and</b> Gain <style=\"value\">1 XP</style>",
+    "card.data.mark_of_the_tyrant.actions.throw":"<style=\"sacrifice\">Destroy</style> during combat to <style=\"status\">Prevent</style> up to <style=\"value\">3</style> Enemies from Attacking",
+    "card.data.mark_of_the_tyrant.skill.name":"Terror of the Tyrant",
+    "card.data.mark_of_the_tyrant.skill.description":"<style=\"status\">Activate</style> this Blessing during <style=\"value\">Block</style> to <style=\"status\">Cancel</style> the Enemy's <style=\"value\">Attack</style> <b>and</b> Gain <style=\"value\">1 XP</style>. This will <style=\"status\">Exhaust</style> the Follower"
+}

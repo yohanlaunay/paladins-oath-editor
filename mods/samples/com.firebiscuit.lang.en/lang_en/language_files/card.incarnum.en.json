@@ -1,0 +1,5 @@
+{
+    "card.data.incarnum.name": "Incarnum",
+    "card.data.incarnum.actions.basic": "Pay a mana:\nMove<sprite name=\"card_icon_move\"><style=\"value\">4</style> <size=-5>(<style=\"status\">Green</style>)</size>\nLeadership<sprite name=\"card_icon_influence\"><style=\"value\">4</style> <size=-5>(<style=\"status\">White</style>)</size>\nBlock<sprite name=\"card_icon_block\"><style=\"value\">4</style> <size=-5>(<style=\"status\">Blue</style>)</size>\nAttack<sprite name=\"card_icon_attack\"><style=\"value\">4</style> <size=-5>(<style=\"status\">Red</style>)</size>",
+    "card.data.incarnum.actions.advanced": "Pay a mana:\nMove<sprite name=\"card_icon_move\"><style=\"value\">7</style> <size=-5>(<style=\"status\">Green</style>)</size>\nLeadership<sprite name=\"card_icon_influence\"><style=\"value\">7</style> <size=-5>(<style=\"status\">White</style>)</size>\nBlock<sprite name=\"card_icon_block\"><style=\"value\">7</style> <size=-5>(<style=\"status\">Blue</style>)</size>\nAttack<sprite name=\"card_icon_attack\"><style=\"value\">7</style> <size=-5>(<style=\"status\">Red</style>)</size>"
+}

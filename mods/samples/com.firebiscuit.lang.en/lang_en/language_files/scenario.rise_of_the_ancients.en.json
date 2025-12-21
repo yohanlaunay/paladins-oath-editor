@@ -1,0 +1,9 @@
+{
+    "scenario.data.rise_of_the_ancients.name":"Rise of the Ancients",
+    "scenario.data.rise_of_the_ancients.description":"Dragons and other Ancient Creatures have risen and are now <style=\"status\">rampaging</style> through the lands. You pledged to bring those Ancient Creatues back to where they came from.",
+    "scenario.data.rise_of_the_ancients.win.0":"All the <style=\"value\">Roaming Ancients</style> must be <style=\"status\">Defeated</style> before the end of the last Round.",
+    "scenario.data.rise_of_the_ancients.score.ancient.defeated.name":"Defeated Ancients",
+    "scenario.data.rise_of_the_ancients.score.ancient.defeated.description":"+{0} per <style=\"wound\">Defeated</style> Ancient",
+    "scenario.data.rise_of_the_ancients.score.ancient.defeated.all.name":"All Ancients Defeated",
+    "scenario.data.rise_of_the_ancients.score.ancient.defeated.all.description":"+{0} if <style=\"value\">all</style> Ancients were <style=\"wound\">Defeated</style>"
+}

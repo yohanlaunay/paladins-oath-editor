@@ -1,0 +1,11 @@
+{
+    "benediction.data.night.2.name":"Persistence",
+    "benediction.data.night.2.description":{
+        "1": "<style=\"value\">Once</style> this round before Exploration, if your <style=\"value\">Deck</style> is <style=\"status\">empty</style>, you may activate this ability to put back <style=\"value\">{0}</style> random card from your <b>Discard</b> into your <b>Deck</b>",
+        "n": "<style=\"value\">Once</style> this round before Exploration, if your <style=\"value\">Deck</style> is <style=\"status\">empty</style>,  you may activate this ability to put back <style=\"value\">{0}</style> random cards from your <b>Discard</b> into your <b>Deck</b>",
+        "t": 1},
+    "benediction.data.night.2.activation_reminder.title":"Benediction Not Activated",
+    "benediction.data.night.2.activation_reminder.content":"You have not <style=\"status\">Activated</style> your Benediction for this <b>Round</b>.\n\nDo you want to continue with <style=\"value\">Exploration</style> or <b>check</b> the Benediction first?",
+    "benediction.data.night.2.activation_reminder.activate.accept.label":"Explore",
+    "benediction.data.night.2.activation_reminder.activate.cancel.label":"Cancel"
+}

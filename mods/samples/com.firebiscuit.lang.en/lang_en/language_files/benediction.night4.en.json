@@ -1,0 +1,15 @@
+{
+    "benediction.data.night.4.name":"Regeneration",
+    "benediction.data.night.4.description":{
+        "1": "<style=\"value\">Once</style> this round before Exploration, you may <style=\"status\">shuffle</style> up to <style=\"value\">{0}</style> card from your <b>Hand</b> (including <style=\"wound\">Wounds</style>) back into your <style=\"value\">Deck</style> and <style=\"status\">Draw</style> back that many cards",
+        "n": "<style=\"value\">Once</style> this round before Exploration, you may <style=\"status\">shuffle</style> up to <style=\"value\">{0}</style> cards from your <b>Hand</b> (including <style=\"wound\">Wounds</style>) back into your <style=\"value\">Deck</style> and <style=\"status\">Draw</style> back that many cards",
+        "t": 1},
+    "benediction.data.night.4.selection.title":{
+        "1": "Select up to <style=\"value\">{0}</style> card to shuffle back into your <style=\"value\">Deck</style>",
+        "n": "Select up to <style=\"value\">{0}</style> cards to shuffle back into your <style=\"value\">Deck</style>",
+        "t": 1},
+    "benediction.data.night.4.activation_reminder.title":"Benediction Not Activated",
+    "benediction.data.night.4.activation_reminder.content":"You have not <style=\"status\">Activated</style> your Benediction for this <b>Round</b>.\n\nDo you want to continue with <style=\"value\">Exploration</style> or <b>check</b> the Benediction first?",
+    "benediction.data.night.4.activation_reminder.activate.accept.label":"Explore",
+    "benediction.data.night.4.activation_reminder.activate.cancel.label":"Cancel"
+}

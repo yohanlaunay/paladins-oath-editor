@@ -1,0 +1,6 @@
+{
+    "card.data.scare_tactics.name": "Scare Tactics",
+    "card.data.scare_tactics.actions.basic": "Leadership<sprite name=\"card_icon_influence\"><style=\"value\">2</style>.\nYou can use Leadership as <style=\"value\">Block</style> this turn",
+    "card.data.scare_tactics.actions.advanced": "Leadership<sprite name=\"card_icon_influence\"><style=\"value\">4</style>.\nYou can use Leadership as <style=\"value\">Frost</style> or <style=\"value\">Fire</style> Block this turn",
+    "card.data.scare_tactics.actions.advanced.combo.block": "Choose <style=\"value\">Frost</style> or <style=\"value\">Fire</style>. You can use Leadership as Block of this Element this turn"
+}

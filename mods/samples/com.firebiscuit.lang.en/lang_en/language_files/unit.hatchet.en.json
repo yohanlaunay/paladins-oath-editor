@@ -1,0 +1,10 @@
+{
+    "unit.data.hatchet.name":"Hatchet <size=60%><color=red>Champion</color></size>",
+    "unit.data.hatchet.lore":"<style=\"value\">Hatchet</style> is the Kingdom's strongest and most famous Warrior. Hatchet is offering his strength and influence in the crusade against the abominations that invaded the lands.",
+    "unit.data.hatchet.cost.recruit.description":"Base cost Leadership <style=\"value\">{0}</style> but <b>Reputation</b> impact is <style=\"value\">doubled</style>",
+    "unit.data.hatchet.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">5</style>",
+    "unit.data.hatchet.combo.1":"<i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">7</style>",
+    "unit.data.hatchet.combo.2":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">5</style>. Reputation <style=\"value\">+1</style> if used during <style=\"status\">Interactions</style>",
+    "unit.data.hatchet.combo.2.rewards.name":"Champion's Influence (Hatchet)",
+    "unit.data.hatchet.description.visuals":"Human knight in fullplate armor carrying two large metal hatchets. A wide triangular shaped shield hanging behind his back. Red horse lock of hair coming out of the top of his helmet."
+}

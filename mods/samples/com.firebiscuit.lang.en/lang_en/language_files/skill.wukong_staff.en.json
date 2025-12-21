@@ -1,0 +1,4 @@
+{
+    "skill.data.wukong_staff.name":"Wukong Staff",
+    "skill.data.wukong_staff.combo":"<i>Siege</i> Attack<sprite name=\"card_icon_attack_siege\"><style=\"value\">3</style> <b>or</b>\nTeleport<sprite name=\"card_icon_move\"><style=\"value\">2</style>"
+}

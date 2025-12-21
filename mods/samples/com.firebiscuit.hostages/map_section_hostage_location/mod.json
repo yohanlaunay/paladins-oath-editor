@@ -1,0 +1,65 @@
+{
+	"guid": "map_section_hostage_location",
+	"guid.comments": "string. guid, unique only within the mod. Will be turned into GUID 'mod:'+$yourModId+':'+$guid",
+	"numInstancesInDeck": 0,
+	"numInstancesInDeck.comments": "(Optional) int >=0 [default=1]. How many times this tile can appear in the draw deck. Set 0 to disable drawing this tile.",
+	"sectionType": 2,
+	"sectionType.comments": "(Optional) MapSectionType::int [default=REGULAR(1)].",
+	"hexes": [
+		{
+			"terrain": "terrain__forest",
+			"terrain.comments": "Terrain::GUID.",
+			"location": "location_krak",
+			"location.comments": "(Optional) Location::GUID [default=NONE].",
+			"rampagingEnemyType": "enemy_type_abyssal",
+			"rampagingEnemyType.comments": "(Optional) EnemyType::GUID [default=NONE]. Enemy will be drawn from the list of enemies of this type. Either specify 'rampagingEnemyType' or 'rampagingEnemy' but not both."
+		},
+		{
+			"terrain": "terrain__mountains",
+			"terrain.comments": "Terrain::GUID.",
+			"rampagingEnemyType": "enemy_type_ancient",
+			"rampagingEnemyType.comments": "(Optional) EnemyType::GUID [default=NONE]. Enemy will be drawn from the list of enemies of this type. Either specify 'rampagingEnemyType' or 'rampagingEnemy' but not both."
+		},
+		{
+			"terrain": "terrain__forest",
+			"terrain.comments": "Terrain::GUID.",
+			"location": "location_krak",
+			"location.comments": "(Optional) Location::GUID [default=NONE].",
+			"rampagingEnemyType": "enemy_type_abyssal",
+			"rampagingEnemyType.comments": "(Optional) EnemyType::GUID [default=NONE]. Enemy will be drawn from the list of enemies of this type. Either specify 'rampagingEnemyType' or 'rampagingEnemy' but not both."
+		},
+		{
+			"terrain": "terrain__plains",
+			"terrain.comments": "Terrain::GUID.",
+			"location": "location_market",
+			"location.comments": "(Optional) Location::GUID [default=NONE].",
+			"rampagingEnemyType": "enemy_type_ancient",
+			"rampagingEnemyType.comments": "(Optional) EnemyType::GUID [default=NONE]. Enemy will be drawn from the list of enemies of this type. Either specify 'rampagingEnemyType' or 'rampagingEnemy' but not both."
+		},
+		{
+			"terrain": "terrain__marsh",
+			"terrain.comments": "Terrain::GUID.",
+			"location": "location_krak",
+			"location.comments": "(Optional) Location::GUID [default=NONE].",
+			"rampagingEnemyType": "enemy_type_abyssal",
+			"rampagingEnemyType.comments": "(Optional) EnemyType::GUID [default=NONE]. Enemy will be drawn from the list of enemies of this type. Either specify 'rampagingEnemyType' or 'rampagingEnemy' but not both."
+		},
+		{
+			"terrain": "terrain__hills",
+			"terrain.comments": "Terrain::GUID.",
+			"location": "location_krak",
+			"location.comments": "(Optional) Location::GUID [default=NONE].",
+			"rampagingEnemyType": "enemy_type_abyssal",
+			"rampagingEnemyType.comments": "(Optional) EnemyType::GUID [default=NONE]. Enemy will be drawn from the list of enemies of this type. Either specify 'rampagingEnemyType' or 'rampagingEnemy' but not both."
+		},
+		{
+			"terrain": "terrain__desert",
+			"terrain.comments": "Terrain::GUID.",
+			"location": "location_krak",
+			"location.comments": "(Optional) Location::GUID [default=NONE].",
+			"rampagingEnemyType": "enemy_type_abyssal",
+			"rampagingEnemyType.comments": "(Optional) EnemyType::GUID [default=NONE]. Enemy will be drawn from the list of enemies of this type. Either specify 'rampagingEnemyType' or 'rampagingEnemy' but not both."
+		}
+	],
+	"hexes.comments": "List<MapHexData>[7]. List of hexes configuration for this tile (7 hexes exactly). See 'hexes.jpg' for hexes location."
+}

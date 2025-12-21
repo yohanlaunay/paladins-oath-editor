@@ -1,0 +1,4 @@
+{
+    "element.data.physical.name":"Physical",
+    "element.data.physical.description":"<b>Attack Phase:</b>\r\n\r\nAll <style=\"value\">Physical</style> Attacks against Enemies with <style=\"value\">Physical</style> <style=\"status\">Resistance</style> will be <style=\"status\">Inefficient</style> (<style=\"value\">Divided by 2</style>).\r\n\r\n\r\n<b>Follower Resistance:</b>\r\n\r\n<style=\"value\">Physical</style> Attacks against Followers with <style=\"value\">Physical</style> <style=\"status\">Resistance</style> will first be <style=\"value\">Reduced by Armor</style> before <style=\"wound\">Damage</style> is computed."
+}

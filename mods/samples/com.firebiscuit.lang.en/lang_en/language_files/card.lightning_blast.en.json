@@ -1,0 +1,5 @@
+{
+    "card.data.lightning_blast.name": "Lightning Blast",
+    "card.data.lightning_blast.actions.basic": "Take a <style=\"wound\">Wound</style> to gain a <style=\"value\">White</style> and a <style=\"value\">Red</style> Crystal",
+    "card.data.lightning_blast.actions.advanced": "<i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>.\n<b>At the next Phase</b>, another Enemy gets <style=\"value\">-1</style> Armor <i>per enemy defeated</i> by this Attack"
+}

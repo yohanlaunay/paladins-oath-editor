@@ -1,0 +1,7 @@
+{
+    "benediction.data.day.4.name":"Preservation",
+    "benediction.data.day.4.description":{
+        "1": "If you <style=\"value\">End</style> your turn with <style=\"value\">at least {1}</style> card(s) left in Hand (including <style=\"wound\">Wounds</style>), you will <style=\"status\">Draw</style> <style=\"value\">{0}</style> additional card",
+        "n": "If you <style=\"value\">End</style> your turn with <style=\"value\">at least {1}</style> card(s) left in Hand (including <style=\"wound\">Wounds</style>), you will <style=\"status\">Draw</style> <style=\"value\">{0}</style> additional cards",
+        "t": 1}
+}

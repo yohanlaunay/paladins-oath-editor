@@ -1,0 +1,7 @@
+{
+    "card.data.holy_shield.name":"Holy Shield",
+    "card.data.holy_shield.actions.basic":"<style=\"status\">Give</style> to a Follower:\nGain Armor <style=\"value\">+1</style> and <style=\"status\">Resistance</style> to <style=\"value\">Fire</style>, <style=\"value\">Frost</style> and <style=\"value\">Chaos</style>",
+    "card.data.holy_shield.actions.throw":"Heal <style=\"value\">all</style> your <style=\"wound\">Wounds</style> at <b>End of Turn</b>",
+    "card.data.holy_shield.skill.name":"Holy Shield",
+    "card.data.holy_shield.skill.description":"Gain Armor <style=\"value\">+1</style> and <style=\"status\">Resistance</style> to <style=\"value\">Fire</style>, <style=\"value\">Frost</style> and <style=\"value\">Chaos</style>"
+}

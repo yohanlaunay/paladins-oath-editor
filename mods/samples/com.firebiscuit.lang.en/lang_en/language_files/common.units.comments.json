@@ -1,0 +1,12 @@
+{
+    "unit.descriptor{0}":"Follower Name. Example: 'Archer', 'Arcane Council'",
+    "unit.skill.descriptor{0}":"Skill Name. Example: 'Mighty Strength'",
+    "unit.healing.failed.reason.condition_not_met{0}":"Condition Description. Any text.",
+    "unit.healing.failed.reason.not_enough_points{0}":"Quantity",
+    "unit.selection.panel.title.default{0}":"Quantity",
+    "units.panel.title.with_size{0}":"Current Quantity",
+    "units.panel.title.with_size{1}":"Max Quantity",
+    "units.disband.panel.subtitle{0}":"Quantity",
+    "units.disband.panel.subtitle{1}":"Quantity",
+    "units.select_battle.panel.subtitle{0}":"Quantity"
+}

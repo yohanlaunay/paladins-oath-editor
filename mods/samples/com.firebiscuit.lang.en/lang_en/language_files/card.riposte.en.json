@@ -1,0 +1,5 @@
+{
+    "card.data.riposte.name": "Riposte",
+    "card.data.riposte.actions.basic": "Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style>,\n<style=\"value\">+2</style> per Enemy <style=\"status\">Blocked</style>",
+    "card.data.riposte.actions.advanced": "Attack<sprite name=\"card_icon_attack\"><style=\"value\">4</style>,\n<style=\"value\">+3</style> per Enemy <style=\"status\">Blocked</style>"
+}

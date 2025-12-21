@@ -1,0 +1,10 @@
+{
+    "card.data.arcane_source.name":"Arcane Source",
+    "card.data.arcane_source.actions.basic":"You can use <style=\"value\">1 additional</style> Ambient Mana",
+    "card.data.arcane_source.actions.advanced":"Turn <style=\"value\">1</style> Ambient Mana into <style=\"value\">2</style> Mana of any single color (except Gold). The Ambient Mana will be turned to that color at the end of the Turn",
+    "card.data.arcane_source.actions.advanced.red":"Turn <style=\"value\">1</style> Ambient Mana into <style=\"value\">2 Red</style> Mana",
+    "card.data.arcane_source.actions.advanced.green":"Turn <style=\"value\">1</style> Ambient Mana into <style=\"value\">2 Green</style> Mana",
+    "card.data.arcane_source.actions.advanced.blue":"Turn <style=\"value\">1</style> Ambient Mana into <style=\"value\">2 Blue</style> Mana",
+    "card.data.arcane_source.actions.advanced.white":"Turn <style=\"value\">1</style> Ambient Mana into <style=\"value\">2 White</style> Mana",
+    "card.data.arcane_source.actions.advanced.black":"Turn <style=\"value\">1</style> Ambient Mana into <style=\"value\">2 Black</style> Mana"
+}

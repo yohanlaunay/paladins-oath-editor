@@ -1,0 +1,5 @@
+{
+    "card.data.prayer_of_healing.name":"Prayer of Healing",
+    "card.data.prayer_of_healing.actions.basic":"Heal<sprite name=\"card_icon_heal\"><style=\"value\">1</style> <b>or</b> <style=\"status\">Draw</style> <style=\"value\">1</style> Card",
+    "card.data.prayer_of_healing.actions.advanced":"Heal<sprite name=\"card_icon_heal\"><style=\"value\">2</style> <b>or</b> <style=\"status\">Draw</style> <style=\"value\">2</style> Cards"
+}

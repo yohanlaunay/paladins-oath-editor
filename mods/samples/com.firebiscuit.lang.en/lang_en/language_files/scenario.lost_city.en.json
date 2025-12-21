@@ -1,0 +1,8 @@
+{
+    "scenario.data.lost_city.name":"Lost Citadel",
+    "scenario.data.lost_city.description":"You have been told that since the Conjunction of the Planes the Citadel of this Kingdom was never heard from again. You've decided to explore this forsaken part of the Kingdom to find the <style=\"value\">Lost Citadel</style>.",
+    "scenario.data.lost_city.exploration_rewards.name":"Exploration Rewards",
+    "scenario.data.lost_city.win.0":"<style=\"status\">Explore</style> until you find the <style=\"value\">Lost Citadel</style>.",
+    "scenario.data.lost_city.rules.exploration_rewards":"Gain <style=\"value\">1 XP</style> for each Tile that you <style=\"status\">Explore</style>.",
+    "scenario.data.lost_city.rules.citadel_not_conquerable":"The Lost Citadel doesn't have to be conquered to win."
+}

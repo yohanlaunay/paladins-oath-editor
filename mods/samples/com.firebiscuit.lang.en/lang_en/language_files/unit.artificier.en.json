@@ -1,0 +1,8 @@
+{
+    "unit.data.artificier.name":"Artificier",
+    "unit.data.artificier.lore":"Specialists of anything explosive, they have developed techniques retrofitting Mana into blasting devices. They are always keen on trying their devices on any kind of fortification.",
+    "unit.data.artificier.combo.0":"<i>Siege</i> Attack<sprite name=\"card_icon_attack_siege\"><style=\"value\">3</style>",
+    "unit.data.artificier.combo.1":"<i>Siege</i> <style=\"value\">Fire</style> Attack<sprite name=\"card_icon_attack_siege\"><style=\"value\">5</style>",
+    "unit.data.artificier.combo.2":"<i>Siege</i> <style=\"value\">Frost</style> Attack<sprite name=\"card_icon_attack_siege\"><style=\"value\">5</style>",
+    "unit.data.artificier.description.visuals":"Small robotic looking creature, made of metal with blue glowing eyes. Wearing a purple wizard pointy hat. Holding a red magical tome in one hand and a purle glowing orb. A wooden cannon with golden trims hanging on his back. The background is showing multiple purple fireworks."
+}

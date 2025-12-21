@@ -1,0 +1,7 @@
+{
+    "unit.data.boreal_brute.name":"Boreal Brute",
+    "unit.data.boreal_brute.lore":"Giant Yetis from the frozen lands. This is an advance force that came down to the Citadels to help fight back the invaders before they reach their own homes.",
+    "unit.data.boreal_brute.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">5</style>",
+    "unit.data.boreal_brute.combo.1":"<style=\"status\">Cancel</style> <style=\"value\">1</style> Enemy's Attacks and <style=\"value\">Reduce</style> its Armor by <style=\"value\">3</style>",
+    "unit.data.boreal_brute.description.visuals":"Furry looking creature, akin to a yeti. With long black horns and expressionless black eyes. The fur his icy white and spikes of blue ice are seen in the background."
+}

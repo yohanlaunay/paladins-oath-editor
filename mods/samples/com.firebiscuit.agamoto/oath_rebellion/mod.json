@@ -1,0 +1,55 @@
+{
+	"guid": "oath_rebellion",
+	"guid.comments": "string. guid, unique only within the mod. Will be turned into GUID 'mod:'+$yourModId+':'+$guid",
+	"name": "Oath of Rebellion",
+	"name.comments": "string. name displayed to the players",
+	"description": "This Paladin is rejecting their gods and fighting for themselves.",
+	"description.comments": "string. Flavor text describing the oath (stick to 2-3 lines max).",
+	"startingBoons": {
+		"cards": [
+			"card_fury"
+		],
+		"cards.comments": "(Optional) List<Card::GUID> [default=EMPTY]. List of cards the character will start with.",
+		"followers": [
+			"unit_battlehammer"
+		],
+		"followers.comments": "(Optional) List<Follower::GUID> [default=EMPTY]. List of units the character will start with.",
+		"blessings": [],
+		"blessings.comments": "(Optional) List<Blessing::GUID> [default=EMPTY]. List of skills the character will start with.",
+		"crystalsInInventory": [
+			"mana_red"
+		],
+		"crystalsInInventory.comments": "(Optional) List<ManaColor::GUID> [default=EMPTY]. List of mana crystals the character will start with.",
+		"armorBonus": 1,
+		"armorBonus.comments": "(Optional) int [default=0]. Can be negative. Increase/Reduce character armor.",
+		"handSizeBonus": 0,
+		"handSizeBonus.comments": "(Optional) int [default=0]. Can be negative. Increase/Reduce character hand size.",
+		"reputationBonus": 0,
+		"reputationBonus.comments": "(Optional) int [default=0]. Can be negative. Increase/Reduce character reputation.",
+		"followerSlotsBonus": 0,
+		"followerSlotsBonus.comments": "(Optional) int >= 0 [default=0]. Increase starting number of unit slots (will add the 'units' to it too)."
+	},
+	"startingBoons.comments": "(Optional) CrusadeStartingBoons. What the player starts with.",
+	"roundBoons": {
+		"mana": [
+			{
+				"color": "mana_red",
+				"color.comments": "ManaColor::GUID.",
+				"form": 2,
+				"form.comments": "ManaForm::int. Form of the mana (crystal, token, ...)"
+			}
+		],
+		"mana.comments": "(Optional) List<Mana> [default=EMPTY]. List of mana that the character will receive every round.",
+		"reputationBonus": 0,
+		"reputationBonus.comments": "(Optional) int [default=0]. Can be negative. Increase/Reduce character reputation every round.",
+		"movementPoints": 0,
+		"movementPoints.comments": "(Optional) int >= 0 [default=0]. Gain movement points every round.",
+		"healingPoints": 0,
+		"healingPoints.comments": "(Optional) int >= 0 [default=0]. Gain healing points every round.",
+		"leadershipPoints": 0,
+		"leadershipPoints.comments": "(Optional) int >= 0 [default=0]. Gain leadership points every round."
+	},
+	"roundBoons.comments": "(Optional) CrusadeRoundBoons. What the player gets every round.",
+	"isCharacterSpecific": true,
+	"isCharacterSpecific.comments": "(Optional) bool [default=false]. Set to true if the oath can only be used by a specific character (that character data should include it)."
+}

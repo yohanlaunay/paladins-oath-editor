@@ -1,0 +1,7 @@
+{
+    "unit.data.cardinal.name":"Cardinal",
+    "unit.data.cardinal.lore":"Cardinals spend their time studying the <style=\"value\">Fire</style> magic scrolls in the Temples libraries. There they also learned basic martial art techniques making them deadly with and without magic.",
+    "unit.data.cardinal.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.cardinal.combo.1":"<style=\"value\">Fire</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">4</style> <b>or</b> <style=\"value\">Fire</style> Block<sprite name=\"card_icon_block\"><style=\"value\">4</style>",
+    "unit.data.cardinal.description.visuals":"Bald serious-looking man. Wearing a monk-like multi-layered outift lined with gold. A large circular pendant around his neck covered by a red scarf. He is holding a long magic staff with a spade tip, a red jewel in the center. The staff is emitting a large amount of light and lightning."
+}

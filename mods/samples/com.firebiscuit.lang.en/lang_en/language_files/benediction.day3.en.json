@@ -1,0 +1,7 @@
+{
+    "benediction.data.day.3.name":"Arcane Stasis",
+    "benediction.data.day.3.description":{
+        "1": "Immediately <style=\"status\">Reserve</style> <style=\"value\">{0} Ambient Mana</style>. You can use this mana <style=\"value\">once</style> on any of your turns this round. It will be <style=\"status\">Re-rolled</style> and put back after use",
+        "n": "Immediately <style=\"status\">Reserve</style> <style=\"value\">{0} Ambient Mana</style>. You can use the mana <style=\"value\">once</style> on any of your turns this round. It will be <style=\"status\">Re-rolled</style> and put back after use",
+        "t": 1}
+}

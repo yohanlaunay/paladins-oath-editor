@@ -1,0 +1,16 @@
+{
+    "location.data.labyrinth.descriptor":"Labyrinth",
+    "location.data.labyrinth.name":"Labyrinth",
+    "location.data.labyrinth.reward.name":"Labyrinth Loot",
+    "location.data.labyrinth.paths.title":"Labyrinth Paths",
+    "location.data.labyrinth.effect.enter":"You may <style=\"status\">Enter</style> the Labyrinth by selecting one of the open <style=\"value\">Paths</style>. Each path leads to a <style=\"status\">Battle</style>. The best Loot is found at the depth of the Labyrinth.",
+    "location.data.labyrinth.effect.conquered":"Once you <style=\"status\">Conquered</style> a path, you cannot re-enter the Labyrinth.",
+    "location.data.labyrinth.effect.unit_restriction":"Only <style=\"value\">1</style> <style=\"wound\">Non-Wounded</style>, <style=\"status\">Non-Exhausted</style> Followers may Enter the Labyrinth with the player.",
+    "location.data.labyrinth.battle.title":"Labyrinth Dwellers",
+    "location.data.labyrinth.battle.subtitle":"Enter to Battle",
+    "location.data.labyrinth.enter.label":"Enter",
+    "location.data.labyrinth.conquered.label":"Conquered",
+    "location.data.labyrinth.path.0.name":"Lair",
+    "location.data.labyrinth.path.1.name":"Pit",
+    "location.data.labyrinth.path.2.name":"Abyss"
+}

@@ -1,0 +1,20 @@
+{
+    "location.data.temple.descriptor":"Temple",
+    "location.data.temple.name":"Temple",
+    "location.data.temple.status.burned":"This Temple has been <style=\"status\">Burned</style> and cannot be interacted with anymore.",
+    "location.data.temple.reward.name":"Reliquary Loot",
+    "location.data.temple.burned.title":"Temple Reliquary",
+    "location.data.temple.burned.subtitle":"Temple Guardian",
+    "location.data.temple.interaction.training.label":"Learn Abilities",
+    "location.data.temple.interaction.training.purchase.label":"Learn",
+    "location.data.temple.interaction.heal.label":"Heal Wounds",
+    "location.data.temple.interaction.burn.label":"Burn",
+    "location.data.temple.interaction.burn.confirmation.title":"<style=\"status\">Burn</style> the Temple?",
+    "location.data.temple.interaction.burn.confirmation.content":"The Temple will be <style=\"status\">Destroyed</style> and your Reputation will take a huge hit.",
+    "location.data.temple.interaction.burn.confirmation.battle.title":"Temple Guardian",
+    "location.data.temple.effect.training":"<style=\"status\">Learn</style> <style=\"value\">Special Abilities</style> from the Market for <style=\"value\">6</style> Leadership.",
+    "location.data.temple.effect.recruitment":"<style=\"status\">Recruit</style> <style=\"value\">Followers</style>.",
+    "location.data.temple.effect.heal":"<style=\"status\">Heal</style> yourself or your Followers for <style=\"value\">2</style> Leadership per Healing point.",
+    "location.data.temple.effect.burn":"<style=\"status\">Burn</style> to Battle with the <style=\"value\">Arcanum</style> Temple guardian and <style=\"status\">Loot</style> the Reliquary for a <style=\"value\">Relic</style>.",
+    "location.data.temple.assault.label":"Battle"
+}

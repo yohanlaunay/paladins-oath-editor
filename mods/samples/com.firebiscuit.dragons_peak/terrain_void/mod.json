@@ -1,0 +1,28 @@
+{
+	"guid": "terrain_void",
+	"guid.comments": "string. guid, unique only within the mod. Will be turned into GUID 'mod:'+$yourModId+':'+$guid",
+	"name": "The Void",
+	"name.comments": "string. Name for the terrain, will be shown to the user (non localized)",
+	"tileSprites": [
+		"terrain_void_tile0.png"
+	],
+	"tileSprites.comments": "List<string>. List of file names, local to the mod folder. One file per tile variation. Need at least one.",
+	"movementCost": [
+		{
+			"timeOfDay": "timeofday_day",
+			"timeOfDay.comments": "TimeOfDay::GUID. Time of day the following data applies to.",
+			"allowMovement": true,
+			"allowMovement.comments": "(Optional) bool [default=true]. Set to false to permanently disable movement onto this terrain type (ex: mountain)",
+			"cost": 8,
+			"cost.comments": "int >= 0. Cost to enter this terrain. Ignored when 'allowMovement' is false."
+		},
+		{
+			"timeOfDay": "timeofday_night",
+			"timeOfDay.comments": "TimeOfDay::GUID. Time of day the following data applies to.",
+			"allowMovement": false,
+			"allowMovement.comments": "(Optional) bool [default=true]. Set to false to permanently disable movement onto this terrain type (ex: mountain)",
+			"cost": 0,
+			"cost.comments": "int >= 0. Cost to enter this terrain. Ignored when 'allowMovement' is false."
+		}
+	]
+}

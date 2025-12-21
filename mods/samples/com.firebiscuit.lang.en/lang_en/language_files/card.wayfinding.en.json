@@ -1,0 +1,5 @@
+{
+    "card.data.wayfinding.name":"Wayfinding",
+    "card.data.wayfinding.actions.basic":"Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>",
+    "card.data.wayfinding.actions.advanced":"Move<sprite name=\"card_icon_move\"><style=\"value\">4</style>"
+}

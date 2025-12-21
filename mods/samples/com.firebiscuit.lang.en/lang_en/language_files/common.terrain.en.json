@@ -1,0 +1,16 @@
+{
+    "terrain.condition.any":"<style=\"value\">ANY</style> Terrain",
+    "terrain.condition.except":"Except <style=\"value\">{0}</style> Terrain",
+    "terrain.condition.if":"If <style=\"value\">{0}</style>",
+    "terrain.condition.list":"<style=\"value\">{0}</style> Terrain",
+    "terrain.condition.none":"<style=\"value\">NO</style>",
+    "terrain.move.cost":"{0}: <style=\"value\">{1}</style>",
+    "terrain.move.cost.disallowed":"X",
+    "terrain.tooltip.movement_cost.title":"Movement Cost",
+    "terrain.tooltip.exploration.title":"Exploration",
+    "terrain.tooltip.exploration_distance.title":"Reveal Distance",
+    "terrain.tooltip.exploration.cta":"<style=\"status\">Click</style> to Explore",
+    "terrain.tooltip.exploration.disallowed":"Not Allowed",
+    "terrain.tooltip.exploration.too_far":"<color=red>Move <style=\"value\">closer</style> to Explore</color>",
+    "terrain.tooltip.exploration.not_enough_move":"<color=red>Not enough <style=\"value\">Movement</style></color>"
+}

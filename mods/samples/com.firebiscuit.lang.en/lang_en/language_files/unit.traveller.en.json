@@ -1,0 +1,8 @@
+{
+    "unit.data.traveller.name":"Traveler",
+    "unit.data.traveller.lore":"Human adventurers, scouts and explorers. They know the roads and trails of the Kingdom like the back of their hand. Their frequent travels also gave them many friends and favors to cash out if needed.",
+    "unit.data.traveller.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">2</style>",
+    "unit.data.traveller.combo.1":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">2</style>",
+    "unit.data.traveller.combo.2":"Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>",
+    "unit.data.traveller.description.visuals":"Human carrying a large sack with wooden poles and tools sticking out (likely some kind of tentage). He is wearing a straw hat, a brown beard and light leather outfit with a few bags around his waist."
+}

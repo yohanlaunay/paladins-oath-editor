@@ -1,0 +1,12 @@
+{
+    "enemy.group.descriptor{0}":"Group Name. Example: 'Vermin', 'A', 'B'",
+    "enemy.status.unknown.tooltip{0}":"Enemy Type. Example: 'Vermin', 'Demon'",
+    "enemy.type.condition.except{0}":"List of Enemy Types (comma<space> separated). Example: 'Vermin, Demon'",
+    "enemy.type.condition.if{0}":"List of Enemy Types (comma<space> separated). Example: 'Vermin, Demon'",
+    "enemy.type.condition.list{0}":"List of Enemy Types (comma<space> separated). Example: 'Vermin, Demon'",
+    "enemy.type.descriptor{0}":"List of Enemy Types (comma<space> separated). Example: 'Vermin, Demon'",
+    "enemy.attack.total_block.label{0}":"Current Block Value (int > 0)",
+    "enemy.attack.total_block.label{1}":"Required Block Value (int > 0)",
+    "enemy.rampaging.challenge.selection.counter.label{0}":"Num enemies selected (int >= 0)",
+    "enemy.rampaging.challenge.selection.counter.label{1}":"Num enemies selectable (int >= 0)"
+}

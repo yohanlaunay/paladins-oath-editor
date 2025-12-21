@@ -1,0 +1,5 @@
+{
+    "card.data.holy_slayer_ring.name":"Holy Slayer Ring",
+    "card.data.holy_slayer_ring.actions.basic":"<style=\"status\">Discard</style> <style=\"value\">any number</style> of cards to get Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style> per card discarded. <style=\"value\">+1 XP</style> per enemy defeated",
+    "card.data.holy_slayer_ring.actions.throw":"<style=\"sacrifice\">Destroy</style> to <style=\"value\">Double</style> your <style=\"status\">Physical</style> Attacks played during the <style=\"value\"><i>Attack</i> phase</style> (not <i>Range</i>). Enemies <style=\"status\">lose</style> Physical Resistance. <style=\"value\">+1 XP</style> per enemy defeated"
+}

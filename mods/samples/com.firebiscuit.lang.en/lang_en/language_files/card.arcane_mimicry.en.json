@@ -1,0 +1,10 @@
+{
+    "card.data.arcane_mimicry.name": "Arcane Mimicry",
+    "card.data.arcane_mimicry.actions.basic": "<style=\"status\">Discard</style> a card to <b>Copy</b> the Effects of a <style=\"value\">Spell</style> from the <b>Market</b> of the same color as the card",
+    "card.data.arcane_mimicry.actions.basic.white": "Copy the Effects of a <style=\"value\">White</style> <style=\"value\">Spell</style> from the <b>Market</b>",
+    "card.data.arcane_mimicry.actions.basic.red": "Copy the Effects of a <style=\"value\">Red</style> <style=\"value\">Spell</style> from the <b>Market</b>",
+    "card.data.arcane_mimicry.actions.basic.green": "Copy the Effects of a <style=\"value\">Green</style> <style=\"value\">Spell</style> from the <b>Market</b>",
+    "card.data.arcane_mimicry.actions.basic.blue": "Copy the Effects of a <style=\"value\">Blue</style> <style=\"value\">Spell</style> from the <b>Market</b>",
+    "card.data.arcane_mimicry.actions.advanced": "Pay a Mana to <b>Gain</b> a <style=\"value\">Spell</style> of that color from the <b>Market</b> into your <b>Discard Pile</b>"
+
+}

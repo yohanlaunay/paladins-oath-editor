@@ -1,0 +1,4 @@
+{
+    "skill.data.chaos_rift.name":"Chaos Rift",
+    "skill.data.chaos_rift.combo":"<i>Siege</i> Attack<sprite name=\"card_icon_attack_siege\"><style=\"value\">1</style> <b>or</b>\n<i>Siege</i> <style=\"value\">Fire</style> Attack<sprite name=\"card_icon_attack_siege\"><style=\"value\">1</style>"
+}

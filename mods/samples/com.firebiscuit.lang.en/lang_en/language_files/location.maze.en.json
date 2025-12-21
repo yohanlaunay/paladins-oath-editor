@@ -1,0 +1,16 @@
+{
+    "location.data.maze.descriptor":"Maze",
+    "location.data.maze.name":"Maze",
+    "location.data.maze.reward.name":"Maze Loot",
+    "location.data.maze.paths.title":"Maze Paths",
+    "location.data.maze.effect.enter":"You may <style=\"status\">Enter</style> the Maze by selecting one of the open <style=\"value\">Paths</style>. Each path leads to a <style=\"status\">Battle</style>. The best Loot is found at the depth of the Maze.",
+    "location.data.maze.effect.conquered":"Once you <style=\"status\">Conquer</style> a path, you cannot re-enter the Maze.",
+    "location.data.maze.effect.unit_restriction":"Only <style=\"value\">1</style> <style=\"wound\">Non-Wounded</style>, <style=\"status\">Non-Exhausted</style> Followers may Enter the Maze with the player.",
+    "location.data.maze.battle.title":"Maze Dwellers",
+    "location.data.maze.battle.subtitle":"Enter to Battle",
+    "location.data.maze.enter.label":"Enter",
+    "location.data.maze.conquered.label":"Conquered",
+    "location.data.maze.path.0.name":"Antichambers",
+    "location.data.maze.path.1.name":"Heart",
+    "location.data.maze.path.2.name":"Depth"
+}

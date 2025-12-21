@@ -1,0 +1,8 @@
+{
+    "unit.data.steward.name":"Nature Steward",
+    "unit.data.steward.lore":"Stewards offering support to the Nature Warden, they have been created by the Gods of Nature to protect the land against the invaders from other planes.",
+    "unit.data.steward.combo.0":"Gain <style=\"value\">Green</style> Mana",
+    "unit.data.steward.combo.1":"Gain <style=\"value\">White</style> Mana",
+    "unit.data.steward.combo.2":"Heal <style=\"value\">1</style> Wound <size=-5>(<style=\"status\">Player</style>)</size>",
+    "unit.data.steward.description.visuals":"Small bipedal wooden creature. Wearing a large pack of tree leaves as hair. Carrying a wodden curled up walking stick. Small round wodden eyes.His body covered with tree lines like tatoos."
+}

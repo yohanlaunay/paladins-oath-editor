@@ -1,0 +1,4 @@
+{
+    "skill.data.nether_sword.name":"Nether Sword",
+    "skill.data.nether_sword.combo":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>or</b>\n<style=\"value\">Fire</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style>"
+}

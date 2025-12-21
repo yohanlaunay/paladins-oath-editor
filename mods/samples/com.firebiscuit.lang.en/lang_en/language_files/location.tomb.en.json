@@ -1,0 +1,11 @@
+{
+    "location.data.tomb.descriptor":"Tomb",
+    "location.data.tomb.name":"Tomb",
+    "location.data.tomb.reward.name":"Tomb Loot",
+    "location.data.tomb.status.conquered":"The Tomb has been <style=\"status\">Looted</style>.",
+    "location.data.tomb.effect.assault":"<style=\"status\">Enter</style> to Battle with the Enemies lurking there and <style=\"status\">Loot</style> their <style=\"value\">Relic and Spell stash</style>. Your Followers will not participate and Night restrictions apply.",
+    "location.data.tomb.effect.assault_conquered":"When <style=\"status\">Looted</style>, you can still Battle with new Enemies there but there won't be any more loot to be found.",
+    "location.data.tomb.assault.title":"Lurking Enemies",
+    "location.data.tomb.assault.subtitle":"Enter to Battle",
+    "location.data.tomb.assault.label":"Enter"
+}

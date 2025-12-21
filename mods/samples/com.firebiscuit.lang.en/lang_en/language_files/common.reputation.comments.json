@@ -1,0 +1,5 @@
+{
+    "reputation.tooltip.header_with_name{0}":"Reputation Name. Example: 'Disliked', 'Neutral', 'Hated'",
+    "reputation.interaction.discount.value.bonus{0}":"Positive Number",
+    "reputation.interaction.discount.value.malus{0}":"Positive Number"
+}

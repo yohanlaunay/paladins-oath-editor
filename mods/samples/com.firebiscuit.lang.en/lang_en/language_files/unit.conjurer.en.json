@@ -1,0 +1,8 @@
+{
+    "unit.data.conjurer.name":"Conjurer",
+    "unit.data.conjurer.lore":"Students of the Arcane, still honing their craft amongst the powerful Wizards at the Spires of the Kingdom. They can conjure basic offensive and defensive magic but are able to unlock their full potential with the right infusion of Mana.",
+    "unit.data.conjurer.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">2</style>",
+    "unit.data.conjurer.combo.1":"<style=\"value\">Fire</style> Block<sprite name=\"card_icon_block\"><style=\"value\">4</style>",
+    "unit.data.conjurer.combo.2":"<style=\"value\">Frost</style> Block<sprite name=\"card_icon_block\"><style=\"value\">4</style>",
+    "unit.data.conjurer.description.visuals":"Druid-looking bearded man. Wearing animal pelts on his shoulders and animal skulls around his waist. He is holding on to a large blue crystal ball with blue magical whirlpool inside. Behind him a roaring large blue animal skeletal head, likely conjured by his crystal ball."
+}

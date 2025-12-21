@@ -1,0 +1,10 @@
+{
+    "element.condition.except{0}":"List of Elements (comma<space> separated). Example: 'Fire, Frost'",
+    "element.condition.if{0}":"List of Elements (comma<space> separated). Example: 'Fire, Frost'",
+    "element.condition.list{0}":"List of Elements (comma<space> separated). Example: 'Fire, Frost'",
+    "element.conversion{0}":"List of Elements (comma<space> separated). Example: 'Fire, Frost'",
+    "element.conversion{1}":"Element. Example: 'Fire', 'Frost'",
+    "resistance.condition.except{0}":"List of Elements (comma<space> separated). Example: 'Fire, Frost'",
+    "resistance.condition.if{0}":"List of Elements (comma<space> separated). Example: 'Fire, Frost'",
+    "resistance.condition.list{0}":"List of Elements (comma<space> separated). Example: 'Fire, Frost'"
+}

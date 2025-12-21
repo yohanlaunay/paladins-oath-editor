@@ -1,0 +1,5 @@
+{
+    "skill.data.defiled_source.name":"Defiled Source",
+    "skill.data.defiled_source.combo":"Generate a <style=\"value\">Red</style> Mana Crystal <b>and</b> a <style=\"value\">Red</style> or <style=\"value\">Black</style> Mana Essence",
+    "skill.data.defiled_source.combo.essence":"Generate a <style=\"value\">Red</style> <b>or</b> <style=\"value\">Black</style> Mana Essence"
+}

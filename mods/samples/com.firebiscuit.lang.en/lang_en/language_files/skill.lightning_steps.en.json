@@ -1,0 +1,4 @@
+{
+    "skill.data.lightning_steps.name":"Lightning Steps",
+    "skill.data.lightning_steps.combo":"Move cost of <style=\"value\">all</style> terrain is <style=\"status\">Reduced by <style=\"value\">2</style></style>\n<i>(minimum of 1)</i>"
+}

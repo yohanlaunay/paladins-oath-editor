@@ -1,0 +1,5 @@
+{
+    "card.data.fire_ward.name":"Fire Ward",
+    "card.data.fire_ward.actions.basic":"<style=\"value\">Fire</style> Block<sprite name=\"card_icon_block\"><style=\"value\">4</style> <b>then</b>\n<style=\"value\">Fire</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">4</style> if Block is <style=\"status\">successful</style>",
+    "card.data.fire_ward.actions.advanced":"<style=\"value\">Fire</style> Block<sprite name=\"card_icon_block\"><style=\"value\">4</style> <b>then</b>\n<style=\"status\">Destroy</style> Enemy Target if Block is <style=\"status\">successful</style>"
+}

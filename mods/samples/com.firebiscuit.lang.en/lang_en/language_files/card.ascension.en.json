@@ -1,0 +1,5 @@
+{
+    "card.data.ascension.name": "Ascension",
+    "card.data.ascension.actions.basic": "<style=\"sacrifice\">Sacrifice</style> an <b>Action Card</b> to take an <style=\"value\">Ability</style> of the same color from the <b>Market</b> <size=-5>to <b>Discard Pile</b></size>",
+    "card.data.ascension.actions.advanced": "<style=\"sacrifice\">Sacrifice</style> an <b>Action Card</b> to take an <style=\"value\">Ability</style> of the same color from the <b>Market</b> <size=-5>to <b>Hand</b></size>"
+}

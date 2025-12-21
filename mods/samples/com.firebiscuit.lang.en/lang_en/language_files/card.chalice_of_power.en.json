@@ -1,0 +1,9 @@
+{
+    "card.data.chalice_of_power.name":"Chalice of Power",
+    "card.data.chalice_of_power.actions.basic":"<style=\"sacrifice\">Sacrifice</style> an <b>Action Card</b> to gain an <style=\"value\">Advanced Action</style> of the same color from the Market <size=-5>to <style=\"value\">Hand</style></size>",
+    "card.data.chalice_of_power.actions.throw":"<style=\"sacrifice\">Destroy</style> this Relic and <style=\"sacrifice\">Sacrifice</style> an <b>Action Card</b> to gain a <style=\"value\">Spell</style> of the same color from the Market <size=-5>to <style=\"value\">Hand</style></size> and a Crystal",
+    "card.data.chalice_of_power.actions.throw.blue":"Gain a <style=\"value\">Blue Spell</style> from the Market <size=-5>to <style=\"value\">Hand</style></size> and a <b>Blue</b> Crystal",
+    "card.data.chalice_of_power.actions.throw.green":"Gain a <style=\"value\">Green Spell</style> from the Market <size=-5>to <style=\"value\">Hand</style></size> and a <b>Green</b> Crystal",
+    "card.data.chalice_of_power.actions.throw.red":"Gain a <style=\"value\">Red Spell</style> from the Market <size=-5>to <style=\"value\">Hand</style></size> and a <b>Red</b> Crystal",
+    "card.data.chalice_of_power.actions.throw.white":"Gain a <style=\"value\">White Spell</style> from the Market <size=-5>to <style=\"value\">Hand</style></size> and a <b>White</b> Crystal"
+}

@@ -1,0 +1,10 @@
+{
+    "unit.data.eminence.name":"Eminence <size=60%><color=red>Champion</color></size>",
+    "unit.data.eminence.lore":"The <style=\"value\">Eminence</style> title was given to the most famous Paladin of the Kingdom. The Eminence is a retired saint, very old and a shadow of his younger self. But since the conjunction of the sphere he has been eager to take arms again under the right leadership.",
+    "unit.data.eminence.cost.recruit.description":"Base cost Leadership <style=\"value\">{0}</style> but <b>Reputation</b> impact is <style=\"value\">doubled</style>",
+    "unit.data.eminence.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">5</style>",
+    "unit.data.eminence.combo.1":"<style=\"value\">Chaos</style> Block<sprite name=\"card_icon_block\"><style=\"value\">8</style>",
+    "unit.data.eminence.combo.2":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">5</style>. Reputation <style=\"value\">+1</style> if used during <style=\"status\">Interactions</style>",
+    "unit.data.eminence.combo.2.rewards.name":"Champion's Influence (Eminence)",
+    "unit.data.eminence.description.visuals":"Very large and heavy humanoid creature in full suit of silver armor lined with gold. A halo of fiery light floating on top of his head. Multiple concentric halos of light behind his back."
+}

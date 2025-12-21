@@ -1,0 +1,8 @@
+{
+    "crusade.loading.next_round{0}":"Day/Night Time. Example: 'Day', 'Night'",
+    "crusade.creation.citadel.difficulty.unknown_citadel.title{0}":"Citadel Number. Example: 0",
+    "crusade.summary.reputation.value{0}":"Reputation Text. Example: 'Excommunicado'",
+    "crusade.creation.scenario.extensions.select.button.label{0}":"Number of extensions selected",
+    "crusade.creation.scenario.extensions.select.button.label{1}":"Number of applicable extensions",
+    "crusade.scenario.extensions.activated.list.button.label{0}":"Number of extensions activated"
+}

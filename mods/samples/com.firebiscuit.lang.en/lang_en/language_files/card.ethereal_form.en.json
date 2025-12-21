@@ -1,0 +1,5 @@
+{
+    "card.data.ethereal_form.name":"Ethereal Form",
+    "card.data.ethereal_form.actions.basic":"Move<sprite name=\"card_icon_move\"><style=\"value\">4</style>. The cost of all terrains (including <style=\"value\">Lakes</style>) becomes <style=\"value\">2</style> <b>but</b> you cannot enter <style=\"sacrifice\">Hills</style> and <style=\"sacrifice\">Mountains</style>",
+    "card.data.ethereal_form.actions.advanced":"Your Followers gain <style=\"value\">All</style> Resistances. You <style=\"status\">ignore</style> the first <style=\"wound\">Wound</style> taken this turn"
+}

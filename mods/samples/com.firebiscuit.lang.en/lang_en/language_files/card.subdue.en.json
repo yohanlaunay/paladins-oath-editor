@@ -1,0 +1,5 @@
+{
+    "card.data.subdue.name":"Subdue",
+    "card.data.subdue.actions.basic":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">4</style> <b>or</b> Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style>.\nReputation <style=\"value\">-1</style> at <b>End of Turn</b>",
+    "card.data.subdue.actions.advanced":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">8</style> <b>or</b> Attack<sprite name=\"card_icon_attack\"><style=\"value\">7</style>.\nReputation <style=\"value\">-2</style> at <b>End of Turn</b>"
+}

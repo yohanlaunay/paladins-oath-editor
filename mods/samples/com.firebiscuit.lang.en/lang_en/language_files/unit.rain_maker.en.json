@@ -1,0 +1,11 @@
+{
+    "unit.data.rain_maker.name":"Rain Maker",
+    "unit.data.rain_maker.lore":"Legendary Wizard working for the most powerful Kingdoms. The Rain Maker earned his moniker for creating a Meteor shower against a horde of Demons.",
+    "unit.data.rain_maker.combo.0":"Gain <style=\"value\">2</style> Mana of <style=\"value\">Any</style> color",
+    "unit.data.rain_maker.combo.any_token":"Gain a Mana of <style=\"value\">Any</style> color",
+    "unit.data.rain_maker.combo.1":"<style=\"value\">Chaos</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">5</style> or <style=\"value\">Chaos</style> Block<sprite name=\"card_icon_block\"><style=\"value\">5</style>. Pay <style=\"value\">Blue</style> or <style=\"value\">Red</style> Mana for <style=\"value\">7</style> or <b>both</b> for <style=\"value\">9</style>",
+    "unit.data.rain_maker.combo.chaos":"Pay <style=\"value\">Blue</style> <b>and</b> <style=\"value\">Red</style> Mana for <style=\"value\">Chaos</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">9</style> or <style=\"value\">Chaos</style> Block<sprite name=\"card_icon_block\"><style=\"value\">9</style>",
+    "unit.data.rain_maker.combo.2":"All your Attacks become <style=\"value\">Chaos</style> Attacks <b>or</b> <i>Siege</i> Attacks",
+    "unit.data.rain_maker.description.visuals":"Curious looking creature, made with a mix of flesh and golden metal. Yellow circular eye sockets. Holding an open magic tome. And multiple meteors made of dark energy falling behind the creature."
+
+}

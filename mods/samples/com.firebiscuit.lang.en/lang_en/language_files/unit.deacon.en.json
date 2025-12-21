@@ -1,0 +1,10 @@
+{
+    "unit.data.deacon.name":"Deacon <size=60%><color=red>Champion</color></size>",
+    "unit.data.deacon.lore":"The <style=\"value\">Deacon</style> is the title given to the strongest of all Cardinals. This generation's Deacon has moved past Cardinals Fire magic and has learned to tap into Chaos energies. The Deacon elevated his consciousness beyond the need for a body and lives within the shell of a metal golem.",
+    "unit.data.deacon.cost.recruit.description":"Base cost Leadership <style=\"value\">{0}</style> but <b>Reputation</b> impact is <style=\"value\">doubled</style>",
+    "unit.data.deacon.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">5</style>",
+    "unit.data.deacon.combo.1":"<style=\"value\">Chaos</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">6</style>",
+    "unit.data.deacon.combo.2":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">5</style>. Reputation <style=\"value\">+1</style> if used during <style=\"status\">Interactions</style>",
+    "unit.data.deacon.combo.2.rewards.name":"Champion's Influence (Deacon)",
+    "unit.data.deacon.description.visuals":"Robotic-looking creature with a single large black and firey orb in place of eyes. A big black ball of fire behind his back, like a meteor. He is wearing a blue cape and hood like a saint or a person of faith with a metallic crucifix-looking pendant."
+}

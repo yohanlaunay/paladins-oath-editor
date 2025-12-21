@@ -1,0 +1,9 @@
+{
+    "benediction.data.night.6.name":"Channeling",
+    "benediction.data.night.6.description":"While not <style=\"status\">activated</style>: at the <style=\"value\">Start</style> of each turn, you may either <style=\"status\">Reserve</style> <style=\"value\">1</style> Card <b>or</b> activate this ability to put all the reserved cards in your Hand",
+    "benediction.data.night.6.select.title":"Select Your Channeling Option",
+    "benediction.data.night.6.select.content":"While you are <style=\"status\">Channeling</style>, you can choose to either:\n\n<style=\"status\">Reserve</style> the top Card in your <style=\"value\">Deck</style>\n\n<b>or</b>\n\n<style=\"status\">Cash-Out</style> which will move all the reserved Cards to your <style=\"value\">Hand</style> regardless of your max Hand Size.\n\nCashing-out will <style=\"status\">end</style> the <style=\"value\">Channeling</style>.",
+    "benediction.data.night.6.select.btn.bank":"Reserve",
+    "benediction.data.night.6.select.btn.unbank":"Cash-Out (<style=\"value\">{0}</style>)",
+    "benediction.data.night.6.unbanked.title":"Channeled Cards"
+}

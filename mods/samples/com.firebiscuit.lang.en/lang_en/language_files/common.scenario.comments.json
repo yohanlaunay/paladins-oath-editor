@@ -1,0 +1,11 @@
+{
+    "scenario.score.common.wounds.description{0}":"Score (int)",
+    "scenario.score.common.spells.description{0}":"Score (int, positive)",
+    "scenario.score.common.relics.description{0}":"Score (int, positive)",
+    "scenario.score.common.advanced_actions.description{0}":"Score (int, positive)",
+    "scenario.score.common.locations.conquered.description{0}":"Score (int, positive)",
+    "scenario.score.common.locations.citadel.conquered.description{0}":"Score (int, positive)",
+    "scenario.score.common.locations.citadel.all.conquered.description{0}":"Score (int, positive)",
+    "scenario.score.common.rounds.end_of_round.unannounced.description{0}":"Score (int, positive)",
+    "scenario.score.common.rounds.remaining.description{0}":"Score (int, positive)"
+}

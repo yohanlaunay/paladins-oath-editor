@@ -1,0 +1,5 @@
+{
+    "card.data.conjurer_writ.name":"Writ of the Conjurer",
+    "card.data.conjurer_writ.actions.basic":"<style=\"status\">Discard</style> a card to use the <b>Basic Effect</b> of a <style=\"value\">Spell</style> of the same color from the Market <size=-5>for <style=\"value\">Free</style></size>",
+    "card.data.conjurer_writ.actions.throw":"<style=\"sacrifice\">Destroy</style> this Relic and <style=\"status\">Discard</style> a card to use the <b>Advanced Effect</b> of a <style=\"value\">Spell</style> of the same color from the Market <size=-5>for <style=\"value\">Free</style></size>"
+}

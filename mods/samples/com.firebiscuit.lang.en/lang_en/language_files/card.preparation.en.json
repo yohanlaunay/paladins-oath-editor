@@ -1,0 +1,5 @@
+{
+    "card.data.preparation.name":"Preparation",
+    "card.data.preparation.actions.basic":"<style=\"status\">Discard</style> another card to get Move<sprite name=\"card_icon_move\"><style=\"value\">3</style>, Leadership<sprite name=\"card_icon_influence\"><style=\"value\">3</style>, Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "card.data.preparation.actions.advanced":"<style=\"status\">Discard</style> another card to get Move<sprite name=\"card_icon_move\"><style=\"value\">5</style>, Leadership<sprite name=\"card_icon_influence\"><style=\"value\">5</style>, Attack<sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">5</style>"
+}

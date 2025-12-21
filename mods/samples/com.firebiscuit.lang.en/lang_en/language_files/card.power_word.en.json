@@ -1,0 +1,9 @@
+{
+    "card.data.power_word.name": "Power Word",
+    "card.data.power_word.actions.basic": "Move<sprite name=\"card_icon_move\"><style=\"value\">2</style>, Leadership<sprite name=\"card_icon_influence\"><style=\"value\">2</style>, Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">2</style>. You may discard a <style=\"wound\">Wound</style> to increase the effect by <style=\"value\">1</style>",
+    "card.data.power_word.actions.advanced": "Move<sprite name=\"card_icon_move\"><style=\"value\">3</style>, Leadership<sprite name=\"card_icon_influence\"><style=\"value\">3</style>, Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>. You may discard cards (incl. <style=\"value\">1</style> <style=\"wound\">Wound</style>) to increase by <style=\"value\">2</style> per card",
+    "card.data.power_word.actions.advanced.move": "Move<sprite name=\"card_icon_move\"><style=\"value\">3</style> + 2 per discarded cards (incl. <style=\"value\">1</style> <style=\"wound\">Wound</style>)",
+    "card.data.power_word.actions.advanced.block": "Block<sprite name=\"card_icon_block\"><style=\"value\">3</style> + 2 per discarded cards (incl. <style=\"value\">1</style> <style=\"wound\">Wound</style>)",
+    "card.data.power_word.actions.advanced.influence": "Leadership<sprite name=\"card_icon_influence\"><style=\"value\">3</style> + 2 per discarded cards (incl. <style=\"value\">1</style> <style=\"wound\">Wound</style>)",
+    "card.data.power_word.actions.advanced.attack": "Attack<sprite name=\"card_icon_attack\"><style=\"value\">3</style> + 2 per discarded cards (incl. <style=\"value\">1</style> <style=\"wound\">Wound</style>)"
+}

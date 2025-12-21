@@ -1,0 +1,5 @@
+{
+    "card.data.rooted_faith.name": "Rooted Faith",
+    "card.data.rooted_faith.basic": "Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>,\n<style=\"value\">x2</style> against <style=\"status\">Quick</style> Attacks",
+    "card.data.rooted_faith.advanced": "Block<sprite name=\"card_icon_block\"><style=\"value\">5</style>,\n<style=\"value\">x2</style> against <style=\"status\">Quick</style> Attacks.\n<style=\"status\">Blocked</style> Enemy gets <style=\"value\">-1 Armor</style> per block higher than needed"
+}

@@ -1,0 +1,4 @@
+{
+    "timeofday.data.night.name":"Night",
+    "timeofday.data.night.description":"During <style=\"value\">Night</style> time, certain restriction applies, typically any effect that is triggered using <style=\"value\">Gold Mana</style> cannot be used as this type of Mana is <style=\"status\">Inert</style> during Night time.\n\n<style=\"value\">Night</style> time also allows <style=\"value\">Black Mana</style> to be used."
+}

@@ -1,0 +1,10 @@
+{
+    "unit.data.timnit.name":"Timnit <size=60%><color=red>Champion</color></size>",
+    "unit.data.timnit.lore":"Timnit is the highest representative of the Druidic Order. Timnit lived a long life and thought he had seen it all until new creatures started appearing out of nowhere wreaking havoc in the Kingdom.",
+    "unit.data.timnit.cost.recruit.description":"Base cost Leadership <style=\"value\">{0}</style> but <b>Reputation</b> impact is <style=\"value\">doubled</style>",
+    "unit.data.timnit.combo.0":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">5</style>",
+    "unit.data.timnit.combo.1":"Heal<sprite name=\"card_icon_heal\"><style=\"value\">4</style>",
+    "unit.data.timnit.combo.2":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">5</style>. Reputation <style=\"value\">+1</style> if used during <style=\"status\">Interactions</style>",
+    "unit.data.timnit.combo.2.rewards.name":"Champion's Influence (Timnit)",
+    "unit.data.timnit.description.visuals":"Humanoid sized green turtle, standing up. Old and serious looking. Large spiky shell on its back. Wearing all sorts of silver jewelery, necklaces, braces and bracelets. Large silver belt with a blue circular jewel in the center. Holding a wooden staff with an blue octopus sitting on top of it."
+}

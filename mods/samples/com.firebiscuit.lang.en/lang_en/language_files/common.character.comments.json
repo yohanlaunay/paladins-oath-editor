@@ -1,0 +1,7 @@
+{
+    "character.descriptor{0}":"Player Name. Example 'Zaurahel'",
+    "character.ownership_token.map.tooltip.content.other{0}":"Player Name. Example 'Zaurahel'",
+    "character.creation.boons.stats.value.zero{0}":"Number 0",
+    "character.creation.boons.stats.value.positive{0}":"Positive Number",
+    "character.creation.boons.stats.value.negative{0}":"Negative Number"
+}

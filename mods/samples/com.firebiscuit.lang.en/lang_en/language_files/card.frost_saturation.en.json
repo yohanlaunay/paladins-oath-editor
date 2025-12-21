@@ -1,0 +1,5 @@
+{
+    "card.data.frost_saturation.name": "Frost Saturation",
+    "card.data.frost_saturation.actions.basic": "<style=\"value\">Frost</style> Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "card.data.frost_saturation.actions.advanced": "<style=\"value\">Frost</style> Block<sprite name=\"card_icon_block\"><style=\"value\">3</style>.\n<style=\"status\">Reduce</style> Enemy <b>Armor</b> by <style=\"value\">3</style> if block is <style=\"status\">successful</style>"
+}

@@ -1,0 +1,4 @@
+{
+    "skill.data.channel_divine_essence.name":"Channel Divine Essence",
+    "skill.data.channel_divine_essence.combo":"<style=\"status\">Discard</style> a <style=\"wound\">Wound</style> from your Hand to <style=\"status\">Draw</style> a Card\n<i>(Outside Combat)</i>"
+}

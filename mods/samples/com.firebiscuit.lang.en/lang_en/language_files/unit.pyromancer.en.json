@@ -1,0 +1,8 @@
+{
+    "unit.data.pyromancer.name":"Pyromancer",
+    "unit.data.pyromancer.lore":"Powerful <style=\"value\">Fire</style> Mages. Their order is (in)famous for yearning to <style=\"status\">Be One with the Flame</style> and are all suffering from severe burns all across their bodies making them disfigured. They walk around encased in a magic suit to amplify their magic while hiding their hideous figure from prying eyes.",
+    "unit.data.pyromancer.combo.0":"<i>Range</i> <style=\"value\">Fire</style> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>",
+    "unit.data.pyromancer.combo.1":"<style=\"value\">Fire</style> Attack<sprite name=\"card_icon_attack\"><style=\"value\">6</style> <b>or</b> <style=\"value\">Fire</style> Block<sprite name=\"card_icon_block\"><style=\"value\">6</style>",
+    "unit.data.pyromancer.combo.2":"Gain a <style=\"value\">Red</style> Mana and a <style=\"value\">Red</style> Crystal",
+    "unit.data.pyromancer.description.visuals":"Short human in full protective gear. Using orange goggles to cover his eyes and a fireman looking hat. Fire is seen everywhere around and behind the suit."
+}

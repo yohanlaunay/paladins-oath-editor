@@ -1,0 +1,8 @@
+{
+    "unit.data.pacifier.name":"Pacifier",
+    "unit.data.pacifier.lore":"Strange creatures from the underworld that only comes to the surface when summoned by magic practitioners. The pacifiers breed around underground sources of Ambient Mana giving them unique control over electrical energy. They are also able to conjure Mana by collecting ambient electrical energy.",
+    "unit.data.pacifier.combo.0":"Leadership<sprite name=\"card_icon_influence\"><style=\"value\">4</style>",
+    "unit.data.pacifier.combo.1":"Targeted <style=\"status\">Unfortified</style> Enemy <style=\"status\">does not Attack</style>",
+    "unit.data.pacifier.combo.2":"Gain a <style=\"value\">White Crystal</style>",
+    "unit.data.pacifier.description.visuals":"Large floating eye with a green pustular skin. Yellow wings with green appendices and sharp bone spikes. His background shows creatures dying up under heavy lightning strikes."
+}

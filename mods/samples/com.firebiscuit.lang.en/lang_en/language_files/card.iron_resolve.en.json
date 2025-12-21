@@ -1,0 +1,5 @@
+{
+    "card.data.iron_resolve.name":"Iron Resolve",
+    "card.data.iron_resolve.actions.basic":"Attack<sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>or</b> Block<sprite name=\"card_icon_block\"><style=\"value\">2</style>",
+    "card.data.iron_resolve.actions.advanced":"Block<sprite name=\"card_icon_block\"><style=\"value\">5</style>"
+}

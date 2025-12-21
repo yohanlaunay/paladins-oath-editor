@@ -1,0 +1,14 @@
+{
+    "benediction.drawn.cards.title":"Benediction Drawn Cards",
+    "benediction.status.not_activatable":"This Benediction cannot be <style=\"status\">Activated</style> at this point",
+    "benediction.action.activate.tooltip.content":"Click to <style=\"status\">Activate</style> this Benediction",
+    "benedictions.list.empty":"No Benediction",
+    "benediction.select.title":"Select a Benediction for this Round",
+    "benediction.select.subtitle":"You pray to your Gods for a <style=\"value\">Benediction</style> at the start of every Round to prepare you for what's to come. <style=\"status\">Choose wisely!</style>",
+    "benediction.select.hint":"<style=\"status\">Hint:</style> Activate the <b>Pause Menu</b> with <style=\"value\">{0}</style> to see all your Cards, Followers, Blessings and Mana",
+    "benediction.help.name":"Benedictions",
+    "benediction.help.description":"Every round you get to pick a Benediction providing unique Abilities for the round. Day and Night offer different choices. Each Benediction has an Initiative order that determines whether you will take a turn before or after the Timer",
+    "benediction.help.initiative.name":"Benediction Initiative",
+    "benediction.help.initiative.description":"Every round you get to pick a Benediction. Each Benediction has an Initiative order that determines whether you will take a turn before or after the Timer",
+    "benedictions.players.dummy.picked.title":"Benediction picked by Timer"
+}

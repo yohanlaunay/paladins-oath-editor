@@ -1,0 +1,9 @@
+{
+    "location.data.mine.descriptor":"Mine",
+    "location.data.mine.name":"Mine",
+    "location.data.mine.deep.name":"Deep Mine",
+    "location.data.mine.effect.production":"<style=\"status\">Ending</style> your turn at the Mine allows you to collect <style=\"value\">1 of the items</style> that the Mine produces.",
+    "location.data.mine.reward.name":"Mining Finds",
+    "location.data.mine.reward.mana.tooltip.header":"Mining Production",
+    "location.data.mine.reward.mana.tooltip.content":"This Mine produces {0}"
+}

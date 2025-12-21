@@ -1,0 +1,5 @@
+{
+    "card.data.blood_rite.name": "Blood Rite",
+    "card.data.blood_rite.actions.basic": "Take a <style=\"wound\">Wound</style> and Pay a Mana to take an <style=\"value\">Advanced Action</style> of the same color from the <b>Market</b> <size=-5>to <b>Hand</b></size>",
+    "card.data.blood_rite.actions.advanced": "Take a <style=\"wound\">Wound</style> to use the <b>Advanced Effect</b> of an <style=\"value\">Advanced Action</style> from the <b>Market</b> <size=-5>for <style=\"value\">Free</style></size>"
+}

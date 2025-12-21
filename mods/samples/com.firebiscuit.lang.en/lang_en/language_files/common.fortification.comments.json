@@ -1,0 +1,10 @@
+{
+    "fortification.condition.except{0}":"List of Fortifications (comma<space> separated). Example: 'Fortified, Never Fortified'",
+    "fortification.condition.if{0}":"List of Fortifications (comma<space> separated). Example: 'Fortified, Never Fortified'",
+    "fortification.condition.list{0}":"List of Fortifications (comma<space> separated). Example: 'Fortified, Never Fortified'",
+    "fortification.modifier.always_fortified{0}":"Target Name. Example: '1 Enemy', 'All Enemies'",
+    "fortification.modifier.gain_fortification{0}":"Target Name. Example: '1 Enemy', 'All Enemies'",
+    "fortification.modifier.lose_all_fortification{0}":"Target Name. Example: '1 Enemy', 'All Enemies'",
+    "fortification.modifier.lose_fortification{0}":"Target Name. Example: '1 Enemy', 'All Enemies'",
+    "fortification.modifier.never_fortified{0}":"Target Name. Example: '1 Enemy', 'All Enemies'"
+}

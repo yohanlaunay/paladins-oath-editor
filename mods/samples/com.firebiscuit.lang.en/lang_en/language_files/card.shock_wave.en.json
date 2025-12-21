@@ -1,0 +1,5 @@
+{
+    "card.data.shock_wave.name":"Shockwave",
+    "card.data.shock_wave.actions.basic":"Targeted Enemy Armor <style=\"value\">-3</style> <b>or</b> <style=\"value\">all</style> Enemies Armor <style=\"value\">-2</style>",
+    "card.data.shock_wave.actions.advanced":"Targeted Enemy Armor <style=\"value\">-3</style> (<style=\"value\">-6</style> if <style=\"status\">Fortified</style>) <b>or</b> <style=\"value\">all</style> Enemies Armor <style=\"value\">-2</style> (<style=\"value\">-4</style> if <style=\"status\">Fortified</style>)"
+}

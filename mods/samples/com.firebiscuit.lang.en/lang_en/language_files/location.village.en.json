@@ -1,0 +1,12 @@
+{
+    "location.data.village.descriptor":"Village",
+    "location.data.village.name":"Village",
+    "location.data.village.reward.plundering.name":"Pillaging Loot",
+    "location.data.village.interaction.heal.label":"Heal Wounds",
+    "location.data.village.interaction.plunder.label":"Pillage",
+    "location.data.village.interaction.plunder.confirmation.title":"<style=\"status\">Pillage</style> the Village?",
+    "location.data.village.interaction.plunder.confirmation.content":"At <b>End of Turn</b>, you receive <style=\"value\">-1 Reputation</style> but will Draw <style=\"value\">2 Cards</style> on your next turn.",
+    "location.data.village.effect.recruitment":"<style=\"status\">Recruit</style> <style=\"value\">Followers</style>.",
+    "location.data.village.effect.heal":"<style=\"status\">Heal</style> yourself or your Followers for <style=\"value\">3</style> Leadership per Healing point.",
+    "location.data.village.effect.plunder":"<style=\"status\">Pillage</style> to Draw <style=\"value\">2 additional Cards</style> on your next turn at the cost of <style=\"value\">-1 Reputation</style>."
+}

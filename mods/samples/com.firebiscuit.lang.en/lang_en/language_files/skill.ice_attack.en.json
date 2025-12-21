@@ -1,0 +1,4 @@
+{
+    "skill.data.ice_attack.name":"Frost Attack",
+    "skill.data.ice_attack.combo":"<i>Range</i> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">2</style>\n<b>or</b> <i>Range</i> <style=\"value\">Frost</style> Attack<sprite name=\"card_icon_attack_range\"><style=\"value\">2</style>"
+}
