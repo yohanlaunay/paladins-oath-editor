@@ -1,0 +1,10 @@
+{
+	"guid": "com.firebiscuit.spreading_desert",
+	"name": "Spreading Desert (Scenario Extension)",
+	"description": "The desert spreads, consuming the map. Ending your turn in the desert during the day will inflict a random debuff.",
+	"author": "FireBiscuit AI",
+	"version": "1.0.0",
+	"scenarioExtensionMods": [
+		"scenario_ext_spreading_desert"
+	]
+}

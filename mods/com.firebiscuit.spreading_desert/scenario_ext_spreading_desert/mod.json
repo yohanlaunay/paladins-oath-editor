@@ -1,0 +1,9 @@
+{
+	"guid": "scenario_ext_spreading_desert",
+	"name": "Spreading Desert",
+	"description": "The desert spreads, consuming the map. Ending your turn in the desert during the day will inflict a random debuff: gaining a wound (92% chance), follower exhaustion (1%), losing a crystal (2%).",
+	"applicableScenarios": [],
+	"script": {
+        "fileName":"spreading_desert.lua"
+	}
+}
