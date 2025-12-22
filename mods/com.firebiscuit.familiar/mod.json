@@ -1,0 +1,10 @@
+{
+    "guid": "com.firebiscuit.familiar",
+    "name": "Familiar (Scenario Extension)",
+    "description": "Your first follower becomes your familiar and cannot be exhausted, wounded or die.",
+    "author": "FireBiscuit",
+    "version": "1.0.0",
+    "scenarioExtensionMods": [
+        "scenario_ext_familiar"
+    ]
+}

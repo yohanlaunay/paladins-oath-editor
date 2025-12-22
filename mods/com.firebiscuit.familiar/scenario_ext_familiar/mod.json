@@ -1,0 +1,9 @@
+{
+	"guid": "scenario_ext_familiar",
+	"name": "Familiar",
+	"description": "Your first follower becomes your familiar and cannot be exhausted, wounded or die.",
+	"applicableScenarios": [],
+	"script": {
+        "fileName":"familiar.lua"
+	}
+}
