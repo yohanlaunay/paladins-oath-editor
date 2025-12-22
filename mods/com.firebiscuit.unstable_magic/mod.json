@@ -1,0 +1,10 @@
+{
+    "guid": "com.firebiscuit.unstable_magic",
+    "name": "Unstable Magic (Scenario Extension)",
+    "description": "Casting spells has a chance to trigger a random 'wild magic' surge with unpredictable effects.",
+    "author": "FireBiscuit",
+    "version": "1.0.0",
+    "scenarioExtensionMods": [
+        "scenario_ext_unstable_magic"
+    ]
+}

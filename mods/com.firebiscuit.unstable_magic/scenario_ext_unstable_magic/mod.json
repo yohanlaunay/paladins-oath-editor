@@ -1,0 +1,9 @@
+{
+	"guid": "scenario_ext_unstable_magic",
+	"name": "Unstable Magic",
+	"description": "Casting spells will have a chance to trigger a random 'wild magic' surge with unpredictable effects: spawn crystals or monsters, draw/lose a card, duplicate relics or follower explodes.",
+	"applicableScenarios": [],
+	"script": {
+        "fileName":"unstable_magic.lua"
+	}
+}
