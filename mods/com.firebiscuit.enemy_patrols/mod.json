@@ -1,0 +1,10 @@
+{
+    "guid": "com.firebiscuit.enemy_patrols",
+    "name": "Enemy Patrols (Scenario Extension)",
+    "description": "Rampaging enemies will move around the map every turn, making exploration more dynamic.",
+    "author": "FireBiscuit",
+    "version": "1.0.0",
+    "scenarioExtensionMods": [
+        "scenario_ext_enemy_patrols"
+    ]
+}

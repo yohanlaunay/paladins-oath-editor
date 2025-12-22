@@ -1,0 +1,9 @@
+{
+	"guid": "scenario_ext_enemy_patrols",
+	"name": "Enemy Patrols",
+	"description": "Rampaging Enemies move around the map every turn.",
+	"applicableScenarios": [],
+	"script": {
+        "fileName":"enemy_patrols.lua"
+	}
+}
