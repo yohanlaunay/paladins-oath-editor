@@ -1,0 +1,10 @@
+{
+    "guid": "com.firebiscuit.pied_piper",
+    "name": "Pied Piper (Scenario Extension)",
+    "description": "Ending the turn in a (new) Swamp or Forest, you gain a new Squealer (rat) follower, but a Squealer will leave your party if you have any wound in hand at End of Turn.",
+    "author": "FireBiscuit",
+    "version": "1.0.0",
+    "scenarioExtensionMods": [
+        "scenario_ext_pied_piper"
+    ]
+}

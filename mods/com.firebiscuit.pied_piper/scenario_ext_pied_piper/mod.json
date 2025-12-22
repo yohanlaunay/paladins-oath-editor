@@ -1,0 +1,9 @@
+{
+	"guid": "scenario_ext_pied_piper",
+	"name": "Pied Piper",
+	"description": "Ending the turn in a (new) Swamp or Forest, you gain a new Squealer (rat) follower. But they don't like weakness and a Squealer will leave your party if you have any wound in hand at end of turn.",
+	"applicableScenarios": [],
+	"script": {
+        "fileName":"pied_piper.lua"
+	}
+}
