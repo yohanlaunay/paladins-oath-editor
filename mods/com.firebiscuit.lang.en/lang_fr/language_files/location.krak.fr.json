@@ -1,7 +1,7 @@
 {
     "location.data.krak.descriptor": "Krak",
     "location.data.krak.name": "Krak",
-    "location.data.krak.effect.recruitment": "<style=\"status\">Recrutez</style> des <style=\"value\">Adeptes</style>.",
+    "location.data.krak.effect.recruitment": "<style=\"status\">Recrutez</style> des <style=\"value\">Compagnons</style>.",
     "location.data.krak.effect.hand_size_increase": "<style=\"status\">Commencez votre tour</style> sur ou à côté de l'un de vos Kraks et vous piocherez des cartes supplémentaires <b>comme si</b> votre Taille de Main était <style=\"value\">augmentée de 1</style> par Krak que vous détenez.",
     "location.data.krak.unconquered.title": "Non conquis",
     "location.data.krak.unrevealed.tooltip.header": "Ennemis non révélés",

@@ -1,7 +1,7 @@
 {
     "location.data.market.descriptor": "Bazar",
     "location.data.market.name": "Bazar",
-    "location.data.market.effect.recruit": "<style=\"status\">Recrutez</style> <style=\"value\">N'IMPORTE QUEL</style> Adepte du Marché ici, mais le bazar impose des <style=\"status\">Taxes</style> selon les <style=\"value\">Lieux de Prédilection</style> des Adeptes. Vous pourriez donc devoir payer plus que lors d'un recrutement sur leur Lieu de Prédilection.",
+    "location.data.market.effect.recruit": "<style=\"status\">Recrutez</style> <style=\"value\">N'IMPORTE QUEL</style> Compagnon du Marché ici, mais le bazar impose des <style=\"status\">Taxes</style> selon les <style=\"value\">Lieux de Prédilection</style> des Compagnons. Vous pourriez donc devoir payer plus que lors d'un recrutement sur leur Lieu de Prédilection.",
     "location.data.market.recruit.tax.title": "Taxe de Recrutement",
     "location.data.market.recruit.tax.tooltip.header": "Taxe de Recrutement"
 }

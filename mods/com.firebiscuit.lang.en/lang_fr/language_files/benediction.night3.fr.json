@@ -1,8 +1,8 @@
 {
     "benediction.data.night.3.name": "Domination Arcanique",
     "benediction.data.night.3.description": {
-        "1": "Au début de chaque tour, vous pouvez activer cette capacité pour relancer jusqu'à <style=\"value\">{0} mana ambiant</style>. Le <style=\"value\">doré</style> sera toujours sélectionné s'il est présent",
-        "n": "Au début de chaque tour, vous pouvez activer cette capacité pour relancer jusqu'à <style=\"value\">{0} mana ambiant</style>. Le <style=\"value\">doré</style> sera toujours sélectionné s'il est présent",
+        "1": "Au début de chaque tour, vous pouvez activer cette capacité pour relancer jusqu'à <style=\"value\">{0} mana ambiant</style>. Le <style=\"value\">Mana Or</style> sera toujours sélectionné s'il est présent",
+        "n": "Au début de chaque tour, vous pouvez activer cette capacité pour relancer jusqu'à <style=\"value\">{0} mana ambiant</style>. Le <style=\"value\">Mana Or</style> sera toujours sélectionné s'il est présent",
         "t": 1
     },
     "benediction.data.night.3.source.updated.title": "Mana ambiant mis à jour",

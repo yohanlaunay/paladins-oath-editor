@@ -5,7 +5,7 @@
     "benedictions.list.empty": "Aucune Bénédiction",
     "benediction.select.title": "Sélectionnez une Bénédiction pour ce Round",
     "benediction.select.subtitle": "Vous priez vos Dieux pour une <style=\"value\">Bénédiction</style> au début de chaque Round pour vous préparer à ce qui vous attend. <style=\"status\">Choisissez sagement !</style>",
-    "benediction.select.hint": "<style=\"status\">Astuce :</style> Activez le <b>Menu de Pause</b> avec <style=\"value\">{0}</style> pour voir toutes vos Cartes, Adeptes, Capacités Divines et Mana",
+    "benediction.select.hint": "<style=\"status\">Astuce :</style> Activez le <b>Menu de Pause</b> avec <style=\"value\">{0}</style> pour voir toutes vos Cartes, Compagnons, Capacités Divines et Mana",
     "benediction.help.name": "Bénédictions",
     "benediction.help.description": "Chaque round, vous pouvez choisir une Bénédiction offrant des capacités uniques pour le round. Le Jour et la Nuit proposent des choix différents. Chaque Bénédiction a un ordre d'Initiative qui détermine si vous jouerez votre tour avant ou après le Compte-tours.",
     "benediction.help.initiative.name": "Initiative de Bénédiction",

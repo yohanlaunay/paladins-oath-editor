@@ -1,4 +1,4 @@
 {
     "timeofday.data.night.name": "Nuit",
-    "timeofday.data.night.description": "Pendant la nuit, certaines restrictions s'appliquent, notamment pour tout effet déclenché par du <style=\"value\">Mana Doré</style> qui ne peut pas être utilisé car ce type de Mana est <style=\"status\">Inerté</style> la nuit.\n\nLa <style=\"value\">Nuit</style> permet également d'utiliser le <style=\"value\">Mana Noir</style>."
+    "timeofday.data.night.description": "Pendant la nuit, certaines restrictions s'appliquent, notamment pour tout effet déclenché par du <style=\"value\">Mana Or</style> qui ne peut pas être utilisé car ce type de Mana est <style=\"status\">Inerté</style> la nuit.\n\nLa <style=\"value\">Nuit</style> permet également d'utiliser le <style=\"value\">Mana Noir</style>."
 }

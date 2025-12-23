@@ -1,7 +1,7 @@
 {
     "card.data.mark_of_the_tyrant.name": "Marque du Tyran",
-    "card.data.mark_of_the_tyrant.actions.basic": "<style=\"status\">Donnez</style> à un Adepte :\nPendant le <style=\"value\">Blocage</style>, <style=\"status\">Épuisez</style> le Adepte pour <style=\"status\">Annuler</style> l' <style=\"value\">Attaque</style> d'un ennemi <b>et</b> Gagnez <style=\"value\">1 XP</style>",
+    "card.data.mark_of_the_tyrant.actions.basic": "<style=\"status\">Donnez</style> à un Compagnon :\nPendant le <style=\"value\">Blocage</style>, <style=\"status\">Épuisez</style> le Compagnon pour <style=\"status\">Annuler</style> l' <style=\"value\">Attaque</style> d'un ennemi <b>et</b> Gagnez <style=\"value\">1 XP</style>",
     "card.data.mark_of_the_tyrant.actions.throw": "<style=\"sacrifice\">Détruisez</style> pendant le combat pour <style=\"status\">Empêcher</style> jusqu'à <style=\"value\">3</style> ennemis d'Attaquer",
     "card.data.mark_of_the_tyrant.skill.name": "Terreur du Tyran",
-    "card.data.mark_of_the_tyrant.skill.description": "<style=\"status\">Activez</style> cette Bénédiction pendant le <style=\"value\">Blocage</style> pour <style=\"status\">Annuler</style> l' <style=\"value\">Attaque</style> de l'ennemi <b>et</b> Gagnez <style=\"value\">1 XP</style>. Cela va <style=\"status\">Épuiser</style> le Adepte"
+    "card.data.mark_of_the_tyrant.skill.description": "<style=\"status\">Activez</style> cette Bénédiction pendant le <style=\"value\">Blocage</style> pour <style=\"status\">Annuler</style> l' <style=\"value\">Attaque</style> de l'ennemi <b>et</b> Gagnez <style=\"value\">1 XP</style>. Cela va <style=\"status\">Épuiser</style> le Compagnon"
 }

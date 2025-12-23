@@ -23,7 +23,7 @@
     "mana.form.condition.list": "<style=\"value\">{0}</style>",
     "mana.form.condition.none": "<style=\"value\">AUCUNE</style>",
     "mana.selection.panel.activate_btn": "Sélectionner",
-    "mana.selection.panel.empty": "<style=\"value\">Aucun Mana disponible</style> à sélectionner.\n\nPeut-être que certaines de vos Cartes, Capacités Divines ou Adeptes peuvent en générer.",
+    "mana.selection.panel.empty": "<style=\"value\">Aucun Mana disponible</style> à sélectionner.\n\nPeut-être que certaines de vos Cartes, Capacités Divines ou Compagnons peuvent en générer.",
     "mana.selection.panel.title": "Sélectionnez le Mana <style=\"value\">{0}</style>",
     "mana.selection.panel.source.title": "Ambiant",
     "mana.selection.panel.inventory.title": "Inventaire",
@@ -47,5 +47,5 @@
     "mana.help.name": "Mana",
     "mana.help.description": "Le Mana est utilisé pour activer des Capacités puissantes. Le Mana existe sous 3 formes : <style=\"value\">l'Essence</style> (par défaut), utilisable uniquement durant votre tour ; les <style=\"value\">Cristaux</style> qui restent dans votre Inventaire (max 3 par couleur) ; l' <style=\"value\">Ambiant</style> qui est fourni par l'Environnement mais ne peut être utilisé qu'un nombre limité de fois par tour (par défaut : 1) et est relancé à la <b>Fin du Tour</b> s'il a été utilisé.",
     "mana.time.restriction.name": "Restriction de Mana selon le Moment de la journée",
-    "mana.time.restriction.description": "Le Mana Spécial ne peut être utilisé que durant le Jour (Doré) ou la Nuit (Noir)."
+    "mana.time.restriction.description": "Le Mana Spécial ne peut être utilisé que durant le Jour (Or) ou la Nuit (Noir)."
 }

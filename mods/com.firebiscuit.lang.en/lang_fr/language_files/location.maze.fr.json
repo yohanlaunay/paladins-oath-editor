@@ -5,7 +5,7 @@
     "location.data.maze.paths.title": "Chemins du Dédale",
     "location.data.maze.effect.enter": "Vous pouvez <style=\"status\">entrer</style> dans le dédale en choisissant l'un des <style=\"value\">chemins</style> ouverts. Chaque chemin mène à une <style=\"status\">bataille</style>. Le meilleur butin se trouve dans les profondeurs du dédale.",
     "location.data.maze.effect.conquered": "Une fois que vous avez <style=\"status\">conquis</style> un chemin, vous ne pouvez plus retourner dans le dédale.",
-    "location.data.maze.effect.unit_restriction": "Seul <style=\"value\">1</style> Adepte <style=\"wound\">non blessé</style> et <style=\"status\">non épuisé</style> peut entrer dans le dédale avec le joueur.",
+    "location.data.maze.effect.unit_restriction": "Seul <style=\"value\">1</style> Compagnon <style=\"wound\">non blessé</style> et <style=\"status\">non épuisé</style> peut entrer dans le dédale avec le joueur.",
     "location.data.maze.battle.title": "Habitants du Dédale",
     "location.data.maze.battle.subtitle": "Entrer pour combattre",
     "location.data.maze.enter.label": "Entrer",

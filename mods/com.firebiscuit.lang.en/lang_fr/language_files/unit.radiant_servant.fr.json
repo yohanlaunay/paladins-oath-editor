@@ -2,7 +2,7 @@
     "unit.data.radiant_servant.name": "Serviteur Radieux",
     "unit.data.radiant_servant.lore": "Petites créatures qui vivent dans la forêt, expertes en magie de guérison et en potions de restauration. On les trouve souvent autour des villages ou des temples, prodiguant des soins et procurant toutes sortes de remèdes.",
     "unit.data.radiant_servant.combo.0": "Soin<sprite name=\"card_icon_heal\"><style=\"value\">2</style>",
-    "unit.data.radiant_servant.combo.1": "<style=\"status\">Rafraîchir</style> un Adepte (<i>Niveau</i> <style=\"value\">1</style> ou <style=\"value\">2</style>)",
+    "unit.data.radiant_servant.combo.1": "<style=\"status\">Rafraîchir</style> un Compagnon (<i>Niveau</i> <style=\"value\">1</style> ou <style=\"value\">2</style>)",
     "unit.data.radiant_servant.combo.2": "Gagnez un Mana <style=\"value\">Vert</style>",
     "unit.data.radiant_servant.description.visuals": "Petite créature bipède venant des bois. Portant un visage en bois, des feuilles pour les cheveux, des champignons pour les épaules. Bras frêles portant un bâton métallique à l'extrémité en forme de lune ou de crochet. Il rayonne de l'énergie comme un halo de lumière jaune."
 }

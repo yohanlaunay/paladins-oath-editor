@@ -1,4 +1,4 @@
 {
     "skill.data.beast_unleashed.name": "Bête Déchaînée",
-    "skill.data.beast_unleashed.combo": "<style=\"status\">Défaussez</style> une carte pour obtenir Déplacement<sprite name=\"card_icon_move\"><style=\"value\">4</style>, Leadership<sprite name=\"card_icon_influence\"><style=\"value\">4</style>, Attaque<sprite name=\"card_icon_attack\"><style=\"value\">4</style> <b>ou</b> Blocage<sprite name=\"card_icon_block\"><style=\"value\">4</style>.\n<style=\"value\">+1</style> par <b>emplacement</b> d'Adepte <style=\"status\">vide</style>."
+    "skill.data.beast_unleashed.combo": "<style=\"status\">Défaussez</style> une carte pour obtenir Déplacement<sprite name=\"card_icon_move\"><style=\"value\">4</style>, Leadership<sprite name=\"card_icon_influence\"><style=\"value\">4</style>, Attaque<sprite name=\"card_icon_attack\"><style=\"value\">4</style> <b>ou</b> Blocage<sprite name=\"card_icon_block\"><style=\"value\">4</style>.\n<style=\"value\">+1</style> par <b>emplacement</b> d'Compagnon <style=\"status\">vide</style>."
 }

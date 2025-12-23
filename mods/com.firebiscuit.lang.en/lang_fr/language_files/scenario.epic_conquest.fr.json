@@ -1,5 +1,5 @@
 {
     "scenario.data.epic_conquest.name": "Conquête Épique",
-    "scenario.data.epic_conquest.description": "Embarquez pour un voyage épique pour <style=\"status\">prendre le contrôle</style> de toutes les Citadelles avec ce long scénario où vous pourrez exploiter pleinement toutes vos Cartes, Sorts, Adeptes et Reliques.",
+    "scenario.data.epic_conquest.description": "Embarquez pour un voyage épique pour <style=\"status\">prendre le contrôle</style> de toutes les Citadelles avec ce long scénario où vous pourrez exploiter pleinement toutes vos Cartes, Sorts, Compagnons et Reliques.",
     "scenario.data.epic_conquest.win.0": "Toutes les <style=\"value\">Citadelles</style> doivent être <style=\"status\">Conquises</style> avant la fin du dernier Round."
 }

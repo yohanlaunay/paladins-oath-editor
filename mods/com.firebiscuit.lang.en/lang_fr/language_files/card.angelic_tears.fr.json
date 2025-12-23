@@ -1,7 +1,7 @@
 {
     "card.data.angelic_tears.name": "Larmes Angéliques",
-    "card.data.angelic_tears.actions.basic": "<style=\"status\">Donnez</style> à un Adepte :\n<style=\"value\">Une fois par cycle Jour / Nuit</style> avant le combat, <style=\"status\">Restaurez</style> ce compagnon",
-    "card.data.angelic_tears.actions.throw": "<style=\"sacrifice\">Détruisez</style> en dehors du combat pour <style=\"status\">Restaurer</style> <style=\"value\">Tous</style> les compagnons sous votre commandement",
+    "card.data.angelic_tears.actions.basic": "<style=\"status\">Donnez</style> à un Compagnon :\n<style=\"value\">Une fois par cycle Jour / Nuit</style> avant le combat, <style=\"status\">Restaurez</style> ce Compagnon",
+    "card.data.angelic_tears.actions.throw": "<style=\"sacrifice\">Détruisez</style> en dehors du combat pour <style=\"status\">Restaurer</style> <style=\"value\">Tous</style> les Compagnons sous votre commandement",
     "card.data.angelic_tears.skill.name": "Résilience Angélique",
-    "card.data.angelic_tears.skill.description": "<style=\"status\">Activez</style> avant le combat pour <style=\"status\">Restaurer</style> le compagnon"
+    "card.data.angelic_tears.skill.description": "<style=\"status\">Activez</style> avant le combat pour <style=\"status\">Restaurer</style> le Compagnon"
 }

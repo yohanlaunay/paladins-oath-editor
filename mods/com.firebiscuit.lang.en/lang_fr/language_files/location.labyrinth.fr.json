@@ -5,7 +5,7 @@
     "location.data.labyrinth.paths.title": "Chemins du Labyrinthe",
     "location.data.labyrinth.effect.enter": "Vous pouvez <style=\"status\">entrer</style> dans le labyrinthe en choisissant l'un des <style=\"value\">chemins</style> ouverts. Chaque chemin mène à une <style=\"status\">bataille</style>. Le meilleur butin se trouve dans les profondeurs du labyrinthe.",
     "location.data.labyrinth.effect.conquered": "Une fois que vous avez <style=\"status\">Conquis</style> un chemin, vous ne pouvez plus retourner dans le labyrinthe.",
-    "location.data.labyrinth.effect.unit_restriction": "Seul <style=\"value\">1</style> Adepte <style=\"wound\">non blessé</style> et <style=\"status\">non épuisé</style> peut entrer dans le labyrinthe avec le joueur.",
+    "location.data.labyrinth.effect.unit_restriction": "Seul <style=\"value\">1</style> Compagnon <style=\"wound\">non blessé</style> et <style=\"status\">non épuisé</style> peut entrer dans le labyrinthe avec le joueur.",
     "location.data.labyrinth.battle.title": "Habitants du Labyrinthe",
     "location.data.labyrinth.battle.subtitle": "Entrer pour combattre",
     "location.data.labyrinth.enter.label": "Entrer",

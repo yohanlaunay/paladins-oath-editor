@@ -4,5 +4,5 @@
     "unit.data.artificier.combo.0": "Attaque de <i>Siège</i> <sprite name=\"card_icon_attack_siege\"><style=\"value\">3</style>",
     "unit.data.artificier.combo.1": "Attaque de <i>Siège</i> de <style=\"value\">Feu</style> <sprite name=\"card_icon_attack_siege\"><style=\"value\">5</style>",
     "unit.data.artificier.combo.2": "Attaque de <i>Siège</i> de <style=\"value\">Froid</style> <sprite name=\"card_icon_attack_siege\"><style=\"value\">5</style>",
-    "unit.data.artificier.description.visuals": "Petite créature à l'allure robotique, faite de métal avec des yeux bleus rougeoyants. Portant un chapeau de magicien violet pointu. Tenant un tome magique rouge dans une main et un orbe violet rougeoyant. Un canon en bois avec des bordures dorées pend sur son dos. L'arrière-plan montre de multiples feux d'artifice violets."
+    "unit.data.artificier.description.visuals": "Petite créature à l'allure robotique, faite de métal avec des yeux bleus rougeoyants. Portant un chapeau de magicien violet pointu. Tenant un tome magique rouge dans une main et un orbe violet rougeoyant. Un canon en bois avec des bordures ores pend sur son dos. L'arrière-plan montre de multiples feux d'artifice violets."
 }

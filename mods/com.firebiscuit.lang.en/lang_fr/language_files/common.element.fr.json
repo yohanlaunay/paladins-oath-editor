@@ -11,5 +11,5 @@
     "resistance.condition.list": "<style=\"status\">Résistance</style> <style=\"value\">{0}</style>",
     "resistance.condition.none": "<style=\"value\">AUCUNE</style>",
     "resistance.help.name": "Résistances",
-    "resistance.help.description": "Certains Ennemis ou Adeptes possèdent des Résistances à certains types d'Éléments ou une Résistance Physique. Les Résistances sur les Ennemis rendent les Attaques ou les Blocs du même type inefficaces, nécessitant le double de points. Les Résistances sur les Adeptes signifient qu'avant de subir des dégâts du type résistant, les dégâts sont d'abord réduits par la valeur d'Armure."
+    "resistance.help.description": "Certains Ennemis ou Compagnons possèdent des Résistances à certains types d'Éléments ou une Résistance Physique. Les Résistances sur les Ennemis rendent les Attaques ou les Blocs du même type inefficaces, nécessitant le double de points. Les Résistances sur les Compagnons signifient qu'avant de subir des dégâts du type résistant, les dégâts sont d'abord réduits par la valeur d'Armure."
 }

@@ -2,7 +2,7 @@
     "location.data.source.descriptor": "Source",
     "location.data.source.name": "Source",
     "location.data.source.effect.healing_essence": "<style=\"status\">Finir</style> votre tour à la Source vous permet de <style=\"status\">jeter</style> <style=\"wound\">1 Blessure</style> de votre main ou de votre défausse.",
-    "location.data.source.effect.imbued_magic": "<style=\"status\">Commencer</style> votre tour à la Source vous donne <style=\"value\">1 Mana Doré</style> pendant la <style=\"status\">Journée</style> ou <style=\"value\">1 Mana Noir</style> la <style=\"status\">Nuit</style>.",
+    "location.data.source.effect.imbued_magic": "<style=\"status\">Commencer</style> votre tour à la Source vous donne <style=\"value\">1 Mana Or</style> pendant la <style=\"status\">Journée</style> ou <style=\"value\">1 Mana Noir</style> la <style=\"status\">Nuit</style>.",
     "location.data.source.reward.start_turn.name": "Puisage à la Source",
     "location.data.source.reward.end_turn.name": "Repos à la Source"
 }

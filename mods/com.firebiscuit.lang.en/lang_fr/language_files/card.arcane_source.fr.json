@@ -1,7 +1,7 @@
 {
     "card.data.arcane_source.name": "Source Arcanique",
     "card.data.arcane_source.actions.basic": "Vous pouvez utiliser <style=\"value\">1</style> Mana Ambiant <style=\"value\">supplémentaire</style>",
-    "card.data.arcane_source.actions.advanced": "Transformez <style=\"value\">1</style> Mana Ambiant en <style=\"value\">2</style> Mana de n'importe quelle couleur unique (sauf Doré). Le Mana Ambiant prendra cette couleur à la fin du tour",
+    "card.data.arcane_source.actions.advanced": "Transformez <style=\"value\">1</style> Mana Ambiant en <style=\"value\">2</style> Mana de n'importe quelle couleur unique (sauf Or). Le Mana Ambiant prendra cette couleur à la fin du tour",
     "card.data.arcane_source.actions.advanced.red": "Transformez <style=\"value\">1</style> Mana Ambiant en <style=\"value\">2 Mana Rouges</style>",
     "card.data.arcane_source.actions.advanced.green": "Transformez <style=\"value\">1</style> Mana Ambiant en <style=\"value\">2 Mana Verts</style>",
     "card.data.arcane_source.actions.advanced.blue": "Transformez <style=\"value\">1</style> Mana Ambiant en <style=\"value\">2 Mana Bleus</style>",

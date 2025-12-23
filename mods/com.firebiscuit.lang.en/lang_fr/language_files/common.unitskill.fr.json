@@ -1,9 +1,9 @@
 {
     "unitskill.detach.tooltip.title": "Détacher cette Capacité Divine",
     "unitskill.detach.tooltip.description": "Cliquer pour <style=\"status\">Détacher</style> cette Capacité Divine. La <style=\"value\">Carte</style> qui a servi à la générer sera renvoyée dans votre <style=\"value\">Défausse</style>.",
-    "unitskill.detach.confirm.title": "Détacher la Capacité Divine de ce Adepte ?",
-    "unitskill.detach.confirm.content": "Voulez-vous <style=\"status\">Détacher</style> la Capacité Divine <style=\"value\">{0}</style> de ce Adepte ?\n\nLa <style=\"value\">Carte</style> qui a servi à la générer sera renvoyée dans votre <style=\"value\">Défausse</style>.",
+    "unitskill.detach.confirm.title": "Détacher la Capacité Divine de ce Compagnon ?",
+    "unitskill.detach.confirm.content": "Voulez-vous <style=\"status\">Détacher</style> la Capacité Divine <style=\"value\">{0}</style> de ce Compagnon ?\n\nLa <style=\"value\">Carte</style> qui a servi à la générer sera renvoyée dans votre <style=\"value\">Défausse</style>.",
     "unitskill.detach.confirm.yes": "Détacher",
-    "unitskill.help.name": "Capacité Divine de Adepte",
+    "unitskill.help.name": "Capacité Divine de Compagnon",
     "unitskill.help.description": "De puissantes Reliques peuvent être activées pour bénir un compagnon, lui octroyant des capacités spéciales ou des bonus de statistiques. Les bénédictions peuvent être détachées au Feu de Camp mais la Relique associée ira dans la Défausse pour être piochée ultérieurement."
 }

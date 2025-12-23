@@ -9,5 +9,5 @@
     "immunity.condition.list": "<style=\"status\">Immunité</style> <style=\"value\">{0}</style>",
     "immunity.condition.none": "<style=\"value\">AUCUNE</style>",
     "immunity.help.name": "Immunités",
-    "immunity.help.description": "Les ennemis possédant des Immunités ignorent les effets de vos Cartes, Capacités Divines ou Adeptes selon le type d'Immunité. Consultez le type d'Immunité de l'Ennemi pour plus de détails."
+    "immunity.help.description": "Les ennemis possédant des Immunités ignorent les effets de vos Cartes, Capacités Divines ou Compagnons selon le type d'Immunité. Consultez le type d'Immunité de l'Ennemi pour plus de détails."
 }

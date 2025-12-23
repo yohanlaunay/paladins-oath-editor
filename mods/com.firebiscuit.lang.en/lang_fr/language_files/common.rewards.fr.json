@@ -92,19 +92,19 @@
         "n": "Choisissez <style=\"value\">{0}</style> Capacités Divines",
         "t": 1
     },
-    "reward.data.unit.name": "Nouveau Adepte",
-    "reward.data.unit.description": "Nouveau Adepte\n\n<style=\"value\">{0}</style>",
+    "reward.data.unit.name": "Nouveau Compagnon",
+    "reward.data.unit.description": "Nouveau Compagnon\n\n<style=\"value\">{0}</style>",
     "reward.data.unit.offer.empty": "Il n'y a plus de compagnons disponibles.",
-    "reward.data.unit.offer.name": "Acquérir des Adeptes",
+    "reward.data.unit.offer.name": "Acquérir des Compagnons",
     "reward.data.unit.offer.description": {
-        "1": "Sélectionnez <style=\"value\">{0}</style> Adepte",
-        "n": "Sélectionnez <style=\"value\">{0}</style> Adeptes",
+        "1": "Sélectionnez <style=\"value\">{0}</style> Compagnon",
+        "n": "Sélectionnez <style=\"value\">{0}</style> Compagnons",
         "t": 1
     },
-    "reward.data.unit.slot.name": "Emplacements de Adepte Accrus",
+    "reward.data.unit.slot.name": "Emplacements de Compagnon Accrus",
     "reward.data.unit.slot.description": {
-        "1": "Vous pouvez gérer <style=\"value\">{0}</style> Adepte de plus",
-        "n": "Vous pouvez gérer <style=\"value\">{0}</style> Adeptes de plus",
+        "1": "Vous pouvez gérer <style=\"value\">{0}</style> Compagnon de plus",
+        "n": "Vous pouvez gérer <style=\"value\">{0}</style> Compagnons de plus",
         "t": 1
     },
     "reward.data.player.armor.name": "Armure Accrue",
@@ -137,5 +137,5 @@
     "reward.description.combo.or": "<style=\"value\"> ou </style>",
     "rewards.boons.round.title": "<style=\"value\">Avantages</style> reçus ce Round",
     "rewards.boons.round.subtitle": "Vous recevrez ces avantages <style=\"status\">chaque Round</style> selon le Scénario, le Personnage et le Serment sélectionnés",
-    "rewards.hint.pause": "<style=\"status\">Astuce :</style> Appuyez sur <style=\"value\">{0}</style> pour voir tout votre Mana, vos Cartes, Adeptes et Capacités Divines"
+    "rewards.hint.pause": "<style=\"status\">Astuce :</style> Appuyez sur <style=\"value\">{0}</style> pour voir tout votre Mana, vos Cartes, Compagnons et Capacités Divines"
 }

@@ -13,8 +13,8 @@
     "location.data.temple.interaction.burn.confirmation.content": "Le Temple sera <style=\"status\">Détruit</style> et votre Réputation en prendra un coup dur.",
     "location.data.temple.interaction.burn.confirmation.battle.title": "Gardien du Temple",
     "location.data.temple.effect.training": "<style=\"status\">Apprenez</style> des <style=\"value\">Capacités Spéciales</style> au Marché pour <style=\"value\">6</style> Leadership.",
-    "location.data.temple.effect.recruitment": "<style=\"status\">Recrutez</style> des <style=\"value\">Adeptes</style>.",
-    "location.data.temple.effect.heal": "<style=\"status\">Soignez-vous</style> ou soignez vos Adeptes pour <style=\"value\">2</style> Leadership par point de soin.",
+    "location.data.temple.effect.recruitment": "<style=\"status\">Recrutez</style> des <style=\"value\">Compagnons</style>.",
+    "location.data.temple.effect.heal": "<style=\"status\">Soignez-vous</style> ou soignez vos Compagnons pour <style=\"value\">2</style> Leadership par point de soin.",
     "location.data.temple.effect.burn": "<style=\"status\">Brûlez</style> pour combattre le gardien du temple d'<style=\"value\">Arcanum</style> et <style=\"status\">pillez</style> le reliquaire pour une <style=\"value\">Relique</style>.",
     "location.data.temple.assault.label": "Bataille"
 }
