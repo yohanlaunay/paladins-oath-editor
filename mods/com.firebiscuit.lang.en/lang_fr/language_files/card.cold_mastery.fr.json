@@ -1,5 +1,5 @@
 {
     "card.data.cold_mastery.name": "Maîtrise du Froid",
-    "card.data.cold_mastery.actions.basic": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>ou</b>\nBlocage de <style=\"value\">Glace</style> <sprite name=\"card_icon_block\"><style=\"value\">3</style>",
-    "card.data.cold_mastery.actions.advanced": "Blocage de <style=\"value\">Glace</style> <sprite name=\"card_icon_block\"><style=\"value\">5</style>,\n<style=\"value\">+1</style> par capacité ennemie et modificateur d'attaque"
+    "card.data.cold_mastery.actions.basic": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>ou</b>\nBlocage de <style=\"value\">Froid</style> <sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "card.data.cold_mastery.actions.advanced": "Blocage de <style=\"value\">Froid</style> <sprite name=\"card_icon_block\"><style=\"value\">5</style>,\n<style=\"value\">+1</style> par capacité ennemie et modificateur d'attaque"
 }

@@ -179,6 +179,5 @@
     "loading.tips.7": "Les Reliques sont <b>vraiment puissantes</b>. N'hésitez pas à brûler ce <style=\"value\">Temple</style> si vous n'en avez plus besoin.",
     "loading.tips.8": "Gérer le mouvement et la bataille avec le même jeu de cartes est difficile. N'hésitez pas à <style=\"value\">changer de Serment</style> si vous galérez avec le Mouvement.",
     "loading.tips.9": "N'oubliez pas d'essayer les différents Scénarios, ils nécessitent tous des approches et des styles de jeu différents.",
-    "loading.tips.10": "Vénus est la planète la plus chaude du système solaire, même si elle n'est pas la plus proche du soleil. <style=\"status\">Prenez garde !</style>",
-    "home.menu.game.load.last_save_datetime.format": "dd/MM/yyyy HH:mm"
+    "mods.dev.script.reload.btn.label":"Recharger"
 }

@@ -12,6 +12,7 @@
         "t": 1
     },
     "location.data.common.cta.move_adjacent_to_assault": "Déplacez-vous sur une case <style=\"value\">Adjacente</style> pour Assaillir",
+    "location.data.common.cta.need_movement_points_to_reach": "Besoin de <style=\"value\">{0}</style> points de Mouvement pour se déplacer ici",
     "location.data.common.cta.need_movement_points_to_assault": "Besoin de <style=\"value\">{0}</style> points de Mouvement pour Assaillir",
     "location.data.common.cta.move_there_to_interact": "Déplacez-vous <style=\"value\">Sur le Lieu</style> pour Interagir",
     "location.data.common.cta.movement_impossible": "Impossible de se déplacer vers ce lieu pour le moment",

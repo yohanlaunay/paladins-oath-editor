@@ -35,6 +35,8 @@
     "common.hotkeys.market.spells.open_close.description": "Ouvrir/Fermer le Marché, sur l'onglet <b>Sortilèges</b>.",
     "common.hotkeys.market.units.open_close.name": "Afficher/Masquer les Compagnons du Marché",
     "common.hotkeys.market.units.open_close.description": "Ouvrir/Fermer le Marché, sur l'onglet <b>Compagnons</b>.",
+    "common.hotkeys.market.special.locations.open_close.name":"Afficher/Masquer les cartes spéciales du Marché",
+    "common.hotkeys.market.special.locations.open_close.description":"Ouvrir/Fermer le Marché, sur l'onglet <b>Spécial</b>.",
     "common.hotkeys.map.move.left.name": "Déplacer la Carte à Gauche",
     "common.hotkeys.map.move.left.description": "Déplacer légèrement la Carte vers la <b>Gauche</b> lors de l'Exploration ou dans le menu Pause/Carte.",
     "common.hotkeys.map.move.right.name": "Déplacer la Carte à Droite",
