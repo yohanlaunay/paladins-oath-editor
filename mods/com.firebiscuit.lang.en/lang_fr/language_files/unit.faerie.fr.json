@@ -1,0 +1,8 @@
+{
+    "unit.data.faerie.name": "Fée",
+    "unit.data.faerie.lore": "Êtres nés de la magie, on les trouve toujours errant près des sources de magie ou des objets magiques puissants comme les Flèches et les reliquaires des Temples. Elles ont été découvertes pour la première fois par la Grande Prêtresse lors d'une chasse aux reliques et ont été étudiées et utilisées par l'Ordre Arcanique pour leur extraordinaire résistance à la magie.",
+    "unit.data.faerie.combo.0": "Attaque à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>",
+    "unit.data.faerie.combo.1": "Attaque à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>.\nUn Ennemi perd <style=\"value\">toutes</style> ses Fortifications",
+    "unit.data.faerie.combo.2": "Attaque à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>.\nUn Ennemi perd <style=\"value\">toutes</style> ses Résistances",
+    "unit.data.faerie.description.visuals": "Minuscule elfe volante aux longs cheveux argentés et aux ailes bleues transparentes. Portant une tunique verte. Tenant un orbe vert avec une énergie bouillonnante à l'intérieur et plusieurs flux d'énergie verte circulant autour d'elle."
+}

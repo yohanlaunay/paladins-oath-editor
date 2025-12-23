@@ -1,0 +1,8 @@
+{
+    "unit.data.sylvain_guards.name": "Gardes Sylvains",
+    "unit.data.sylvain_guards.lore": "Race d'arbres vivants géants, les Gardes Sylvains sont généralement recrutés pour aider à fortifier les citadelles du Royaume et protéger les troupes. Compte tenu de la situation actuelle, il ne sera pas facile de convaincre leur employeur de les laisser partir.",
+    "unit.data.sylvain_guards.combo.0": "Attaque<sprite name=\"card_icon_attack\"><style=\"value\">5</style>",
+    "unit.data.sylvain_guards.combo.1": "Blocage<sprite name=\"card_icon_block\"><style=\"value\">8</style>,\n<style=\"value\">x2</style> contre une attaque <style=\"value\">Rapide</style>",
+    "unit.data.sylvain_guards.combo.2": "Vos Adeptes gagnent <style=\"value\">toutes</style> les résistances (<b>Avant la Bataille</b>)",
+    "unit.data.sylvain_guards.description.visuals": "Petit groupe de souches d'arbres vivantes avec des feuilles jaunes pour les cheveux et des yeux jaunes. Grande ouverture dans le tronc faisant office de bouche. Bras courts en bois."
+}

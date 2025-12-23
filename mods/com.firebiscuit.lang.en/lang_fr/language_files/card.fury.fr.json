@@ -1,0 +1,5 @@
+{
+    "card.data.fury.name": "Fureur",
+    "card.data.fury.actions.basic": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">2</style>",
+    "card.data.fury.actions.advanced": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">4</style>"
+}

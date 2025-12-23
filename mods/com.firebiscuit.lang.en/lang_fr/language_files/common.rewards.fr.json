@@ -1,0 +1,141 @@
+{
+    "rewards.claim.panel.subtitle.and": "Cliquez sur <style=\"value\">chaque</style> récompense pour la <style=\"status\">récupérer</style>",
+    "rewards.claim.panel.subtitle.or": "Sélectionnez <style=\"value\">une</style> des récompenses à <style=\"status\">récupérer</style>",
+    "rewards.claim.panel.btn.label": "Récupérer",
+    "rewards.display.tooltip.header": "Récompense : {0}",
+    "reward.data.xp.name": "Gain d'XP",
+    "reward.data.xp.description": "<style=\"value\">+{0}</style> XP",
+    "reward.data.reputation.positive.name": "Gain de Réputation",
+    "reward.data.reputation.positive.description": "<style=\"value\">+{0}</style> de Réputation",
+    "reward.data.reputation.negative.name": "Perte de Réputation",
+    "reward.data.reputation.negative.description": "<style=\"value\">-{0}</style> de Réputation",
+    "reward.data.throw_wound.name": "Retrait de Blessures",
+    "reward.data.throw_wound.description": {
+        "1": "<style=\"status\">Retirer</style> <style=\"wound\">{0}</style> Blessure de {1}",
+        "n": "<style=\"value\">Retirer</style> <style=\"wound\">{0}</style> Blessures de {1}",
+        "t": 1
+    },
+    "reward.data.throw_wound.description.decorator.wounds": "{0} (<style=\"wound\">{1}</style>)",
+    "reward.data.card.name": "Nouvelle Carte",
+    "reward.data.card.description": "Nouvelle Carte\n\n<style=\"value\">{1}</style> (vers <style=\"value\">{0}</style>)",
+    "reward.data.card.draw.empty_list": "Plus aucune carte à piocher.",
+    "reward.data.card.draw.name": "Piocher des Cartes",
+    "reward.data.card.draw.keep_all.claim.title": "Vous obtenez toutes ces Capacités",
+    "reward.data.card.draw.keep_all.description": {
+        "1": "Piochez <style=\"value\">{0}</style> carte",
+        "n": "Piochez <style=\"value\">{0}</style> cartes",
+        "t": 1
+    },
+    "reward.data.card.draw.keep_some.claim.title": {
+        "1": "Sélectionnez <style=\"value\">{0}</style> carte",
+        "n": "Sélectionnez <style=\"value\">{0}</style> cartes",
+        "t": 1
+    },
+    "reward.data.card.draw.keep_some.description": {
+        "1": "Piochez <style=\"value\">{0}</style>, gardez <style=\"value\">{1}</style> carte",
+        "n": "Piochez <style=\"value\">{0}</style>, gardez <style=\"value\">{1}</style> cartes",
+        "t": 1
+    },
+    "reward.data.card.supply_draw.empty_list": "Plus aucune carte disponible à piocher.",
+    "reward.data.card.supply_draw.name": "Piocher {0}",
+    "reward.data.card.supply_draw.keep_all.claim.title": "Vous recevez tous ces cadeaux",
+    "reward.data.card.supply_draw.keep_all.description": {
+        "1": "Piochez <style=\"value\">{2}</style> carte {0} (vers <style=\"value\">{1}</style>)",
+        "n": "Piochez <style=\"value\">{2}</style> cartes {0} (vers <style=\"value\">{1}</style>)",
+        "t": 1
+    },
+    "reward.data.card.supply_draw.keep_some.claim.title": {
+        "1": "Sélectionnez <style=\"value\">{0}</style> de ces cadeaux",
+        "n": "Sélectionnez <style=\"value\">{0}</style> de ces cadeaux",
+        "t": 1
+    },
+    "reward.data.card.supply_draw.keep_some.description": {
+        "1": "Piochez <style=\"value\">{2}</style>, gardez <style=\"value\">{3}</style> carte {0} (vers <style=\"value\">{1}</style>)",
+        "n": "Piochez <style=\"value\">{2}</style>, gardez <style=\"value\">{3}</style> cartes {0} (vers <style=\"value\">{1}</style>)",
+        "t": 1
+    },
+    "reward.data.card.offer.name": "Sélectionner {0}",
+    "reward.data.card.offer.description": {
+        "1": "Sélectionnez <style=\"value\">{2}</style> carte {0} (vers <style=\"value\">{1}</style>)",
+        "n": "Sélectionnez <style=\"value\">{2}</style> cartes {0} (vers <style=\"value\">{1}</style>)",
+        "t": 1
+    },
+    "reward.data.skill.name": "Nouvelle Capacité Divine",
+    "reward.data.skill.description": "Nouvelle Capacité Divine\n\n<style=\"value\">{0}</style>",
+    "reward.data.skill.offer.name": "Sélectionner des Capacités Divines",
+    "reward.data.skill.offer.empty": "Plus de Capacité Divine à sélectionner",
+    "reward.data.skill.offer.description": {
+        "1": "Sélectionnez <style=\"value\">{0}</style> Capacité Divine",
+        "n": "Sélectionnez <style=\"value\">{0}</style> Capacités Divines",
+        "t": 1
+    },
+    "reward.data.skill.draw.name": "Gain de Capacités Divines",
+    "reward.data.skill.draw.empty": "Plus de Capacité Divine à piocher",
+    "reward.data.skill.draw.keep_all.claim.title": "Vous obtenez toutes ces Capacités Divines",
+    "reward.data.skill.draw.keep_all.description": {
+        "1": "Piochez <style=\"value\">{0}</style> Capacité Divine",
+        "n": "Piochez <style=\"value\">{0}</style> Capacités Divines",
+        "t": 1
+    },
+    "reward.data.skill.draw.keep_some.claim.title": {
+        "1": "Sélectionnez <style=\"value\">{0}</style> Capacité Divine",
+        "n": "Sélectionnez <style=\"value\">{0}</style> Capacités Divines",
+        "t": 1
+    },
+    "reward.data.skill.draw.keep_some.description": {
+        "1": "Piochez <style=\"value\">{0}</style>, gardez <style=\"value\">{1}</style> Capacité Divine",
+        "n": "Piochez <style=\"value\">{0}</style>, gardez <style=\"value\">{1}</style> Capacités Divines",
+        "t": 1
+    },
+    "reward.data.skill.draw.choose.keep_some.description": {
+        "1": "Choisissez <style=\"value\">{0}</style> Capacité Divine",
+        "n": "Choisissez <style=\"value\">{0}</style> Capacités Divines",
+        "t": 1
+    },
+    "reward.data.unit.name": "Nouveau Adepte",
+    "reward.data.unit.description": "Nouveau Adepte\n\n<style=\"value\">{0}</style>",
+    "reward.data.unit.offer.empty": "Il n'y a plus de compagnons disponibles.",
+    "reward.data.unit.offer.name": "Acquérir des Adeptes",
+    "reward.data.unit.offer.description": {
+        "1": "Sélectionnez <style=\"value\">{0}</style> Adepte",
+        "n": "Sélectionnez <style=\"value\">{0}</style> Adeptes",
+        "t": 1
+    },
+    "reward.data.unit.slot.name": "Emplacements de Adepte Accrus",
+    "reward.data.unit.slot.description": {
+        "1": "Vous pouvez gérer <style=\"value\">{0}</style> Adepte de plus",
+        "n": "Vous pouvez gérer <style=\"value\">{0}</style> Adeptes de plus",
+        "t": 1
+    },
+    "reward.data.player.armor.name": "Armure Accrue",
+    "reward.data.player.armor.description": {
+        "1": "Armure <style=\"status\">augmentée</style> de <style=\"value\">{0}</style>",
+        "n": "Armure <style=\"status\">augmentée</style> de <style=\"value\">{0}</style>",
+        "t": 1
+    },
+    "reward.data.player.hand_size.name": "Taille de Main Accrue",
+    "reward.data.player.hand_size.description": {
+        "1": "Taille de main <style=\"status\">augmentée</style> de <style=\"value\">{0}</style>",
+        "n": "Taille de main <style=\"status\">augmentée</style> de <style=\"value\">{0}</style>",
+        "t": 1
+    },
+    "reward.data.random.name": "Récompense Aléatoire",
+    "reward.data.random.description": "<style=\"status\">Tirez</style> une couleur de mana <style=\"value\">aléatoire</style> :\n\n{1}\n<style=\"status\">[Autre]</style> {0}",
+    "reward.data.random.result.panel.title": "Vous avez obtenu du Mana <style=\"status\">{0}</style>",
+    "reward.data.random.result.description": "<style=\"status\">[{0}]</style> {1}",
+    "reward.data.random.no_reward.description": "Aucune Récompense",
+    "reward.data.mana.name": "Gagner {0}",
+    "reward.data.mana.description": "Gagner {0}",
+    "reward.data.mana.pick.name": "Choisir {0}",
+    "reward.data.mana.pick.description": "Gagnez {0} de votre choix",
+    "reward.data.recover_used_crystals.name": "Récupérer tous les <b>Cristaux</b> <style=\"value\">utilisés</style>",
+    "reward.data.recover_used_crystals.description": "Récupérer tous les <b>Cristaux</b> de mana <style=\"value\">utilisés</style> ce tour",
+    "reward.data.throw_wounds_received_this_turn.name": "Retirer toutes les <style=\"wound\">Blessures</style> reçues ce tour",
+    "reward.data.throw_wounds_received_this_turn.description": "Retirer toutes les <style=\"wound\">Blessures</style> que vous avez reçues ce tour",
+    "reward.end_of_turn.descriptor": "Récompenses de <b>Fin de Tour</b>",
+    "reward.description.combo.and": "<style=\"value\"> + </style>",
+    "reward.description.combo.or": "<style=\"value\"> ou </style>",
+    "rewards.boons.round.title": "<style=\"value\">Avantages</style> reçus ce Round",
+    "rewards.boons.round.subtitle": "Vous recevrez ces avantages <style=\"status\">chaque Round</style> selon le Scénario, le Personnage et le Serment sélectionnés",
+    "rewards.hint.pause": "<style=\"status\">Astuce :</style> Appuyez sur <style=\"value\">{0}</style> pour voir tout votre Mana, vos Cartes, Adeptes et Capacités Divines"
+}

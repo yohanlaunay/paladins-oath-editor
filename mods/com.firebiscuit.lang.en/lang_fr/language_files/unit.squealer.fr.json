@@ -1,0 +1,8 @@
+{
+    "unit.data.squealer.name": "Criard",
+    "unit.data.squealer.lore": "Race de rats d'égout, vivant généralement en meute. Peuvent être contrôlés avec les bonnes incitations. Ils peuvent être utilisés pour des assauts, des invasions et des travaux d'exploration en les envoyant en éclaireurs. Leur nombre peut diminuer, mais ils semblent toujours en faire davantage...",
+    "unit.data.squealer.combo.0": "Attaque de <i>Siège</i><sprite name=\"card_icon_attack_siege\"><style=\"value\">1</style>",
+    "unit.data.squealer.combo.1": "Le coût d'<style=\"status\">Exploration</style> est réduit de <style=\"value\">2</style>",
+    "unit.data.squealer.combo.2": "Déplacement<sprite name=\"card_icon_move\"><style=\"value\">2</style>. Distance d'<style=\"status\">Exploration</style> augmentée de <style=\"value\">1</style>",
+    "unit.data.squealer.description.visuals": "Grande nuée de rats aux yeux rouges brillants."
+}

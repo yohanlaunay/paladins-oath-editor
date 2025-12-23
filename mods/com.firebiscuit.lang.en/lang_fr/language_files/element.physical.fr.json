@@ -1,0 +1,4 @@
+{
+    "element.data.physical.name": "Physique",
+    "element.data.physical.description": "<b>Phase d'Attaque :</b>\r\n\r\nToutes les Attaques <style=\"value\">Physiques</style> contre des Ennemis ayant une <style=\"status\">Résistance</style> <style=\"value\">Physique</style> seront <style=\"status\">Inefficaces</style> (<style=\"value\">Divisées par 2</style>).\r\n\r\n\r\n<b>Résistance d'Adepte :</b>\r\n\r\nLes Attaques <style=\"value\">Physiques</style> contre des Adeptes ayant une <style=\"status\">Résistance</style> <style=\"value\">Physique</style> seront d'abord <style=\"value\">Réduites par l'Armure</style> avant que les <style=\"wound\">Dégâts</style> ne soient calculés."
+}

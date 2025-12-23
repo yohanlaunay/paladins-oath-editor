@@ -1,0 +1,5 @@
+{
+    "card.data.shock_wave.name": "Onde de Choc",
+    "card.data.shock_wave.actions.basic": "L'Armure de l'ennemi ciblé est réduite de <style=\"value\">3</style> <b>ou</b> l'Armure de <style=\"value\">tous</style> les ennemis est réduite de <style=\"value\">2</style>",
+    "card.data.shock_wave.actions.advanced": "L'Armure de l'ennemi ciblé est réduite de <style=\"value\">3</style> (<style=\"value\">-6</style> s'il est <style=\"status\">Fortifié</style>) <b>ou</b> l'Armure de <style=\"value\">tous</style> les ennemis est réduite de <style=\"value\">2</style> (<style=\"value\">-4</style> s'ils sont <style=\"status\">Fortifiés</style>)"
+}

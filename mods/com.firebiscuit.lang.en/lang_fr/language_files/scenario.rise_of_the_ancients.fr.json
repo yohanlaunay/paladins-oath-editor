@@ -1,0 +1,9 @@
+{
+    "scenario.data.rise_of_the_ancients.name": "L'Éveil des Anciens",
+    "scenario.data.rise_of_the_ancients.description": "Des Dragons et d'autres créatures Anciennes se sont réveillés et <style=\"status\">ravagent</style> désormais les terres. Vous vous êtes engagé à renvoyer ces créatures Anciennes d'où elles viennent.",
+    "scenario.data.rise_of_the_ancients.win.0": "Tous les <style=\"value\">Anciens errants</style> doivent être <style=\"status\">Vaincus</style> avant la fin du dernier Round.",
+    "scenario.data.rise_of_the_ancients.score.ancient.defeated.name": "Anciens Vaincus",
+    "scenario.data.rise_of_the_ancients.score.ancient.defeated.description": "+{0} par Ancien <style=\"wound\">Vaincu</style>",
+    "scenario.data.rise_of_the_ancients.score.ancient.defeated.all.name": "Tous les Anciens Vaincus",
+    "scenario.data.rise_of_the_ancients.score.ancient.defeated.all.description": "+{0} si <style=\"value\">tous</style> les Anciens ont été <style=\"wound\">Vaincus</style>"
+}

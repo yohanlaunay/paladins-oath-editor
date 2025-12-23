@@ -1,0 +1,12 @@
+{
+    "benediction.data.night.2.name": "Persistance",
+    "benediction.data.night.2.description": {
+        "1": "<style=\"value\">Une fois</style> ce round-ci avant l'exploration, si votre <style=\"value\">deck</style> est <style=\"status\">vide</style>, vous pouvez activer cette capacité pour remettre <style=\"value\">{0}</style> carte aléatoire de votre défausse dans votre deck",
+        "n": "<style=\"value\">Une fois</style> ce round-ci avant l'exploration, si votre <style=\"value\">deck</style> est <style=\"status\">vide</style>, vous pouvez activer cette capacité pour remettre <style=\"value\">{0}</style> cartes aléatoires de votre défausse dans votre deck",
+        "t": 1
+    },
+    "benediction.data.night.2.activation_reminder.title": "Bénédiction non activée",
+    "benediction.data.night.2.activation_reminder.content": "Vous n'avez pas <style=\"status\">activé</style> votre bénédiction pour ce round.\n\nVoulez-vous continuer l'exploration ou vérifier d'abord votre bénédiction ?",
+    "benediction.data.night.2.activation_reminder.activate.accept.label": "Explorer",
+    "benediction.data.night.2.activation_reminder.activate.cancel.label": "Annuler"
+}

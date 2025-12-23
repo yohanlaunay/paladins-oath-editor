@@ -1,0 +1,7 @@
+{
+    "card.data.holy_shield.name": "Bouclier Sacré",
+    "card.data.holy_shield.actions.basic": "<style=\"status\">Donnez</style> à un Adepte :\nGain d'Armure <style=\"value\">+1</style> et <style=\"status\">Résistance</style> au <style=\"value\">Feu</style>, au <style=\"value\">Froid</style> et au <style=\"value\">Chaos</style>",
+    "card.data.holy_shield.actions.throw": "Soignez <style=\"value\">toutes</style> vos <style=\"wound\">Blessures</style> à la <b>Fin du Tour</b>",
+    "card.data.holy_shield.skill.name": "Bouclier Sacré",
+    "card.data.holy_shield.skill.description": "Gain d'Armure <style=\"value\">+1</style> et <style=\"status\">Résistance</style> au <style=\"value\">Feu</style>, au <style=\"value\">Froid</style> et au <style=\"value\">Chaos</style>"
+}

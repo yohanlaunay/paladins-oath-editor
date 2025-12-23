@@ -1,0 +1,9 @@
+{
+    "card.data.entropy_manipulation.name": "Manipulation d'Entropie",
+    "card.data.entropy_manipulation.actions.basic": "<style=\"sacrifice\">Sacrifiez</style> une carte d' <style=\"value\">Action</style> pour gagner <style=\"value\">2</style> cristaux de la <style=\"status\">même couleur</style> que la carte",
+    "card.data.entropy_manipulation.actions.advanced": "<style=\"sacrifice\">Sacrifiez</style> une carte d' <style=\"value\">Action</style> pour gagner un cristal de <style=\"value\">chaque couleur basique</style> qui <style=\"status\">ne correspond pas</style> à la couleur de la carte",
+    "card.data.entropy_manipulation.actions.sacrifice.white": "<style=\"sacrifice\">Sacrifiez</style> une carte d'Action <style=\"value\">Blanche</style>",
+    "card.data.entropy_manipulation.actions.sacrifice.red": "<style=\"sacrifice\">Sacrifiez</style> une carte d'Action <style=\"value\">Rouge</style>",
+    "card.data.entropy_manipulation.actions.sacrifice.green": "<style=\"sacrifice\">Sacrifiez</style> une carte d'Action <style=\"value\">Verte</style>",
+    "card.data.entropy_manipulation.actions.sacrifice.blue": "<style=\"sacrifice\">Sacrifiez</style> une carte d'Action <style=\"value\">Bleue</style>"
+}

@@ -1,0 +1,5 @@
+{
+    "skill.data.diplomatic_aura.name": "Aura Diplomatique",
+    "skill.data.diplomatic_aura.combo": "Leadership<sprite name=\"card_icon_influence\"><style=\"value\">1</style>.\nVous pouvez <style=\"status\">gérer</style> <style=\"value\">1</style> Adepte supplémentaire.",
+    "skill.data.diplomatic_aura.reward.name": "Aura Diplomatique"
+}

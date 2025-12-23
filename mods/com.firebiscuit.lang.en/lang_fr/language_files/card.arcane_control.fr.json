@@ -1,0 +1,12 @@
+{
+    "card.data.arcane_control.name": "Contrôle Arcanique",
+    "card.data.arcane_control.actions.basic": "Vous pouvez utiliser <style=\"value\">1</style> Mana Ambiant <style=\"value\">supplémentaire</style>. Vous pouvez également transformer un Mana Ambiant <style=\"value\">Noir</style> en Mana de <style=\"value\">n'importe quelle</style> couleur",
+    "card.data.arcane_control.actions.basic.black_turn_any_color": "Transformez un Mana Ambiant <style=\"value\">Noir</style> en Mana de <style=\"value\">n'importe quelle</style> couleur",
+    "card.data.arcane_control.actions.advanced": "Transformez <style=\"value\">2</style> Mana Ambiants en <style=\"value\">2</style> Mana de n'importe quelle couleur (sauf Doré). Les Mana Ambiants prendront ces couleurs à la fin du tour",
+    "card.data.arcane_control.actions.advanced.turn_any_color": "Transformez <style=\"value\">1</style> Mana Ambiant en Mana de <style=\"value\">n'importe quelle</style> couleur (sauf Doré)",
+    "card.data.arcane_control.actions.advanced.red": "Transformez <style=\"value\">1</style> Mana Ambiant en Mana <style=\"value\">Rouge</style>",
+    "card.data.arcane_control.actions.advanced.green": "Transformez <style=\"value\">1</style> Mana Ambiant en Mana <style=\"value\">Vert</style>",
+    "card.data.arcane_control.actions.advanced.blue": "Transformez <style=\"value\">1</style> Mana Ambiant en Mana <style=\"value\">Bleu</style>",
+    "card.data.arcane_control.actions.advanced.white": "Transformez <style=\"value\">1</style> Mana Ambiant en Mana <style=\"value\">Blanc</style>",
+    "card.data.arcane_control.actions.advanced.black": "Transformez <style=\"value\">1</style> Mana Ambiant en Mana <style=\"value\">Noir</style>"
+}

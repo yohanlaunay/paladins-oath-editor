@@ -1,0 +1,8 @@
+{
+    "benediction.data.day.4.name": "Préservation",
+    "benediction.data.day.4.description": {
+        "1": "Si vous terminez votre tour avec au moins {1} carte en main (y compris les <style=\"wound\">blessures</style>), vous <style=\"status\">piocherez</style> <style=\"value\">{0}</style> carte supplémentaire",
+        "n": "Si vous terminez votre tour avec au moins {1} cartes en main (y compris les <style=\"wound\">blessures</style>), vous <style=\"status\">piocherez</style> <style=\"value\">{0}</style> cartes supplémentaires",
+        "t": 1
+    }
+}

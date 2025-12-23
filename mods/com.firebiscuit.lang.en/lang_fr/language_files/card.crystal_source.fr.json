@@ -1,0 +1,9 @@
+{
+    "card.data.crystal_source.name": "Source de Cristaux",
+    "card.data.crystal_source.actions.basic": "<style=\"status\">Cristallisez</style> un Mana de n'importe quelle couleur (basique). Vous pouvez payer une carte (hors Blessure) pour reprendre cette carte dans votre <style=\"value\">Main</style> à la <b>Fin du Tour</b>",
+    "card.data.crystal_source.actions.basic.move": "Payez une carte (hors Blessure) pour reprendre cette carte dans votre <style=\"value\">Main</style> à la <b>Fin du Tour</b>",
+    "card.data.crystal_source.actions.basic.pick_crystal": "Sélectionnez un Mana à <style=\"status\">Cristalliser</style>",
+    "card.data.crystal_source.actions.advanced": "Gagnez un <style=\"status\">Cristal</style> de n'importe quelle couleur (basique). Vous pouvez payer n'importe quelle carte (y compris une <style=\"wound\">Blessure</style>) pour reprendre cette carte dans votre <style=\"value\">Main</style> à la <b>Fin du Tour</b>",
+    "card.data.crystal_source.actions.advanced.pick_crystal": "Sélectionnez un <style=\"status\">Cristal</style> à gagner",
+    "card.data.crystal_source.actions.advanced.move": "Payez n'importe quelle carte (y compris une <style=\"wound\">Blessure</style>) pour reprendre cette carte dans votre <style=\"value\">Main</style> à la <b>Fin du Tour</b>"
+}

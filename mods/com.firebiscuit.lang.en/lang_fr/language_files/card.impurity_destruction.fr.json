@@ -1,0 +1,5 @@
+{
+    "card.data.impurity_destruction.name": "Destruction de l'Impureté",
+    "card.data.impurity_destruction.actions.basic": "Ignorez les <style=\"status\">Fortifications</style> de Lieu.\nLes ennemis reçoivent Armure <style=\"value\">-1</style>",
+    "card.data.impurity_destruction.actions.advanced": "Pendant la <style=\"value\">Phase d'Attaque</style>, <style=\"status\">Détruisez</style> l'ennemi ciblé.\nLes autres ennemis reçoivent Armure <style=\"value\">-1</style>"
+}

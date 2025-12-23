@@ -1,0 +1,5 @@
+{
+    "card.data.frost_saturation.name": "Saturation de Givre",
+    "card.data.frost_saturation.actions.basic": "Blocage de <style=\"value\">Glace</style> <sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "card.data.frost_saturation.actions.advanced": "Blocage de <style=\"value\">Glace</style> <sprite name=\"card_icon_block\"><style=\"value\">3</style>.\n<style=\"status\">Réduisez</style> l' <b>Armure</b> ennemie de <style=\"value\">3</style> si le blocage est <style=\"status\">réussi</style>"
+}

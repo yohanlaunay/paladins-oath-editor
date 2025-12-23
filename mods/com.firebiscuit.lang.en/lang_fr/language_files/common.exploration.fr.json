@@ -1,0 +1,8 @@
+{
+    "exploration.panels.map_tiles.regular.tooltip.header": "Sections de Carte Normales Restantes",
+    "exploration.panels.map_tiles.core.tooltip.header": "Sections de Carte Centrales Restantes",
+    "exploration.dialog.move_or_interact.title": "Se Déplacer ou Regarder",
+    "exploration.dialog.move_or_interact.content": "Souhaitez-vous vous <style=\"status\">Déplacer</style> ou <style=\"status\">Regarder</style> les éléments de cette Tuile comme les Ennemis, les Lieux et autres éléments <style=\"status\">Interactifs</style> ?",
+    "exploration.dialog.move_or_interact.btn.move": "Se Déplacer",
+    "exploration.dialog.move_or_interact.btn.look": "Regarder"
+}

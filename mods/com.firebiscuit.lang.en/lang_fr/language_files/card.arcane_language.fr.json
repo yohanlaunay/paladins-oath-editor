@@ -1,0 +1,5 @@
+{
+    "card.data.arcane_language.name": "Langage des Arcanes",
+    "card.data.arcane_language.actions.basic": "Gagnez du Mana <style=\"value\">Bleu</style>, <style=\"value\">Blanc</style> ou <style=\"value\">Rouge</style>",
+    "card.data.arcane_language.actions.advanced": "Obtenez les <style=\"status\">Effets Avancés</style> d'une carte <style=\"value\">gratuitement</style>.\nOctroie <style=\"value\">+2</style> à l'Attaque, au Blocage, à l'Influence ou au Mouvement qu'elle génère"
+}

@@ -1,0 +1,10 @@
+{
+    "unit.data.timnit.name": "Timnit <size=60%><color=red>Champion</color></size>",
+    "unit.data.timnit.lore": "Timnit est le plus haut représentant de l'Ordre Druidique. Timnit a vécu une longue vie et pensait avoir tout vu jusqu'à ce que de nouvelles créatures commencent à apparaître de nulle part, semant le chaos dans le Royaume.",
+    "unit.data.timnit.cost.recruit.description": "Coût de base en Leadership <style=\"value\">{0}</style>, mais l'impact sur la <b>Réputation</b> est <style=\"value\">doublé</style>",
+    "unit.data.timnit.combo.0": "Attaque<sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>ou</b> Blocage<sprite name=\"card_icon_block\"><style=\"value\">5</style>",
+    "unit.data.timnit.combo.1": "Soin<sprite name=\"card_icon_heal\"><style=\"value\">4</style>",
+    "unit.data.timnit.combo.2": "Leadership<sprite name=\"card_icon_influence\"><style=\"value\">5</style>. Réputation <style=\"value\">+1</style> si utilisé lors d'<style=\"status\">Interactions</style>",
+    "unit.data.timnit.combo.2.rewards.name": "Influence du Champion (Timnit)",
+    "unit.data.timnit.description.visuals": "Tortue verte de taille humanoïde, debout. Visage vieux et sérieux. Grande carapace épineuse sur le dos. Portant toutes sortes de bijoux en argent, colliers, brassards et bracelets. Large ceinture d'argent avec un bijou circulaire bleu au centre. Tenant un bâton en bois avec une pieuvre bleue perchée dessus."
+}

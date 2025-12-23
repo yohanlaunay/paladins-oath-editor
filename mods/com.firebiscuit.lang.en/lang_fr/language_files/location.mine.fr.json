@@ -1,0 +1,9 @@
+{
+    "location.data.mine.descriptor": "Mine",
+    "location.data.mine.name": "Mine",
+    "location.data.mine.deep.name": "Mine Profonde",
+    "location.data.mine.effect.production": "<style=\"status\">Finir</style> votre tour à la Mine vous permet de collecter <style=\"value\">l'un des objets</style> qu'elle produit.",
+    "location.data.mine.reward.name": "Trouvailles Minières",
+    "location.data.mine.reward.mana.tooltip.header": "Production Minière",
+    "location.data.mine.reward.mana.tooltip.content": "Cette Mine produit {0}"
+}

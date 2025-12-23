@@ -1,0 +1,5 @@
+{
+    "scenario.data.wandering_paladin.name": "Paladin Errant",
+    "scenario.data.wandering_paladin.description": "Vous menez votre croisade personnelle pour débarrasser la terre des engeances apparues lors de la Conjonction des Plans.",
+    "scenario.data.wandering_paladin.win.0": "<style=\"status\">Explorez</style> et <style=\"status\">combattez</style> jusqu'à ce que vous n'en ayez plus envie."
+}

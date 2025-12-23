@@ -1,0 +1,5 @@
+{
+    "card.data.flesh_to_stone.name": "Chair de Pierre",
+    "card.data.flesh_to_stone.actions.basic": "Le compagnon sélectionné gagne une <style=\"value\">Résistance Physique</style>",
+    "card.data.flesh_to_stone.actions.advanced": "Attaque de <i>Siège</i> <sprite name=\"card_icon_attack_siege\"><style=\"value\">3</style> <b>ou</b>\nBlocage <sprite name=\"card_icon_block\"><style=\"value\">6</style>"
+}

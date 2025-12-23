@@ -1,0 +1,5 @@
+{
+    "card.data.life_transference.name": "Transfert de Vie",
+    "card.data.life_transference.actions.basic": "Soin <sprite name=\"card_icon_heal\"><style=\"value\">1</style>.\n<style=\"status\">Restaurez</style> un Adepte\n(<i>Niveau</i> <style=\"value\">1 - 2</style>)",
+    "card.data.life_transference.actions.advanced": "Soin <sprite name=\"card_icon_heal\"><style=\"value\">2</style>.\n<style=\"status\">Restaurez</style> un Adepte\n(<i>Niveau</i> <style=\"value\">1 - 3</style>)"
+}

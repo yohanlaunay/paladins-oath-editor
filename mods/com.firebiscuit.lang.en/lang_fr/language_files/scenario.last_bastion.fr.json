@@ -1,0 +1,5 @@
+{
+    "scenario.data.last_bastion.name": "Le Dernier Bastion",
+    "scenario.data.last_bastion.description": "Vous avez débarrassé la terre de la plupart des envahisseurs de la Conjonction des Plans, à l'exception d'une <style=\"value\">toute dernière Citadelle</style>. Les envahisseurs restants se sont tous retranchés dans ce bastion désormais <style=\"status\">fortement gardé</style>.",
+    "scenario.data.last_bastion.win.0": "La <style=\"value\">Citadelle</style> doit être <style=\"status\">Conquise</style> avant la fin du dernier Round."
+}

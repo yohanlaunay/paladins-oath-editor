@@ -1,0 +1,5 @@
+{
+    "card.data.shadow_puppets.name": "Marionnettes d'Ombre",
+    "card.data.shadow_puppets.actions.basic": "<style=\"status\">Défaussez</style> des cartes (hors Blessures) pour obtenir Attaque à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">2</style> par carte défaussée.\nGagnez <style=\"value\">1 XP</style> par ennemi vaincu",
+    "card.data.shadow_puppets.actions.throw": "<style=\"sacrifice\">Détruisez</style> les Marionnettes pour <style=\"value\">Doubler</style> <b>toutes</b> les Attaques à <i>Distance</i> <sprite name=\"card_icon_attack_range\"> <b>OU</b> les convertir en Attaques de <i>Siège</i> <sprite name=\"card_icon_attack_siege\"> <b>OU</b> Convertir <b>toutes</b> les Attaques de <i>Siège</i> <sprite name=\"card_icon_attack_siege\"> en Attaques à <i>Distance</i> <sprite name=\"card_icon_attack_range\"> à <style=\"value\">double</style> valeur"
+}

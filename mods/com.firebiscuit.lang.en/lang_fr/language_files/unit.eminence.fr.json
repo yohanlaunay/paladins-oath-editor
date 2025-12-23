@@ -1,0 +1,10 @@
+{
+    "unit.data.eminence.name": "Éminence <size=60%><color=red>Champion</color></size>",
+    "unit.data.eminence.lore": "Le titre d' <style=\"value\">Éminence</style> a été donné au Paladin le plus célèbre du Royaume. L'Éminence est un saint à la retraite, très vieux et l'ombre de lui-même. Mais depuis la conjonction des sphères, il est impatient de reprendre les armes sous le bon commandement.",
+    "unit.data.eminence.cost.recruit.description": "Coût de base de Commandement <style=\"value\">{0}</style> mais l'impact sur la <b>Réputation</b> est <style=\"value\">doublé</style>",
+    "unit.data.eminence.combo.0": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">5</style>",
+    "unit.data.eminence.combo.1": "Blocage de <style=\"value\">Chaos</style> <sprite name=\"card_icon_block\"><style=\"value\">8</style>",
+    "unit.data.eminence.combo.2": "Commandement <sprite name=\"card_icon_influence\"><style=\"value\">5</style>. Réputation <style=\"value\">+1</style> si utilisé lors des <style=\"status\">Interactions</style>",
+    "unit.data.eminence.combo.2.rewards.name": "Influence de Champion (Éminence)",
+    "unit.data.eminence.description.visuals": "Humanoïde très grand et massif en armure d'argent complète bordée d'or. Un halo de lumière ardente flotte au-dessus de sa tête. De multiples halos de lumière concentriques derrière son dos."
+}

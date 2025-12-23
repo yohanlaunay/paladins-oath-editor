@@ -1,0 +1,10 @@
+{
+    "unit.data.rain_maker.name": "Faiseur de Pluie",
+    "unit.data.rain_maker.lore": "Sorcier légendaire travaillant pour les royaumes les plus puissants. Le Faiseur de Pluie a gagné son surnom en créant une pluie de météores contre une horde de démons.",
+    "unit.data.rain_maker.combo.0": "Gagnez <style=\"value\">2</style> Mana de <style=\"value\">N'importe quelle</style> couleur",
+    "unit.data.rain_maker.combo.any_token": "Gagnez un Mana de <style=\"value\">N'importe quelle</style> couleur",
+    "unit.data.rain_maker.combo.1": "Attaque de <style=\"value\">Chaos</style><sprite name=\"card_icon_attack\"><style=\"value\">5</style> ou Blocage de <style=\"value\">Chaos</style><sprite name=\"card_icon_block\"><style=\"value\">5</style>. Payez un Mana <style=\"value\">Bleu</style> ou <style=\"value\">Rouge</style> pour <style=\"value\">7</style> ou les <b>deux</b> pour <style=\"value\">9</style>",
+    "unit.data.rain_maker.combo.chaos": "Payez un Mana <style=\"value\">Bleu</style> <b>et</b> <style=\"value\">Rouge</style> pour une Attaque de <style=\"value\">Chaos</style><sprite name=\"card_icon_attack\"><style=\"value\">9</style> ou un Blocage de <style=\"value\">Chaos</style><sprite name=\"card_icon_block\"><style=\"value\">9</style>",
+    "unit.data.rain_maker.combo.2": "Toutes vos attaques deviennent des attaques de <style=\"value\">Chaos</style> <b>ou</b> des attaques de <i>Siège</i>",
+    "unit.data.rain_maker.description.visuals": "Créature à l'aspect curieux, faite d'un mélange de chair et de métal doré. Orbites oculaires circulaires jaunes. Tenant un grimoire magique ouvert. Et plusieurs météores faits d'énergie sombre tombant derrière la créature."
+}

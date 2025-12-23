@@ -1,0 +1,10 @@
+{
+    "map.tile.starter.name": "Tuile de Départ",
+    "map.tile.starter.description": "Tuile de départ placée automatiquement lorsque le héros arrive pour la première fois sur la Carte.",
+    "map.tile.regular.name": "Tuile Normale",
+    "map.tile.regular.description": "Lors de l' <style=\"status\">Exploration</style>, ces tuiles peuvent être placées n'importe où.",
+    "map.tile.core.name": "Tuile Centrale",
+    "map.tile.core.description": "Lors de l' <style=\"status\">Exploration</style>, ces tuiles ne peuvent être placées qu' <style=\"status\">adjacentes</style> à <style=\"value\">2</style> autres tuiles.",
+    "map.show.btn.label": "Afficher la Carte",
+    "map.hide.btn.label": "Masquer la Carte"
+}

@@ -1,0 +1,8 @@
+{
+    "benediction.data.day.3.name": "Stase Arcanique",
+    "benediction.data.day.3.description": {
+        "1": "Réservez immédiatement <style=\"value\">{0} mana ambiant</style>. Vous pouvez utiliser ce mana <style=\"value\">une fois</style> lors de n'importe lequel de vos tours ce round-ci. Il sera relancé et remis en place après utilisation",
+        "n": "Réservez immédiatement <style=\"value\">{0} mana ambiant</style>. Vous pouvez utiliser ce mana <style=\"value\">une fois</style> lors de n'importe lequel de vos tours ce round-ci. Il sera relancé et remis en place après utilisation",
+        "t": 1
+    }
+}

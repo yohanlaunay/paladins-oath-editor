@@ -1,0 +1,4 @@
+{
+    "skill.data.nether_sword.name": "Épée du Néant",
+    "skill.data.nether_sword.combo": "Attaque<sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>ou</b>\nAttaque de <style=\"value\">feu</style><sprite name=\"card_icon_attack\"><style=\"value\">2</style>"
+}

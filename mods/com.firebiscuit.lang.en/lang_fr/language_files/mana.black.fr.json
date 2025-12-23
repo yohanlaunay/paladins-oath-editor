@@ -1,0 +1,5 @@
+{
+    "mana.data.black.name": "Noir",
+    "mana.data.black.name.full": "Mana Noir",
+    "mana.data.black.description": "<i><style=\"status\">Couleur de Mana Spéciale.</style></i>\n\nLe mana <style=\"value\">Noir</style> ne peut être utilisé que de <style=\"status\">Nuit</style> et sera inerte pendant la journée."
+}

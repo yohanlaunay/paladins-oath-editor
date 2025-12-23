@@ -1,0 +1,5 @@
+{
+    "card.data.glacial_heart.name": "Cœur Glacial",
+    "card.data.glacial_heart.actions.basic": "L'ennemi ciblé <style=\"status\">n'Attaque pas</style> et <style=\"status\">perd</style> sa Résistance au <style=\"value\">Feu</style> <i>(si elle existe)</i>",
+    "card.data.glacial_heart.actions.advanced": "L'ennemi ciblé <style=\"status\">n'Attaque pas</style> et <style=\"status\">perd</style> <style=\"value\">4</style> d'Armure"
+}

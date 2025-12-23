@@ -1,0 +1,5 @@
+{
+    "card.data.fire_ward.name": "Garde de Feu",
+    "card.data.fire_ward.actions.basic": "Blocage de <style=\"value\">Feu</style> <sprite name=\"card_icon_block\"><style=\"value\">4</style> <b>puis</b>\nAttaque de <style=\"value\">Feu</style> <sprite name=\"card_icon_attack\"><style=\"value\">4</style> si le blocage est <style=\"status\">réussi</style>",
+    "card.data.fire_ward.actions.advanced": "Blocage de <style=\"value\">Feu</style> <sprite name=\"card_icon_block\"><style=\"value\">4</style> <b>puis</b>\n<style=\"status\">Détruisez</style> l'ennemi ciblé si le blocage est <style=\"status\">réussi</style>"
+}

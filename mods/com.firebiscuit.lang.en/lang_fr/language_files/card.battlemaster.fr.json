@@ -1,0 +1,5 @@
+{
+    "card.data.battlemaster.name": "Maître de Guerre",
+    "card.data.battlemaster.actions.basic": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">2</style>, Blocage <sprite name=\"card_icon_block\"><style=\"value\">2</style> <b>ou</b> Attaque à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">1</style>",
+    "card.data.battlemaster.actions.advanced": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">4</style>, Blocage <sprite name=\"card_icon_block\"><style=\"value\">4</style>,\nAttaque de <style=\"value\">Feu</style> <sprite name=\"card_icon_attack\"><style=\"value\">3</style>,\nBlocage de <style=\"value\">Feu</style> <sprite name=\"card_icon_block\"><style=\"value\">3</style>,\nAttaque à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">3</style> <b>ou</b>\nAttaque de <i>Siège</i> <sprite name=\"card_icon_attack_siege\"><style=\"value\">2</style>"
+}

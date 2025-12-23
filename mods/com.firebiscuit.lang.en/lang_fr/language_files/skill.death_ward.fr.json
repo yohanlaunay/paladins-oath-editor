@@ -1,0 +1,4 @@
+{
+    "skill.data.death_ward.name": "Protection de Mort",
+    "skill.data.death_ward.combo": "<style=\"status\">Soignez</style> jusqu'à <style=\"value\">2</style> <style=\"wound\">blessures</style> de votre main.\n<i>(Avant ou Après le Combat)</i>"
+}

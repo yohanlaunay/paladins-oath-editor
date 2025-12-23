@@ -1,0 +1,7 @@
+{
+    "unit.data.coldfire_golem.name": "Golem de Feu Glacé",
+    "unit.data.coldfire_golem.lore": "Créés par les Mages de Glace de l'Ordre Arcanique pour aider à repousser les envahisseurs. Les Golems de Feu Glacé sont nés d'une Glace devenue Flamme contenue dans une carcasse métallique.",
+    "unit.data.coldfire_golem.combo.0": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.coldfire_golem.combo.1": "Attaque de <style=\"value\">Froid</style> <sprite name=\"card_icon_attack\"><style=\"value\">6</style>",
+    "unit.data.coldfire_golem.description.visuals": "Golem métallique, de forme similaire à un fourneau, sauf que des flammes bleues sortent de chaque orifice. Sa tête a la forme d'une pierre pointue polie avec un seul cristal bleu brillant au centre. Il est entouré de flammes bleues glacées."
+}

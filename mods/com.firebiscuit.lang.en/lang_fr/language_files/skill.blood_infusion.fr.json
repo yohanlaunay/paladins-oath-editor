@@ -1,0 +1,4 @@
+{
+    "skill.data.blood_infusion.name": "Infusion de Sang",
+    "skill.data.blood_infusion.combo": "<style=\"status\">Défaussez</style> une <style=\"wound\">blessure</style> pour obtenir Déplacement<sprite name=\"card_icon_move\"><style=\"value\">2</style>, Leadership<sprite name=\"card_icon_influence\"><style=\"value\">2</style>, Attaque<sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>ou</b> Blocage<sprite name=\"card_icon_block\"><style=\"value\">2</style>."
+}

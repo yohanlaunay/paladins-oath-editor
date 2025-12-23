@@ -1,0 +1,11 @@
+{
+    "location.data.dungeon.name": "Donjon",
+    "location.data.dungeon.descriptor": "Donjon",
+    "location.data.dungeon.reward.name": "Butin de Donjon",
+    "location.data.dungeon.status.conquered": "Le Donjon a été <style=\"status\">Pillé</style>.",
+    "location.data.dungeon.effect.assault": "<style=\"status\">Entrez</style> pour combattre les Ennemis qui y rôdent et <style=\"status\">pillez</style> leur <style=\"value\">réserve de Reliques ou de Sorts</style>. Vos Adeptes ne participeront pas et les restrictions nocturnes s'appliquent.",
+    "location.data.dungeon.effect.assault_conquered": "Une fois <style=\"status\">Pillé</style>, vous pouvez toujours y combattre de nouveaux Ennemis, mais il n'y aura plus de butin à trouver.",
+    "location.data.dungeon.assault.title": "Ennemis tapis",
+    "location.data.dungeon.assault.subtitle": "Entrer pour combattre",
+    "location.data.dungeon.assault.label": "Entrer"
+}

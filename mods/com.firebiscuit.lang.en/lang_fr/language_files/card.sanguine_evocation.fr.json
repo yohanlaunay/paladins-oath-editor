@@ -1,0 +1,7 @@
+{
+    "card.data.sanguine_evocation.name": "Évocation Sanguine",
+    "card.data.sanguine_evocation.actions.basic": "Recevez une <style=\"wound\">Blessure</style> pour gagner un cristal <style=\"value\">Rouge</style> et un mana de <style=\"value\">N'importe quelle</style> couleur",
+    "card.data.sanguine_evocation.actions.advanced": "Recevez une <style=\"wound\">Blessure</style> pour gagner <style=\"value\">3</style> mana de <style=\"value\">N'importe quelle</style> couleur. Vous pouvez aussi <style=\"status\">Cristalliser</style> un Mana",
+    "card.data.sanguine_evocation.actions.any_token": "Gagnez un Mana de <style=\"value\">N'importe quelle</style> couleur",
+    "card.data.sanguine_evocation.actions.crystallize": "<style=\"status\">Cristallisez</style> un Mana"
+}

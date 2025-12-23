@@ -1,0 +1,4 @@
+{
+    "skill.data.chaos_rift.name": "Faille du Chaos",
+    "skill.data.chaos_rift.combo": "Attaque de <i>siège</i><sprite name=\"card_icon_attack_siege\"><style=\"value\">1</style> <b>ou</b>\nAttaque de <i>siège</i> de <style=\"value\">feu</style><sprite name=\"card_icon_attack_siege\"><style=\"value\">1</style>"
+}

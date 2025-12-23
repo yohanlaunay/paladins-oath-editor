@@ -1,0 +1,4 @@
+{
+    "armor.tooltip": "L'Armure de l'entité est utilisée pour réduire le nombre de <style=\"wound\">Blessures</style> reçues.\n\nSi des <style=\"wound\">Dégâts</style> sont infligés, l'entité reçoit <style=\"value\">1</style> Blessure, puis les Dégâts sont réduits par l'Armure de l'entité. Elle reçoit d'autres blessures, réduction par l'armure, etc., jusqu'à ce que les dégâts soient réduits à <style=\"value\">0</style>.\n\n\nSi l'entité possède une <style=\"status\">Résistance</style> au type d' <style=\"value\">Élément</style> des dégâts, alors avant de recevoir la première <style=\"wound\">Blessure</style>, les dégâts sont d'abord réduits par l'Armure de l'entité.",
+    "armor.tooltip.header": "Armure"
+}

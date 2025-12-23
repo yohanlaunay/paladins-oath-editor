@@ -1,0 +1,4 @@
+{
+    "skill.data.cleansing_waters.name": "Eaux Purificatrices",
+    "skill.data.cleansing_waters.combo": "Soin<sprite name=\"card_icon_heal\"><style=\"value\">1</style>.\nGagnez un <style=\"value\">cristal bleu</style>"
+}

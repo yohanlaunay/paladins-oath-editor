@@ -1,0 +1,5 @@
+{
+    "card.data.lightning_blast.name": "Décharge de Foudre",
+    "card.data.lightning_blast.actions.basic": "Recevez une <style=\"wound\">Blessure</style> pour gagner un Cristal <style=\"value\">Blanc</style> et un <style=\"value\">Rouge</style>",
+    "card.data.lightning_blast.actions.advanced": "Attaque à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>.\n<b>À la prochaine Phase</b>, un autre ennemi reçoit Armure <style=\"value\">-1</style> <i>par ennemi vaincu</i> par cette Attaque"
+}

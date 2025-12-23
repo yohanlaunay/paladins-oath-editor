@@ -1,0 +1,7 @@
+{
+    "unit.data.plague_doctor.name": "Docteur de la Peste",
+    "unit.data.plague_doctor.lore": "Praticiens médicaux qui étudient l'art des maladies, du poison et de la décomposition. On les voit souvent errer dans les temples et les hospices pour collecter des échantillons sur des corps morts ou malades.",
+    "unit.data.plague_doctor.combo.0": "Attaque<sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>ou</b> Blocage<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.plague_doctor.combo.1": "Attaque de <i>Siège</i><sprite name=\"card_icon_attack_siege\"><style=\"value\">4</style>",
+    "unit.data.plague_doctor.description.visuals": "Humain portant une tenue grise et verte, couvrant entièrement son visage et son corps à l'aide de vêtements en cuir et d'un masque à long bec. Sa ceinture en cuir porte plusieurs flacons remplis d'un liquide pétillant vert."
+}

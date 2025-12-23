@@ -1,0 +1,5 @@
+{
+    "card.data.ethereal_crucifix.name": "Crucifix Éthéré",
+    "card.data.ethereal_crucifix.actions.basic": "Influence <sprite name=\"card_icon_influence\"><style=\"value\">4</style>.\n<style=\"value\">+2 XP</style>",
+    "card.data.ethereal_crucifix.actions.throw": "<style=\"sacrifice\">Détruisez</style> pour recevoir Influence <sprite name=\"card_icon_influence\"><style=\"value\">9</style>.\n<style=\"value\">+3 XP</style>"
+}

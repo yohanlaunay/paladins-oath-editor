@@ -1,0 +1,5 @@
+{
+    "card.data.holy_slayer_ring.name": "Anneau du Tueur Sacré",
+    "card.data.holy_slayer_ring.actions.basic": "<style=\"status\">Défaussez</style> <style=\"value\">n'importe quel nombre</style> de cartes pour obtenir Attaque <sprite name=\"card_icon_attack\"><style=\"value\">3</style> par carte défaussée. <style=\"value\">+1 XP</style> par ennemi vaincu",
+    "card.data.holy_slayer_ring.actions.throw": "<style=\"sacrifice\">Détruisez</style> pour <style=\"value\">Doubler</style> vos Attaques <style=\"status\">Physiques</style> jouées pendant la <style=\"value\">phase d' <i>Attaque</i></style> (pas <i>Distance</i>). Les ennemis <style=\"status\">perdent</style> leur Résistance Physique. <style=\"value\">+1 XP</style> par ennemi vaincu"
+}

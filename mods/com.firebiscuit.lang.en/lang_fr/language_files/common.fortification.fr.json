@@ -1,0 +1,42 @@
+{
+    "fortification.help.name": "Fortifications",
+    "fortification.help.description": "Certains Ennemis possèdent des Fortifications naturelles. D'autres gagnent des Fortifications lorsqu'ils occupent un Lieu Fortifié que vous Assaillez. Les Fortifications empêchent l'utilisation d'Attaques qui ne sont pas de siège. Les Fortifications se cumulent, ainsi les doubles Fortifications empêchent tout type d'attaques à distance ou de siège sur l'Ennemi. Si vous groupez des ennemis Fortifiés et non-Fortifiés durant la bataille, les ennemis non-fortifiés gagneront également des Fortifications.",
+    "fortification.condition.any": "<style=\"value\">N'IMPORTE QUELLE</style> Fortification",
+    "fortification.condition.except": "Sauf <style=\"status\">{0}</style>",
+    "fortification.condition.if": "Si <style=\"status\">{0}</style>",
+    "fortification.condition.list": "{0}",
+    "fortification.condition.none": "<style=\"value\">AUCUNE</style>",
+    "fortification.double_fortified.description": "Les Ennemis qui sont <style=\"status\">Doublement Fortifiés</style> sont typiquement protégés par leur propre fortification ainsi que par les murs fortifiés du lieu de bataille et ne peuvent être ciblés par aucun type d'attaque dans la phase d' <i>Attaque à Distance</i>.\n\nVous devrez attendre la phase d' <i>Attaque</i> où ils sortent à découvert pour les cibler.\n\nLorsqu'ils sont <style=\"status\">groupés</style> avec des ennemis non-fortifiés, ils <style=\"value\">partageront</style> leur <style=\"status\">Fortification</style> avec les ennemis non-fortifiés qui deviendront <style=\"status\">Fortifiés</style>, et les ennemis déjà <style=\"status\">Fortifiés</style> deviendront <style=\"value\">Doublement Fortifiés</style>.",
+    "fortification.double_fortified.name": "Doublement Fortifié",
+    "fortification.fortified.description": "Les sites <style=\"status\">Fortifiés</style> augmentent la fortification de tous les Ennemis à l'intérieur.\n\nLes Ennemis qui sont <style=\"status\">Fortifiés</style> sont protégés par les fortifications du lieu de bataille (ou leur propre Fortification) et ne peuvent être ciblés que par des Attaques de <style=\"value\">Siège</style> dans la phase d' <i>Attaque à Distance</i>.\n\nLorsqu'ils sont <style=\"status\">groupés</style> avec des ennemis <style=\"status\">non-fortifiés</style>, ils partageront leur <style=\"status\">Fortification</style> avec les ennemis non-fortifiés.",
+    "fortification.fortified.name": "Fortifié",
+    "fortification.modifier.always_fortified": {
+        "1": "{0} Devient <style=\"status\">Toujours Fortifié</style>",
+        "n": "{0} Deviennent <style=\"status\">Toujours Fortifiés</style>",
+        "t": 1
+    },
+    "fortification.modifier.gain_fortification": {
+        "1": "{0} Gagne une <style=\"status\">Fortification</style>",
+        "n": "{0} Gagnent des <style=\"status\">Fortifications</style>",
+        "t": 1
+    },
+    "fortification.modifier.lose_all_fortification": {
+        "1": "{0} Perd <style=\"status\">Toutes ses Fortifications</style>",
+        "n": "{0} Perdent <style=\"status\">Toutes leurs Fortifications</style>",
+        "t": 1
+    },
+    "fortification.modifier.lose_fortification": {
+        "1": "{0} Perd sa <style=\"status\">Fortification</style>",
+        "n": "{0} Perdent leur <style=\"status\">Fortification</style>",
+        "t": 1
+    },
+    "fortification.modifier.never_fortified": {
+        "1": "{0} Devient <style=\"status\">Jamais Fortifié</style>",
+        "n": "{0} Deviennent <style=\"status\">Jamais Fortifiés</style>",
+        "t": 1
+    },
+    "fortification.never_fortified.description": "Les Ennemis qui ne sont <style=\"status\">Jamais fortifiés</style> ignorent toujours tout type de fortification fournie par l'environnement ou l'arène de bataille, ou lorsqu'ils sont groupés avec d'autres ennemis.\n\nIls attaquent typiquement toujours à découvert et peuvent donc être ciblés par tout type d'attaque à <style=\"value\">Distance</style> dans la phase d' <i>Attaque à Distance</i>.",
+    "fortification.never_fortified.name": "Jamais Fortifié",
+    "fortification.not_fortified.description": "Les Ennemis qui ne sont <style=\"status\">Pas fortifiés</style> ne sont pas protégés par la fortification du lieu de bataille et peuvent donc être ciblés par tout type d'attaque à <style=\"value\">Distance</style> dans la phase d' <i>Attaque à Distance</i>.\n\nLes ennemis <style=\"status\">Non Fortifiés</style> <style=\"status\">groupés</style> avec des ennemis <style=\"status\">Fortifiés</style> bénéficieront de la fortification apportée par les autres ennemis du groupe et deviendront <style=\"status\">Fortifiés</style> eux-mêmes.",
+    "fortification.not_fortified.name": "Non Fortifié"
+}

@@ -1,0 +1,4 @@
+{
+    "skill.data.ice_attack.name": "Attaque de Givre",
+    "skill.data.ice_attack.combo": "Attaque à <i>distance</i><sprite name=\"card_icon_attack_range\"><style=\"value\">2</style>\n<b>ou</b> Attaque de <style=\"value\">givre</style> à <i>distance</i><sprite name=\"card_icon_attack_range\"><style=\"value\">2</style>"
+}

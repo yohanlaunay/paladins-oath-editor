@@ -1,0 +1,8 @@
+{
+    "unit.data.catapult.name": "Catapulte",
+    "unit.data.catapult.lore": "Construite pour assiéger n'importe quoi. Catapulte !",
+    "unit.data.catapult.combo.0": "Attaque de Siège de Feu 5",
+    "unit.data.catapult.combo.1": "Effet Avancé de n'importe quelle Carte Attaque + 2 (gratuit)",
+    "unit.data.catapult.combo.2": "Soin 5",
+    "unit.data.catapult.combo.3": "Commandement x 2"
+}

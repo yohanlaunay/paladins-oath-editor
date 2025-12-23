@@ -1,0 +1,8 @@
+{
+    "benediction.data.day.6.name": "Arrêt du Temps",
+    "benediction.data.day.6.description": "<style=\"value\">Une fois</style> ce round-ci, vous pouvez activer cette capacité pour jouer <style=\"value\">un autre tour</style> immédiatement après votre tour actuel. <b>Sauf si la fin du round est annoncée</b>. Ce tour supplémentaire ne fera pas avancer le chronomètre",
+    "benediction.data.day.6.activation_reminder.title": "Bénédiction non activée",
+    "benediction.data.day.6.activation_reminder.content": "Vous n'avez pas <style=\"status\">activé</style> votre bénédiction pour ce round.\n\nVoulez-vous continuer l'exploration ou vérifier d'abord votre bénédiction ?",
+    "benediction.data.day.6.activation_reminder.activate.accept.label": "Explorer",
+    "benediction.data.day.6.activation_reminder.activate.cancel.label": "Annuler"
+}

@@ -1,0 +1,9 @@
+{
+    "card.data.arcane_mimicry.name": "Mimétisme Arcanique",
+    "card.data.arcane_mimicry.actions.basic": "<style=\"status\">Défaussez</style> une carte pour <b>Copier</b> les effets d'un <style=\"value\">Sort</style> du <b>Marché</b> de la même couleur que la carte",
+    "card.data.arcane_mimicry.actions.basic.white": "Copie les effets d'un <style=\"value\">Sort Blanc</style> du <b>Marché</b>",
+    "card.data.arcane_mimicry.actions.basic.red": "Copie les effets d'un <style=\"value\">Sort Rouge</style> du <b>Marché</b>",
+    "card.data.arcane_mimicry.actions.basic.green": "Copie les effets d'un <style=\"value\">Sort Vert</style> du <b>Marché</b>",
+    "card.data.arcane_mimicry.actions.basic.blue": "Copie les effets d'un <style=\"value\">Sort Bleu</style> du <b>Marché</b>",
+    "card.data.arcane_mimicry.actions.advanced": "Payez un Mana pour <b>Gagner</b> un <style=\"value\">Sort</style> de cette couleur du <b>Marché</b> dans votre <b>Pile de Défausse</b>"
+}

@@ -1,0 +1,5 @@
+{
+    "card.data.berserk.name": "Berserk",
+    "card.data.berserk.actions.basic": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">2</style>,\nRecevez une <style=\"wound\">Blessure</style> pour augmenter l'Attaque à <sprite name=\"card_icon_attack\"><style=\"value\">5</style>",
+    "card.data.berserk.actions.advanced": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">4</style>,\nRecevez une <style=\"wound\">Blessure</style> pour augmenter l'Attaque à <sprite name=\"card_icon_attack\"><style=\"value\">9</style>"
+}

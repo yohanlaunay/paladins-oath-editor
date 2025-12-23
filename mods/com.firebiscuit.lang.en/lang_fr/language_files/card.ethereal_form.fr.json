@@ -1,0 +1,5 @@
+{
+    "card.data.ethereal_form.name": "Forme Éthérée",
+    "card.data.ethereal_form.actions.basic": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">4</style>. Le coût de tous les terrains (y compris les <style=\"value\">Lacs</style>) devient <style=\"value\">2</style> <b>mais</b> vous ne pouvez pas entrer dans les <style=\"sacrifice\">Collines</style> et les <style=\"sacrifice\">Montagnes</style>",
+    "card.data.ethereal_form.actions.advanced": "Vos compagnons gagnent <style=\"value\">Toutes</style> les Résistances. Vous <style=\"status\">ignorez</style> la première <style=\"wound\">Blessure</style> reçue ce tour"
+}

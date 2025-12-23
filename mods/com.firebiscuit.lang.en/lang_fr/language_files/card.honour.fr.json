@@ -1,0 +1,5 @@
+{
+    "card.data.honour.name": "Honneur",
+    "card.data.honour.actions.basic": "Commandement <sprite name=\"card_icon_influence\"><style=\"value\">2</style>",
+    "card.data.honour.actions.advanced": "Commandement <sprite name=\"card_icon_influence\"><style=\"value\">4</style>"
+}

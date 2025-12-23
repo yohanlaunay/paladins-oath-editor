@@ -1,0 +1,6 @@
+{
+    "skill.data.nether_conjuration.name": "Conjuration du Néant",
+    "skill.data.nether_conjuration.combo": "<style=\"status\">Défaussez</style> une <style=\"wound\">blessure</style> pour gagner une essence de mana <style=\"value\">rouge</style> ou <style=\"value\">noire</style> <b>ou</b> n'importe quelle carte <style=\"wound\">autre qu'une blessure</style> pour une essence de mana <style=\"value\">blanche</style> ou <style=\"value\">verte</style>",
+    "skill.data.nether_conjuration.combo.wound": "<style=\"status\">Défaussez</style> une <style=\"wound\">blessure</style> pour gagner une essence de mana <style=\"value\">rouge</style> ou <style=\"value\">noire</style>",
+    "skill.data.nether_conjuration.combo.non_wound": "<style=\"status\">Défaussez</style> une carte autre qu'une blessure pour gagner une essence de mana <style=\"value\">blanche</style> ou <style=\"value\">verte</style>"
+}

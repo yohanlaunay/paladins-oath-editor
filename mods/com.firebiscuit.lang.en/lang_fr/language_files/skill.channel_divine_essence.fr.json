@@ -1,0 +1,4 @@
+{
+    "skill.data.channel_divine_essence.name": "Canalisation d'Essence Divine",
+    "skill.data.channel_divine_essence.combo": "<style=\"status\">Défaussez</style> une <style=\"wound\">blessure</style> de votre main pour <style=\"status\">piocher</style> une carte\n<i>(Hors combat)</i>"
+}

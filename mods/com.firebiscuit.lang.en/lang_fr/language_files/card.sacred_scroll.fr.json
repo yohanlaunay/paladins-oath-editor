@@ -1,0 +1,9 @@
+{
+    "card.data.sacred_scroll.name": "Parchemin Sacré",
+    "card.data.sacred_scroll.actions.basic": "<style=\"status\">Défaussez</style> une carte :\nSe téléporter <sprite name=\"card_icon_move\"><style=\"value\">2</style> <size=-5>(<style=\"status\">Blanc</style>)</size>\n<style=\"value\">2</style> Cristaux <size=-5>(<style=\"status\">Bleu</style>)</size>\n<style=\"status\">Restaurez</style> un Adepte (nv. 1-3) <size=-5>(<style=\"status\">Rouge</style>)</size>\nSoin <sprite name=\"card_icon_heal\"><style=\"value\">3</style> <size=-5>(<style=\"status\">Vert</style>)</size>",
+    "card.data.sacred_scroll.actions.basic.get_crystals": "Obtenez <style=\"value\">2</style> Cristaux",
+    "card.data.sacred_scroll.actions.throw": "<style=\"sacrifice\">Détruisez</style> pour choisir <style=\"value\">2</style> des options ci-dessus sans défausser de carte",
+    "card.data.sacred_scroll.actions.throw.free_basic": "Se téléporter <sprite name=\"card_icon_move\"><style=\"value\">2</style>, <style=\"value\">2</style> Cristaux, <style=\"status\">Restaurer</style> un Adepte <b>ou</b> Soin <sprite name=\"card_icon_heal\"><style=\"value\">3</style>",
+    "card.data.sacred_scroll.actions.throw.get_crystals": "Obtenez <style=\"value\">2</style> Cristaux",
+    "card.data.sacred_scroll.actions.get_crystal": "Choisissez un Cristal"
+}

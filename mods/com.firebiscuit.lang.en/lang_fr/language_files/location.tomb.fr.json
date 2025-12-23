@@ -1,0 +1,11 @@
+{
+    "location.data.tomb.descriptor": "Tombeau",
+    "location.data.tomb.name": "Tombeau",
+    "location.data.tomb.reward.name": "Butin de Tombeau",
+    "location.data.tomb.status.conquered": "Le Tombeau a été <style=\"status\">Pillé</style>.",
+    "location.data.tomb.effect.assault": "<style=\"status\">Entrez</style> pour combattre les Ennemis qui y rôdent et <style=\"status\">pillez</style> leur <style=\"value\">réserve de Reliques et de Sorts</style>. Vos Adeptes ne participeront pas et les restrictions nocturnes s'appliquent.",
+    "location.data.tomb.effect.assault_conquered": "Une fois <style=\"status\">Pillé</style>, vous pouvez toujours y combattre de nouveaux Ennemis, mais il n'y aura plus de butin à trouver.",
+    "location.data.tomb.assault.title": "Ennemis tapis",
+    "location.data.tomb.assault.subtitle": "Entrer pour combattre",
+    "location.data.tomb.assault.label": "Entrer"
+}

@@ -1,0 +1,10 @@
+{
+    "unit.data.hatchet.name": "Hatchet <size=60%><color=red>Champion</color></size>",
+    "unit.data.hatchet.lore": "<style=\"value\">Hatchet</style> est le guerrier le plus fort et le plus célèbre du Royaume. Hatchet offre sa force et son influence dans la croisade contre les abominations qui ont envahi les terres.",
+    "unit.data.hatchet.cost.recruit.description": "Coût de base en Leadership <style=\"value\">{0}</style>, mais l'impact sur la <b>Réputation</b> est <style=\"value\">doublé</style>",
+    "unit.data.hatchet.combo.0": "Attaque<sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>ou</b> Blocage<sprite name=\"card_icon_block\"><style=\"value\">5</style>",
+    "unit.data.hatchet.combo.1": "Attaque à <i>Distance</i><sprite name=\"card_icon_attack_range\"><style=\"value\">7</style>",
+    "unit.data.hatchet.combo.2": "Leadership<sprite name=\"card_icon_influence\"><style=\"value\">5</style>. Réputation <style=\"value\">+1</style> si utilisé lors d'<style=\"status\">Interactions</style>",
+    "unit.data.hatchet.combo.2.rewards.name": "Influence du Champion (Hatchet)",
+    "unit.data.hatchet.description.visuals": "Chevalier humain en armure de plaques complète portant deux grandes hachettes en métal. Un large bouclier de forme triangulaire pend dans son dos. Une mèche de cheveux de cheval rouge sort du sommet de son casque."
+}

@@ -1,0 +1,8 @@
+{
+    "benediction.data.day.5.name": "Bien Reposé",
+    "benediction.data.day.5.description": {
+        "1": "Piochez immédiatement <style=\"value\">{0}</style> carte",
+        "n": "Piochez immédiatement <style=\"value\">{0}</style> cartes",
+        "t": 1
+    }
+}

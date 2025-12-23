@@ -1,0 +1,4 @@
+{
+    "skill.data.raven_vision.name": "Vision du Corbeau",
+    "skill.data.raven_vision.combo": "Attaque à <i>distance</i><sprite name=\"card_icon_attack_range\"><style=\"value\">1</style> <size=-5>(<style=\"status\">Jour</style>)</size>\nAttaque à <i>distance</i><sprite name=\"card_icon_attack_range\"><style=\"value\">2</style> <size=-5>(<style=\"status\">Nuit</style>)</size>"
+}

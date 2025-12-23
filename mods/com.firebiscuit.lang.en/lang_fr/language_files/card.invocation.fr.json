@@ -1,0 +1,5 @@
+{
+    "card.data.invocation.name": "Invocation",
+    "card.data.invocation.actions.basic": "Gagnez un <style=\"value\">Cristal Blanc</style>",
+    "card.data.invocation.actions.advanced": "Attaque à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">4</style>"
+}

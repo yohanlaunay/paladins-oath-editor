@@ -1,0 +1,9 @@
+{
+    "unit.data.arcane_council.name": "Conseil Arcanique",
+    "unit.data.arcane_council.lore": "Le conseil est formé par les quatre plus grands mages et conjurateurs de l'Ordre Arcanique. On ne les voit que dans les circonstances les plus désespérées. Tous les membres du conseil peuvent lancer des sorts en même temps.",
+    "unit.data.arcane_council.combo.0": "<style=\"status\">Annulez</style> une Attaque ennemie",
+    "unit.data.arcane_council.combo.1": "Ciblez un Ennemi pour qu'il soit <style=\"sacrifice\">Détruit</style> s'il est <style=\"status\">Bloqué</style>",
+    "unit.data.arcane_council.combo.2": "<style=\"status\">Réduisez</style> l'Armure d'un Ennemi de <style=\"value\">5</style>",
+    "unit.data.arcane_council.combo.3": "<style=\"status\">Supprimez</style> les <b>Résistances</b> et <b>Fortifications</b> d'un Ennemi",
+    "unit.data.arcane_council.description.visuals": "Groupe de quatre mages. Un homme barbu chauve avec de larges joyaux autour du cou. Une femme petite aux cheveux argentés avec une longue cape grise. Un elfe noir avec une large capuche violette pointue portant un joyau violet en forme de losange. Une femme rousse aux cheveux bouclés avec le cou et les épaules dénudés."
+}

@@ -1,0 +1,5 @@
+{
+    "card.data.archetype.name": "Archétype",
+    "card.data.archetype.actions.basic": "Influence <sprite name=\"card_icon_influence\"><style=\"value\">2</style>. Une fois ce tour, payez Influence <sprite name=\"card_icon_influence\"><style=\"value\">6</style> pour <b>Gagner</b> une <style=\"value\">Action Avancée</style> du <b>Marché</b> <size=-5>dans votre <b>Pile de Défausse</b></size>",
+    "card.data.archetype.actions.advanced": "Influence <sprite name=\"card_icon_influence\"><style=\"value\">4</style>. Une fois ce tour, payez Influence <sprite name=\"card_icon_influence\"><style=\"value\">9</style> pour <b>Gagner</b> une <style=\"value\">Action Avancée</style> du <b>Marché</b> <size=-5>dans votre <b>Main</b></size>"
+}

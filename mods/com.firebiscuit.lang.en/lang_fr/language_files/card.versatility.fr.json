@@ -1,0 +1,5 @@
+{
+    "card.data.versatility.name": "Polyvalence",
+    "card.data.versatility.actions.basic": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">2</style>, Commandement <sprite name=\"card_icon_influence\"><style=\"value\">2</style>, Attaque <sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">2</style>",
+    "card.data.versatility.actions.advanced": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">4</style>, Commandement <sprite name=\"card_icon_influence\"><style=\"value\">4</style>, Attaque <sprite name=\"card_icon_attack\"><style=\"value\">4</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">4</style>"
+}

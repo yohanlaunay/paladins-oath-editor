@@ -1,0 +1,7 @@
+{
+    "card.data.righteousness.name": "Droiture",
+    "card.data.righteousness.actions.basic": "Commandement <sprite name=\"card_icon_influence\"><style=\"value\">2</style>.\n<style=\"value\">+1 XP</style> à la <b>Fin du Tour</b> si utilisé pendant une <style=\"status\">Interaction</style>",
+    "card.data.righteousness.actions.advanced": "Commandement <sprite name=\"card_icon_influence\"><style=\"value\">4</style>.\n<style=\"value\">+1 XP</style> <b>et</b> <style=\"value\">+1 Réputation</style> à la <b>Fin du Tour</b> si utilisé pendant une <style=\"status\">Interaction</style>",
+    "card.data.righteousness.actions.basic.rewards.name": "Droiture",
+    "card.data.righteousness.actions.advanced.rewards.name": "Droiture"
+}

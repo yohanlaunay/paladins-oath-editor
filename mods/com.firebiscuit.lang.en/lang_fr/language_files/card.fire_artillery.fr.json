@@ -1,0 +1,5 @@
+{
+    "card.data.fire_artillery.name": "Artillerie de Feu",
+    "card.data.fire_artillery.actions.basic": "Attaque de <style=\"value\">Feu</style> à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">5</style>",
+    "card.data.fire_artillery.actions.advanced": "Recevez une <style=\"wound\">Blessure</style>.\nAttaque de <style=\"value\">Feu</style> de <i>Siège</i> <sprite name=\"card_icon_attack_siege\"><style=\"value\">8</style>"
+}

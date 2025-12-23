@@ -1,0 +1,5 @@
+{
+    "skill.data.defiled_source.name": "Source Souillée",
+    "skill.data.defiled_source.combo": "Générez un cristal <style=\"value\">rouge</style> <b>et</b> une essence de mana <style=\"value\">rouge</style> ou <style=\"value\">noire</style>",
+    "skill.data.defiled_source.combo.essence": "Générez une essence de mana <style=\"value\">rouge</style> <b>ou</b> <style=\"value\">noire</style>"
+}

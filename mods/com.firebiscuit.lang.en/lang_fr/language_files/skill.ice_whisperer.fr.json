@@ -1,0 +1,4 @@
+{
+    "skill.data.ice_whisperer.name": "Murmure de Glace",
+    "skill.data.ice_whisperer.combo": "Attaque<sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>ou</b>\nAttaque de <style=\"value\">givre</style><sprite name=\"card_icon_attack\"><style=\"value\">2</style>"
+}

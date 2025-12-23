@@ -1,0 +1,16 @@
+{
+    "terrain.condition.any": "<style=\"value\">N'IMPORTE QUEL</style> Terrain",
+    "terrain.condition.except": "Sauf terrain de type <style=\"value\">{0}</style>",
+    "terrain.condition.if": "Si <style=\"value\">{0}</style>",
+    "terrain.condition.list": "Terrain de type <style=\"value\">{0}</style>",
+    "terrain.condition.none": "<style=\"value\">AUCUN</style>",
+    "terrain.move.cost": "{0} : <style=\"value\">{1}</style>",
+    "terrain.move.cost.disallowed": "X",
+    "terrain.tooltip.movement_cost.title": "Coût de Mouvement",
+    "terrain.tooltip.exploration.title": "Exploration",
+    "terrain.tooltip.exploration_distance.title": "Distance de Révélation",
+    "terrain.tooltip.exploration.cta": "<style=\"status\">Cliquer</style> pour Explorer",
+    "terrain.tooltip.exploration.disallowed": "Non autorisé",
+    "terrain.tooltip.exploration.too_far": "<color=red>Approchez-vous <style=\"value\">plus près</style> pour explorer</color>",
+    "terrain.tooltip.exploration.not_enough_move": "<color=red>Pas assez de <style=\"value\">Mouvement</style></color>"
+}

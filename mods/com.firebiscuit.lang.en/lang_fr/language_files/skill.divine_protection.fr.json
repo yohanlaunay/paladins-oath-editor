@@ -1,0 +1,4 @@
+{
+    "skill.data.divine_protection.name": "Protection Divine",
+    "skill.data.divine_protection.combo": "Blocage<sprite name=\"card_icon_block\"><style=\"value\">3</style> <b>ou</b>\nBlocage de <style=\"value\">feu</style> ou de <style=\"value\">givre</style><sprite name=\"card_icon_block\"><style=\"value\">2</style>"
+}

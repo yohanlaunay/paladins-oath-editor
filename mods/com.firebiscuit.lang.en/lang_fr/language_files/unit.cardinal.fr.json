@@ -1,0 +1,7 @@
+{
+    "unit.data.cardinal.name": "Cardinal",
+    "unit.data.cardinal.lore": "Les cardinaux passent leur temps à étudier les parchemins de magie de <style=\"value\">Feu</style> dans les bibliothèques des Temples. Ils y ont également appris des techniques de combat de base les rendant redoutables avec ou sans magie.",
+    "unit.data.cardinal.combo.0": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.cardinal.combo.1": "Attaque de <style=\"value\">Feu</style> <sprite name=\"card_icon_attack\"><style=\"value\">4</style> <b>ou</b> Blocage de <style=\"value\">Feu</style> <sprite name=\"card_icon_block\"><style=\"value\">4</style>",
+    "unit.data.cardinal.description.visuals": "Homme chauve à l'air sérieux. Portant une tenue de type moine à plusieurs épaisseurs bordée d'or. Un large pendentif circulaire autour du cou couvert par une écharpe rouge. Il tient un long bâton magique avec une pointe en forme de pique et un joyau rouge au centre. Le bâton émet une grande quantité de lumière et d'éclairs."
+}

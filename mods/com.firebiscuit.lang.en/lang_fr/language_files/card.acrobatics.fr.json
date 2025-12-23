@@ -1,0 +1,5 @@
+{
+    "card.data.acrobatics.name": "Acrobaties",
+    "card.data.acrobatics.actions.basic": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">2</style>,\nAttaque à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">1</style>,\n<b>ou</b> <style=\"status\">Réduisez</style> l'Attaque d'un ennemi de <style=\"value\">1</style>",
+    "card.data.acrobatics.actions.advanced": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">4</style>,\nAttaque à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>,\n<b>ou</b> <style=\"status\">Réduisez</style> l'Attaque d'un ennemi de <style=\"value\">2</style>"
+}

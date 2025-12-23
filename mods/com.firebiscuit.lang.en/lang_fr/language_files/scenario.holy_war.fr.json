@@ -1,0 +1,5 @@
+{
+    "scenario.data.holy_war.name": "Guerre Sainte",
+    "scenario.data.holy_war.description": "Depuis la Conjonction des Plans, toutes les Citadelles ont été <style=\"status\">corrompues</style>. Vous vous lancez dans une Croisade pour <style=\"value\">libérer les Citadelles</style> des créatures impies qui occupent leurs murs.",
+    "scenario.data.holy_war.win.0": "Toutes les <style=\"value\">Citadelles</style> doivent être <style=\"status\">Conquises</style> avant la fin du dernier Round."
+}

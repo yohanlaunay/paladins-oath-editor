@@ -1,0 +1,17 @@
+{
+    "card.data.sylvanism.name": "Sylvanisme",
+    "card.data.sylvanism.actions.basic": "Soin <sprite name=\"card_icon_heal\"><style=\"value\">3</style> ou Soin <sprite name=\"card_icon_heal\"><style=\"value\">5</style> dans une Forêt",
+    "card.data.sylvanism.actions.advanced": "Soin <sprite name=\"card_icon_heal\"><style=\"value\">3</style> ou Soin <sprite name=\"card_icon_heal\"><style=\"value\">5</style> dans une Forêt.\n<style=\"status\">Restaurez</style> jusqu'à <style=\"status\">3</style> niveaux de Adeptes ou <style=\"status\">5</style> niveaux dans une Forêt",
+    "card.data.sylvanism.actions.advanced.heal": "Soin <sprite name=\"card_icon_heal\"><style=\"value\">3</style> ou Soin <sprite name=\"card_icon_heal\"><style=\"value\">5</style> dans une Forêt",
+    "card.data.sylvanism.actions.advanced.refresh": "<style=\"status\">Restaurez</style> jusqu'à <style=\"status\">3</style> niveaux de Adeptes ou <style=\"status\">5</style> niveaux dans une Forêt",
+    "card.data.sylvanism.actions.advanced.forest": "<style=\"status\">Restaurez</style> <style=\"status\">5</style> niveaux de Adeptes dans une Forêt",
+    "card.data.sylvanism.actions.advanced.not_forest": "<style=\"status\">Restaurez</style> <style=\"status\">3</style> niveaux de Adeptes",
+    "card.data.sylvanism.actions.advanced.111": "<style=\"status\">Restaurez</style> <style=\"value\">3x</style> Adeptes de Niveau <style=\"status\">1</style>",
+    "card.data.sylvanism.actions.advanced.12": "<style=\"status\">Restaurez</style> un Adepte de Niveau <style=\"status\">1</style> et un de Niveau <style=\"status\">2</style>",
+    "card.data.sylvanism.actions.advanced.11111": "<style=\"status\">Restaurez</style> <style=\"value\">5x</style> Adeptes de Niveau <style=\"status\">1</style>",
+    "card.data.sylvanism.actions.advanced.1112": "<style=\"status\">Restaurez</style> <style=\"value\">3x</style> Adeptes de Niveau <style=\"status\">1</style> et un de Niveau <style=\"status\">2</style>",
+    "card.data.sylvanism.actions.advanced.122": "<style=\"status\">Restaurez</style> un Adepte de Niveau <style=\"status\">1</style> et <style=\"value\">2x</style> de Niveau <style=\"status\">2</style>",
+    "card.data.sylvanism.actions.advanced.113": "<style=\"status\">Restaurez</style> <style=\"value\">2x</style> Adeptes de Niveau <style=\"status\">1</style> et un de Niveau <style=\"status\">3</style>",
+    "card.data.sylvanism.actions.advanced.23": "<style=\"status\">Restaurez</style> un Adepte de Niveau <style=\"status\">2</style> et un de Niveau <style=\"status\">3</style>",
+    "card.data.sylvanism.actions.advanced.41": "<style=\"status\">Restaurez</style> un Adepte de Niveau <style=\"status\">4</style> et un de Niveau <style=\"status\">1</style>"
+}

@@ -1,0 +1,12 @@
+{
+    "location.data.hallowed.descriptor": "Site Sacré",
+    "location.data.hallowed.name": "Site Sacré",
+    "location.data.hallowed.reward.ritual.name": "Récompenses de Rituel",
+    "location.data.hallowed.status.conquered": "Le Rituel a été <style=\"status\">Accompli</style>.",
+    "location.data.hallowed.effect.ritual": "Accomplissez un <style=\"status\">Sacrifice Sanglant</style> en battant les Ennemis présents <style=\"value\">OU</style> un <style=\"status\">Rituel Magique</style> en consommant du Mana pour recevoir des <style=\"value\">Récompenses</style> des Dieux.",
+    "location.data.hallowed.effect.reveal": "Le type de Rituel est <style=\"status\">révélé</style> pendant la <style=\"value\">Journée</style> ou lorsque vous vous <style=\"status\">déplacez</style> dans cet espace.",
+    "location.data.hallowed.ritual.blood.title": "Sacrifice Sanglant",
+    "location.data.hallowed.ritual.blood.subtitle": "Ennemis à vaincre",
+    "location.data.hallowed.ritual.magic.title": "Rituel Magique",
+    "location.data.hallowed.ritual.label": "Accomplir le Rituel"
+}

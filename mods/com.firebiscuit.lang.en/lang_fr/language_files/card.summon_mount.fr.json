@@ -1,0 +1,5 @@
+{
+    "card.data.summon_mount.name": "Invocation de Monture",
+    "card.data.summon_mount.actions.basic": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">2</style>. Le coût de <style=\"value\">tous</style> les terrains est <style=\"status\">réduit de 1</style> (min. <style=\"value\">2</style>)",
+    "card.data.summon_mount.actions.advanced": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">4</style>. Le coût de <style=\"value\">tous</style> les terrains est <style=\"status\">réduit à 2</style>"
+}

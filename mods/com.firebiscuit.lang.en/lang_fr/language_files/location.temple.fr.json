@@ -1,0 +1,20 @@
+{
+    "location.data.temple.descriptor": "Temple",
+    "location.data.temple.name": "Temple",
+    "location.data.temple.status.burned": "Ce Temple a été <style=\"status\">Brûlé</style> et ne peut plus faire l'objet d'interactions.",
+    "location.data.temple.reward.name": "Butin de Reliquaire",
+    "location.data.temple.burned.title": "Reliquaire du Temple",
+    "location.data.temple.burned.subtitle": "Gardien du Temple",
+    "location.data.temple.interaction.training.label": "Apprendre des Capacités",
+    "location.data.temple.interaction.training.purchase.label": "Apprendre",
+    "location.data.temple.interaction.heal.label": "Soigner les blessures",
+    "location.data.temple.interaction.burn.label": "Brûler",
+    "location.data.temple.interaction.burn.confirmation.title": "<style=\"status\">Brûler</style> le Temple ?",
+    "location.data.temple.interaction.burn.confirmation.content": "Le Temple sera <style=\"status\">Détruit</style> et votre Réputation en prendra un coup dur.",
+    "location.data.temple.interaction.burn.confirmation.battle.title": "Gardien du Temple",
+    "location.data.temple.effect.training": "<style=\"status\">Apprenez</style> des <style=\"value\">Capacités Spéciales</style> au Marché pour <style=\"value\">6</style> Leadership.",
+    "location.data.temple.effect.recruitment": "<style=\"status\">Recrutez</style> des <style=\"value\">Adeptes</style>.",
+    "location.data.temple.effect.heal": "<style=\"status\">Soignez-vous</style> ou soignez vos Adeptes pour <style=\"value\">2</style> Leadership par point de soin.",
+    "location.data.temple.effect.burn": "<style=\"status\">Brûlez</style> pour combattre le gardien du temple d'<style=\"value\">Arcanum</style> et <style=\"status\">pillez</style> le reliquaire pour une <style=\"value\">Relique</style>.",
+    "location.data.temple.assault.label": "Bataille"
+}

@@ -1,0 +1,5 @@
+{
+    "card.data.iron_resolve.name": "Volonté de Fer",
+    "card.data.iron_resolve.actions.basic": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">2</style>",
+    "card.data.iron_resolve.actions.advanced": "Blocage <sprite name=\"card_icon_block\"><style=\"value\">5</style>"
+}

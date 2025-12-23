@@ -1,0 +1,10 @@
+{
+    "location.data.ruins.descriptor": "Ruines",
+    "location.data.ruins.name": "Ruines",
+    "location.data.ruins.reward.name": "Butin de Bataille",
+    "location.data.ruins.status.conquered": "Les Ruines ont été <style=\"status\">Nettoyées</style>.",
+    "location.data.ruins.effect.assault": "<style=\"status\">Entrez</style> pour combattre les Ennemis qui y rôdent et <style=\"status\">pillez</style> leur <style=\"value\">réserve de Cristaux et de Reliques</style>.",
+    "location.data.ruins.assault.title": "Ennemis tapis",
+    "location.data.ruins.assault.subtitle": "Entrer pour combattre",
+    "location.data.ruins.assault.label": "Entrer"
+}

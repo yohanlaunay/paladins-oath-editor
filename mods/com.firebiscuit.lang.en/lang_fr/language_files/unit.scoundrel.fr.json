@@ -1,0 +1,10 @@
+{
+    "unit.data.scoundrel.name": "Crapule",
+    "unit.data.scoundrel.lore": "Tristement célèbres et à louer, les crapules emploient toutes sortes de tactiques sournoises pour aider leur employeur à obtenir ce qu'il veut, y compris l'infiltration et le travail d'infiltration.",
+    "unit.data.scoundrel.cost.recruit.description": "Coût de base en Leadership <style=\"value\">{0}</style>, mais l'impact sur la <b>Réputation</b> est <style=\"value\">inversé</style> (une mauvaise réputation = un coût moins élevé)",
+    "unit.data.scoundrel.combo.0": "Blocage<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.scoundrel.combo.1": "Attaque<sprite name=\"card_icon_attack\"><style=\"value\">3</style>. Réputation <style=\"value\">-1</style> à la fin du tour",
+    "unit.data.scoundrel.combo.2": "Leadership<sprite name=\"card_icon_influence\"><style=\"value\">4</style>. Réputation <style=\"value\">-1</style> à la fin du tour",
+    "unit.data.scoundrel.rewards.name": "Tactiques de Crapule",
+    "unit.data.scoundrel.description.visuals": "Personnage à l'allure de voleur. Portant une dague en forme de S. Portant une longue capuche rouge couvrant entièrement son visage, à l'exception de ses yeux rouges perçants. Il porte une armure de cuir légère. D'autres yeux rouges sont visibles derrière lui, indiquant qu'il n'agit probablement pas seul."
+}

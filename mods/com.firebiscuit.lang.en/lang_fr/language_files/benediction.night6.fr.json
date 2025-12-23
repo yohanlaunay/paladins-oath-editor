@@ -1,0 +1,9 @@
+{
+    "benediction.data.night.6.name": "Canalisation",
+    "benediction.data.night.6.description": "Tant qu'elle n'est pas <style=\"status\">activée</style> : au début de chaque tour, vous pouvez soit <style=\"status\">réserver</style> <style=\"value\">1</style> carte, soit activer cette capacité pour mettre toutes les cartes réservées dans votre main",
+    "benediction.data.night.6.select.title": "Choisissez votre option de canalisation",
+    "benediction.data.night.6.select.content": "Pendant que vous <style=\"status\">canalisez</style>, vous pouvez choisir de soit :\n\n<style=\"status\">Réserver</style> la première carte de votre deck\n\n<b>ou</b>\n\n<style=\"status\">Encaisser</style>, ce qui déplacera toutes les cartes réservées dans votre main, quel que soit votre nombre maximum de cartes.\n\nEncaisser mettra <style=\"status\">fin</style> à la <style=\"value\">canalisation</style>.",
+    "benediction.data.night.6.select.btn.bank": "Réserver",
+    "benediction.data.night.6.select.btn.unbank": "Encaisser (<style=\"value\">{0}</style>)",
+    "benediction.data.night.6.unbanked.title": "Cartes canalisées"
+}

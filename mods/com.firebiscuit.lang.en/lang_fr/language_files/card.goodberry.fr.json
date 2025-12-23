@@ -1,0 +1,5 @@
+{
+    "card.data.goodberry.name": "Baie Nourricière",
+    "card.data.goodberry.actions.basic": "Soin <sprite name=\"card_icon_heal\"><style=\"value\">1</style>, <style=\"status\">Piochez</style> une carte, Gagnez un Mana <style=\"value\">Vert</style> <b>ou</b> <style=\"status\">Restaurez</style> un Adepte\n(<i>Niveau</i> <style=\"value\">1 - 2</style>)",
+    "card.data.goodberry.actions.advanced": "Soin <sprite name=\"card_icon_heal\"><style=\"value\">2</style>, <style=\"status\">Piochez</style> <style=\"value\">2</style> cartes, Gagnez un Cristal <style=\"value\">Vert</style> <b>ou</b> <style=\"status\">Restaurez</style> un Adepte\n(<i>Niveau</i> <style=\"value\">1 - 3</style>)"
+}

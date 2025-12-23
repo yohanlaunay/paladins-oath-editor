@@ -1,0 +1,7 @@
+{
+    "card.data.tireless.name": "Infatigable",
+    "card.data.tireless.actions.basic": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">2</style>. À la <b>Fin du Tour</b> vous pouvez <style=\"status\">mélanger</style> cette carte dans votre <style=\"value\">Pioche</style> (si elle <style=\"status\">n'est pas vide</style>)",
+    "card.data.tireless.actions.basic.move": "À la <b>Fin du Tour</b> <style=\"status\">mélangez</style> cette carte dans votre <style=\"value\">Pioche</style> (si elle <style=\"status\">n'est pas vide</style>)",
+    "card.data.tireless.actions.advanced": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">4</style>. À la <b>Fin du Tour</b> vous pouvez placer cette carte sur le <style=\"status\">dessus</style> de votre <style=\"value\">Pioche</style>",
+    "card.data.tireless.actions.advanced.move": "À la <b>Fin du Tour</b> vous pouvez placer cette carte sur le <style=\"status\">dessus</style> de votre <style=\"value\">Pioche</style>"
+}

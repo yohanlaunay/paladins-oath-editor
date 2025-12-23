@@ -1,0 +1,4 @@
+{
+    "skill.data.wind_portal.name": "Portail de Vent",
+    "skill.data.wind_portal.combo": "<style=\"status\">Téléportez-vous</style><sprite name=\"card_icon_move\"> à <style=\"value\">1</style> case de distance <style=\"status\">gratuitement</style> ou à <sprite name=\"card_icon_move\"><style=\"value\">2</style> cases de distance pour <style=\"value\">2</style> de déplacement"
+}

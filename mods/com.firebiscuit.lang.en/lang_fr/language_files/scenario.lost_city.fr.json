@@ -1,0 +1,8 @@
+{
+    "scenario.data.lost_city.name": "Citadelle Perdue",
+    "scenario.data.lost_city.description": "On vous a dit que depuis la Conjonction des Plans, on n'avait plus jamais entendu parler de la Citadelle de ce Royaume. Vous avez décidé d'explorer cette partie abandonnée du Royaume pour trouver la <style=\"value\">Citadelle Perdue</style>.",
+    "scenario.data.lost_city.exploration_rewards.name": "Récompenses d'Exploration",
+    "scenario.data.lost_city.win.0": "<style=\"status\">Explorez</style> jusqu'à ce que vous trouviez la <style=\"value\">Citadelle Perdue</style>.",
+    "scenario.data.lost_city.rules.exploration_rewards": "Gagnez <style=\"value\">1 XP</style> pour chaque Tuile que vous <style=\"status\">explorez</style>.",
+    "scenario.data.lost_city.rules.citadel_not_conquerable": "La Citadelle Perdue n'a pas besoin d'être conquise pour gagner."
+}

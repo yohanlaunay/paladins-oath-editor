@@ -1,0 +1,7 @@
+{
+    "unit.data.high_priestess.name": "Grande Prêtresse",
+    "unit.data.high_priestess.lore": "La Grande Prêtresse est une figure puissante de l'Ordre Arcanique. Elle va de temple en temple pour inspecter les reliquaires et s'assurer que les puissantes reliques qu'ils contiennent sont en ordre. Généralement réticente à s'engager dans les affaires du monde, les récents événements de magie corrompue depuis la conjonction des plans l'ont rendue méfiante et disposée à aider.",
+    "unit.data.high_priestess.combo.0": "Attaque<sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>ou</b> Blocage<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.high_priestess.combo.1": "Attaque de <style=\"value\">Givre</style><sprite name=\"card_icon_attack\"><style=\"value\">4</style> <b>ou</b> Blocage de <style=\"value\">Givre</style><sprite name=\"card_icon_block\"><style=\"value\">4</style>",
+    "unit.data.high_priestess.description.visuals": "Grande femme blanche aux longs cheveux blonds et aux yeux bleus perçants. Portant une tenue en lin bleu. Tenant un long bâton magique orné d'une grande gemme bleue brillante émanant de la glace bleue circulaire."
+}

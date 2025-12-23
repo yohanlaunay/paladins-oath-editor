@@ -1,0 +1,5 @@
+{
+    "card.data.contract.name": "Contrat",
+    "card.data.contract.actions.basic": "Influence <sprite name=\"card_icon_influence\"><style=\"value\">2</style>",
+    "card.data.contract.actions.advanced": "Influence <sprite name=\"card_icon_influence\"><style=\"value\">5</style>.\nRéputation <style=\"value\">-1</style> à la fin du tour"
+}

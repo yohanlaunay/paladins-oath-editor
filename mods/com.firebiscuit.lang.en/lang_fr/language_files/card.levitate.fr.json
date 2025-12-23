@@ -1,0 +1,5 @@
+{
+    "card.data.levitate.name": "Lévitation",
+    "card.data.levitate.actions.basic": "Payez <style=\"value\">1 - 5</style> de Mouvement pour vous <style=\"status\">Téléporter</style> d'autant de cases sur la carte",
+    "card.data.levitate.actions.advanced": "<style=\"status\">Annulez</style> l'Attaque de l'ennemi ciblé. Payez <style=\"value\">1</style> de Mouvement pour cibler un deuxième ennemi, <style=\"value\">2</style> pour un troisième, etc"
+}

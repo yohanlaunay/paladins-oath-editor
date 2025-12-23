@@ -1,0 +1,5 @@
+{
+    "card.data.endurance.name": "Endurance",
+    "card.data.endurance.actions.basic": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">2</style>",
+    "card.data.endurance.actions.advanced": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">4</style>"
+}

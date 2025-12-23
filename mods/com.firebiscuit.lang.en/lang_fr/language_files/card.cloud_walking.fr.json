@@ -1,0 +1,5 @@
+{
+    "card.data.cloud_walking.name": "Marche dans les Nuages",
+    "card.data.cloud_walking.actions.basic": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">2</style>.\nLe coût des <style=\"value\">Plaines</style>, du <style=\"value\">Désert</style> et du <style=\"value\">Marais</style> est <style=\"status\">réduit de 1</style>",
+    "card.data.cloud_walking.actions.advanced": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">2</style>. Le coût des <style=\"value\">Plaines</style>, du <style=\"value\">Désert</style> et du <style=\"value\">Marais</style> est <style=\"status\">réduit de 2</style>. Vous pouvez payer du Mana <style=\"value\">Bleu</style> pour vous déplacer <style=\"value\">gratuitement</style> sur les <style=\"value\">Lacs</style>"
+}

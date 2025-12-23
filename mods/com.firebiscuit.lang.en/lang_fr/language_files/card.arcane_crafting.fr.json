@@ -1,0 +1,5 @@
+{
+    "card.data.arcane_crafting.name": "Artisanat Arcanique",
+    "card.data.arcane_crafting.actions.basic": "Transformez <style=\"value\">1</style> Mana de n'importe quelle couleur <style=\"status\">basique</style> en <style=\"value\">Cristal</style>",
+    "card.data.arcane_crafting.actions.advanced": "Gagnez un <style=\"value\">Cristal de Mana</style> de votre choix"
+}

@@ -1,0 +1,5 @@
+{
+    "card.data.arctic_reckoning.name": "Jugement Arctique",
+    "card.data.arctic_reckoning.actions.basic": "Attaque de <style=\"value\">Glace</style> à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">5</style>",
+    "card.data.arctic_reckoning.actions.advanced": "Recevez une <style=\"wound\">Blessure</style>.\nAttaque de <style=\"value\">Glace</style> de <i>Siège</i> <sprite name=\"card_icon_attack_siege\"><style=\"value\">8</style>"
+}

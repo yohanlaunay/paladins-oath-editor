@@ -1,0 +1,5 @@
+{
+    "card.data.mana_abjuration.name": "Abjuration de Mana",
+    "card.data.mana_abjuration.actions.basic": "Gagnez un <style=\"value\">Cristal</style> correspondant à la couleur d'un <style=\"value\">Sort</style> du Marché",
+    "card.data.mana_abjuration.actions.advanced": "Gagnez <style=\"value\">2 Cristaux</style> correspondant à la couleur de <style=\"value\">2 Sorts</style> du Marché"
+}

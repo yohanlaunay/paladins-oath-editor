@@ -1,0 +1,4 @@
+{
+    "skill.data.eerie_riposte.name": "Riposte Étrange",
+    "skill.data.eerie_riposte.combo": "Blocage<sprite name=\"card_icon_block\"><style=\"value\">1</style> <b>puis</b> <style=\"status\">réduisez</style> l'<b>armure</b> ennemie de <style=\"value\">1</style>"
+}

@@ -1,0 +1,5 @@
+{
+    "card.data.arcane_mastery.name": "Maîtrise des Arcanes",
+    "card.data.arcane_mastery.actions.basic": "Gagnez du Mana <style=\"value\">Bleu</style>, <style=\"value\">Blanc</style> ou <style=\"value\">Rouge</style> <b>ou</b> un Cristal <style=\"value\">Vert</style>",
+    "card.data.arcane_mastery.actions.advanced": "Obtenez les <style=\"status\">Effets Avancés</style> d'une carte <style=\"value\">gratuitement</style>.\nOctroie <style=\"value\">+3</style> à l'Attaque, au Blocage, à l'Influence ou au Mouvement qu'elle génère"
+}

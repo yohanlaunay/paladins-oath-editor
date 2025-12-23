@@ -1,0 +1,10 @@
+{
+    "unit.data.deacon.name": "Diacre <size=60%><color=red>Champion</color></size>",
+    "unit.data.deacon.lore": "Le <style=\"value\">Diacre</style> est le titre donné au plus fort de tous les Cardinaux. Le Diacre de cette génération a dépassé la magie de feu des Cardinaux et a appris à puiser dans les énergies du Chaos. Le Diacre a élevé sa conscience au-delà du besoin d'un corps et vit dans la carapace d'un golem de métal.",
+    "unit.data.deacon.cost.recruit.description": "Coût de base de Commandement <style=\"value\">{0}</style> mais l'impact sur la <b>Réputation</b> est <style=\"value\">doublé</style>",
+    "unit.data.deacon.combo.0": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">5</style>",
+    "unit.data.deacon.combo.1": "Attaque de <style=\"value\">Chaos</style> <sprite name=\"card_icon_attack\"><style=\"value\">6</style>",
+    "unit.data.deacon.combo.2": "Commandement <sprite name=\"card_icon_influence\"><style=\"value\">5</style>. Réputation <style=\"value\">+1</style> si utilisé lors des <style=\"status\">Interactions</style>",
+    "unit.data.deacon.combo.2.rewards.name": "Influence de Champion (Diacre)",
+    "unit.data.deacon.description.visuals": "Créature à l'aspect robotique avec un unique grand orbe noir et ardent à la place des yeux. Une grosse boule de feu noire derrière son dos, comme un météore. Il porte une cape et une capuche bleues comme un saint ou une personne de foi avec un pendentif en forme de crucifix métallique."
+}

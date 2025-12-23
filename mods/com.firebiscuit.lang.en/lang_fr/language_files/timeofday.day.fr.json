@@ -1,0 +1,4 @@
+{
+    "timeofday.data.day.name": "Jour",
+    "timeofday.data.day.description": "Pendant la journée, certaines restrictions s'appliquent, notamment pour tout effet déclenché par du <style=\"value\">Mana Noir</style> qui ne peut pas être utilisé car ce type de Mana est <style=\"status\">Inerté</style> le jour."
+}

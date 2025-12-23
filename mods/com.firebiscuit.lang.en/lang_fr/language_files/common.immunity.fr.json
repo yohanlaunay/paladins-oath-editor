@@ -1,0 +1,13 @@
+{
+    "immunity.arcane.description": "Les ennemis possédant une <style=\"value\">Immunité Arcanique</style> sont immunisés contre tout type d'effets hors attaque et hors blocage (ex : les effets réduisant la fortification ou les effets annulant leurs attaques).",
+    "immunity.arcane.name": "Arcanique",
+    "immunity.arcane.help.name": "Immunité Arcanique",
+    "immunity.arcane.help.description": "Les ennemis possédant une <style=\"value\">Immunité Arcanique</style> sont immunisés contre tout type d'effets hors attaque et hors blocage (ex : les effets réduisant la fortification ou les effets annulant leurs attaques).",
+    "immunity.condition.any": "<style=\"value\">N'IMPORTE QUELLE</style> <style=\"status\">Immunité</style>",
+    "immunity.condition.except": "Sauf l' <style=\"status\">Immunité</style> à <style=\"value\">{0}</style>",
+    "immunity.condition.if": "Si <style=\"value\">{0}</style> d' <style=\"status\">Immunité</style>",
+    "immunity.condition.list": "<style=\"status\">Immunité</style> <style=\"value\">{0}</style>",
+    "immunity.condition.none": "<style=\"value\">AUCUNE</style>",
+    "immunity.help.name": "Immunités",
+    "immunity.help.description": "Les ennemis possédant des Immunités ignorent les effets de vos Cartes, Capacités Divines ou Adeptes selon le type d'Immunité. Consultez le type d'Immunité de l'Ennemi pour plus de détails."
+}

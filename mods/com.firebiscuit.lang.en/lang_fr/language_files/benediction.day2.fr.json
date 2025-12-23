@@ -1,0 +1,15 @@
+{
+    "benediction.data.day.2.name": "Renouveau",
+    "benediction.data.day.2.description": {
+        "1": "Défaussez immédiatement jusqu'à <style=\"value\">{0}</style> carte (y compris les <style=\"wound\">blessures</style>) et <style=\"status\">piochez</style> le même nombre de cartes. Les cartes défaussées seront ensuite remélangées dans votre deck",
+        "n": "Défaussez immédiatement jusqu'à <style=\"value\">{0}</style> cartes (y compris les <style=\"wound\">blessures</style>) et <style=\"status\">piochez</style> le même nombre de cartes. Les cartes défaussées seront ensuite remélangées dans votre deck",
+        "t": 1
+    },
+    "benediction.data.day.2.selection.title": {
+        "1": "Sélectionnez jusqu'à <style=\"value\">{0}</style> carte à <style=\"value\">défausser</style>",
+        "n": "Sélectionnez jusqu'à <style=\"value\">{0}</style> cartes à <style=\"value\">défausser</style>",
+        "t": 1
+    },
+    "benediction.data.day.2.selection.close.confirm.title": "Annuler la sélection de cartes ?",
+    "benediction.data.day.2.selection.close.confirm.content": "Si vous ne sélectionnez pas de cartes maintenant pour votre <style=\"value\">bénédiction</style>, vous <style=\"status\">ne pourrez plus</style> en sélectionner pour ce Round.\n\n<style=\"status\">Annuler</style> la sélection ?"
+}

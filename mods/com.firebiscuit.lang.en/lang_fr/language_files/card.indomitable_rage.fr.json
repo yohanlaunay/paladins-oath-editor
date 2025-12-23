@@ -1,0 +1,5 @@
+{
+    "card.data.indomitable_rage.name": "Rage Indomptable",
+    "card.data.indomitable_rage.actions.basic": "<style=\"sacrifice\">Sacrifiez</style> une autre carte d' <style=\"value\">Action</style> pour appliquer ses <style=\"status\">Effets Basiques</style> <style=\"value\">3 fois</style>",
+    "card.data.indomitable_rage.actions.advanced": "<style=\"sacrifice\">Sacrifiez</style> une autre carte d' <style=\"value\">Action</style> pour appliquer ses <style=\"status\">Effets Avancés</style> <style=\"value\">deux fois</style> <style=\"value\">gratuitement</style>"
+}

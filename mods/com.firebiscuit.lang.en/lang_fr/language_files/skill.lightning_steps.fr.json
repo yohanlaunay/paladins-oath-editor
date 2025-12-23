@@ -1,0 +1,4 @@
+{
+    "skill.data.lightning_steps.name": "Pas de Foudre",
+    "skill.data.lightning_steps.combo": "Le coût de déplacement de <style=\"value\">tous</style> les terrains est <style=\"status\">réduit de <style=\"value\">2</style></style>\n<i>(minimum de 1)</i>"
+}

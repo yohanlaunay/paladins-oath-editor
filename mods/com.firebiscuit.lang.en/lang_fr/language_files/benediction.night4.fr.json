@@ -1,0 +1,17 @@
+{
+    "benediction.data.night.4.name": "Régénération",
+    "benediction.data.night.4.description": {
+        "1": "<style=\"value\">Une fois</style> ce round-ci avant l'exploration, vous pouvez remélanger jusqu'à <style=\"value\">{0}</style> carte de votre main (y compris les <style=\"wound\">blessures</style>) dans votre deck et piochez le même nombre de cartes",
+        "n": "<style=\"value\">Une fois</style> ce round-ci avant l'exploration, vous pouvez remélanger jusqu'à <style=\"value\">{0}</style> cartes de votre de votre main (y compris les <style=\"wound\">blessures</style>) dans votre deck et piochez le même nombre de cartes",
+        "t": 1
+    },
+    "benediction.data.night.4.selection.title": {
+        "1": "Sélectionnez jusqu'à <style=\"value\">{0}</style> carte à remélanger dans votre deck",
+        "n": "Sélectionnez jusqu'à <style=\"value\">{0}</style> cartes à remélanger dans votre deck",
+        "t": 1
+    },
+    "benediction.data.night.4.activation_reminder.title": "Bénédiction non activée",
+    "benediction.data.night.4.activation_reminder.content": "Vous n'avez pas <style=\"status\">activé</style> votre bénédiction pour ce round.\n\nVoulez-vous continuer l'exploration ou vérifier d'abord votre bénédiction ?",
+    "benediction.data.night.4.activation_reminder.activate.accept.label": "Explorer",
+    "benediction.data.night.4.activation_reminder.activate.cancel.label": "Annuler"
+}

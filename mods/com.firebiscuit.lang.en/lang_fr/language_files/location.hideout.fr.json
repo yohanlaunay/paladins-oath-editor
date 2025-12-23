@@ -1,0 +1,10 @@
+{
+    "location.data.hideout.descriptor": "Cachette",
+    "location.data.hideout.name": "Cachette",
+    "location.data.hideout.reward.name": "Butin de Bataille",
+    "location.data.hideout.status.conquered": "La Cachette a été <style=\"status\">Nettoyée</style>.",
+    "location.data.hideout.effect.assault": "<style=\"status\">Entrez</style> pour combattre les Ennemis qui y rôdent et <style=\"status\">pillez</style> leur <style=\"value\">réserve de Cristaux</style>.",
+    "location.data.hideout.assault.title": "Ennemis tapis",
+    "location.data.hideout.assault.subtitle": "Entrer pour combattre",
+    "location.data.hideout.assault.label": "Entrer"
+}

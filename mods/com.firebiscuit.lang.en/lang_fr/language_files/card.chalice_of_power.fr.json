@@ -1,0 +1,9 @@
+{
+    "card.data.chalice_of_power.name": "Calice de Pouvoir",
+    "card.data.chalice_of_power.actions.basic": "<style=\"sacrifice\">Sacrifiez</style> une <b>Carte d'Action</b> pour gagner une <style=\"value\">Action Avancée</style> de la même couleur au Marché <size=-5>dans votre <style=\"value\">Main</style></size>",
+    "card.data.chalice_of_power.actions.throw": "<style=\"sacrifice\">Détruisez</style> cette Relique et <style=\"sacrifice\">Sacrifiez</style> une <b>Carte d'Action</b> pour gagner un <style=\"value\">Sort</style> de la même couleur au Marché <size=-5>dans votre <style=\"value\">Main</style></size> et un Cristal",
+    "card.data.chalice_of_power.actions.throw.blue": "Gagnez un <style=\"value\">Sort Bleu</style> au Marché <size=-5>dans votre <style=\"value\">Main</style></size> et un Cristal <b>Bleu</b>",
+    "card.data.chalice_of_power.actions.throw.green": "Gagnez un <style=\"value\">Sort Vert</style> au Marché <size=-5>dans votre <style=\"value\">Main</style></size> et un Cristal <b>Vert</b>",
+    "card.data.chalice_of_power.actions.throw.red": "Gagnez un <style=\"value\">Sort Rouge</style> au Marché <size=-5>dans votre <style=\"value\">Main</style></size> et un Cristal <b>Rouge</b>",
+    "card.data.chalice_of_power.actions.throw.white": "Gagnez un <style=\"value\">Sort Blanc</style> au Marché <size=-5>dans votre <style=\"value\">Main</style></size> et un Cristal <b>Blanc</b>"
+}

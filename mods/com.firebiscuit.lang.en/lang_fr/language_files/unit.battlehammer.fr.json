@@ -1,0 +1,7 @@
+{
+    "unit.data.battlehammer.name": "Battlehammer",
+    "unit.data.battlehammer.lore": "Battlehammer est le nom du clan de réputés <style=\"value\">Guerriers Nains</style> qui sont descendus des montagnes pour participer à la lutte contre les créatures qui ont envahi les Royaumes, troublant la paix (et les routes commerciales).",
+    "unit.data.battlehammer.combo.0": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">2</style>",
+    "unit.data.battlehammer.combo.1": "Blocage <sprite name=\"card_icon_block\"><style=\"value\">4</style>,\n<style=\"value\">x2</style> contre une Attaque <style=\"value\">Rapide</style>",
+    "unit.data.battlehammer.description.visuals": "Nain à l'air bourru. Portant une cape verte couvrant la moitié supérieure de son visage et de ses épaules. Longue barbe rousse. Portant un large bouclier en bois, presque aussi grand que lui, et un long et lourd marteau de guerre orné d'une tête de lion en argent."
+}

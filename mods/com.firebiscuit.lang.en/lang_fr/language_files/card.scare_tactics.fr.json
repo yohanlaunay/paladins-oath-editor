@@ -1,0 +1,6 @@
+{
+    "card.data.scare_tactics.name": "Tactiques d'Effroi",
+    "card.data.scare_tactics.actions.basic": "Commandement <sprite name=\"card_icon_influence\"><style=\"value\">2</style>.\nVous pouvez utiliser le Commandement comme <style=\"value\">Blocage</style> ce tour",
+    "card.data.scare_tactics.actions.advanced": "Commandement <sprite name=\"card_icon_influence\"><style=\"value\">4</style>.\nVous pouvez utiliser le Commandement comme Blocage de <style=\"value\">Froid</style> ou de <style=\"value\">Feu</style> ce tour",
+    "card.data.scare_tactics.actions.advanced.combo.block": "Choisissez <style=\"value\">Froid</style> ou <style=\"value\">Feu</style>. Vous pouvez utiliser le Commandement comme Blocage de cet Élément ce tour"
+}

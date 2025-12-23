@@ -1,0 +1,4 @@
+{
+    "skill.data.driven_by_faith.name": "Guidé par la Foi",
+    "skill.data.driven_by_faith.combo": "Déplacement<sprite name=\"card_icon_move\"><style=\"value\">2</style> <size=-5>(<style=\"status\">Jour</style>)</size>\nDéplacement<sprite name=\"card_icon_move\"><style=\"value\">1</style> <size=-5>(<style=\"status\">Nuit</style>)</size>"
+}

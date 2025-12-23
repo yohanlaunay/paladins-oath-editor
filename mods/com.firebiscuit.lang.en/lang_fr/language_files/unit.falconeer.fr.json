@@ -1,0 +1,7 @@
+{
+    "unit.data.falconeer.name": "Fauconnier",
+    "unit.data.falconeer.lore": "Les fauconniers viennent de terres remplies de marécages et de tourbières, ils ont domestiqué toutes sortes d'oiseaux de proie qui les aident à chasser sur des terrains dangereux. Les fauconniers sont redoutables au combat car ils peuvent aveugler, distraire ou blesser leurs adversaires sans être vus.",
+    "unit.data.falconeer.combo.0": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.falconeer.combo.1": "Attaque à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">2</style>",
+    "unit.data.falconeer.description.visuals": "Petite créature humanoïde, de la taille d'un enfant ou d'une personne de petite taille. Entièrement couverte d'une armure métallique de la tête aux pieds avec deux trous pour la vue. Un hibou ou un faucon métallique repose sur son bras tendu."
+}

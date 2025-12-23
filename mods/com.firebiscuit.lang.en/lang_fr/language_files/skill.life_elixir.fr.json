@@ -1,0 +1,4 @@
+{
+    "skill.data.life_elixir.name": "Élixir de Vie",
+    "skill.data.life_elixir.combo": "Soin<sprite name=\"card_icon_heal\"><style=\"value\">2</style>\n<i>(Avant ou Après le Combat)</i>"
+}

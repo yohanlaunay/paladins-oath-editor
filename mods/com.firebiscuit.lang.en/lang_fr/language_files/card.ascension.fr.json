@@ -1,0 +1,5 @@
+{
+    "card.data.ascension.name": "Ascension",
+    "card.data.ascension.actions.basic": "<style=\"sacrifice\">Sacrifiez</style> une <b>Carte d'Action</b> pour prendre une <style=\"value\">Capacité</style> de la même couleur au <b>Marché</b> <size=-5>dans votre <b>Pile de Défausse</b></size>",
+    "card.data.ascension.actions.advanced": "<style=\"sacrifice\">Sacrifiez</style> une <b>Carte d'Action</b> pour prendre une <style=\"value\">Capacité</style> de la même couleur au <b>Marché</b> <size=-5>dans votre <b>Main</b></size>"
+}

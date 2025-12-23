@@ -1,0 +1,4 @@
+{
+    "element.data.chaos.name": "Chaos",
+    "element.data.chaos.description": "<b>Phase de Blocage :</b>\r\n\r\nLes Attaques de <style=\"value\">Chaos</style> ne peuvent être <style=\"status\">Bloquées</style> efficacement que par des Blocs de <style=\"value\">Chaos</style>. Tous les autres Blocs sont <style=\"status\">Inefficaces</style> (<style=\"value\">Divisés par 2</style>)."
+}

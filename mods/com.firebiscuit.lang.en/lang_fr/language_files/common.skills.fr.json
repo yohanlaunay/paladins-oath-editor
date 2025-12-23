@@ -1,0 +1,28 @@
+{
+    "skill.descriptor": "Capacité Divine <style=\"value\">{0}</style>",
+    "skill.activated.before_battle.description": "La Capacité Divine a été <style=\"status\">Activée</style> avant le début de la bataille et ne pourra être activée de nouveau qu'au prochain cycle Jour/Nuit ou à la prochaine phase de Bataille / Exploration - selon les conditions de <style=\"status\">Restauration</style>.",
+    "skill.activated.for_payment.description": "La Capacité Divine a été <style=\"status\">Utilisée</style> pour le paiement d'autres <i>Abilités et Effets</i> et ne pourra être activée qu'une fois l'autre entité qui l'utilise <style=\"status\">Désactivée</style>.",
+    "skill.condition.once_per_round.description": "Cette Capacité Divine peut être activée <style=\"value\">une fois</style> par cycle de <style=\"status\">Jour/Nuit</style>",
+    "skill.deactivation.content": "Vous êtes sur le point de <style=\"status\">Désactiver</style> les effets et effets secondaires déclenchés par cette Capacité Divine.\n\nVous pourrez les <style=\"status\">Réactiver</style> en cliquant de nouveau sur la Capacité Divine.\n\n<b>Continuer ?</b>",
+    "skill.deactivation.title": "<style=\"status\">Désactiver</style> cette Capacité Divine",
+    "skill.locked.title": "La Capacité Divine ne peut pas être activée",
+    "skill.passive.title": "Capacité Divine Passive",
+    "skill.passive.description": "Cette Capacité Divine ne procure que des effets passifs qui sont activés automatiquement",
+    "skill.selection.panel.activate_btn": "Sélectionner",
+    "skill.selection.panel.empty": "Aucune Capacité Divine valide à sélectionner.",
+    "skill.selection.panel.title.default": {
+        "1": "Sélectionnez <style=\"value\">{0}</style> Capacité Divine",
+        "n": "Sélectionnez <style=\"value\">{0}</style> Capacités Divines",
+        "t": 1
+    },
+    "skill.status.exhausted.description": "La Capacité Divine a été <style=\"status\">Activée</style> et ne pourra être activée de nouveau qu'au prochain cycle Jour/Nuit ou à la prochaine phase de Bataille / Exploration - selon les conditions de <style=\"status\">Restauration</style>.",
+    "skills.panel.description": "Ce panneau affiche toutes vos Capacités Divines : de puissantes compétences octroyées par votre déité pour vous aider dans votre Croisade.",
+    "skills.panel.empty": "Vous n'avez pas encore acquis de Capacités Divines. Elles sont généralement attribuées lors d'un <style=\"status\">gain de niveau</style>.",
+    "skills.panel.title": "Capacités Divines",
+    "skills.list.title": "Capacités Divines",
+    "skills.list.empty": "Aucune Capacité Divine",
+    "skills.help.name": "Capacités Divines",
+    "skills.help.description": "Lorsque vous gagnez un niveau, vous pouvez obtenir une Capacité Divine de votre Dieu. Ce sont des capacités très puissantes utilisables une fois par Round ou par Tour (voir l'icône pour les détails).",
+    "skills.help.refresh.name": "Restauration des Capacités Divines",
+    "skills.help.refresh.description": "Certaines Capacités Divines puissantes ne sont restaurées qu'à la fin du Round."
+}

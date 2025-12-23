@@ -1,0 +1,9 @@
+{
+    "card.data.power_word.name": "Mot de Pouvoir",
+    "card.data.power_word.actions.basic": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">2</style>, Commandement <sprite name=\"card_icon_influence\"><style=\"value\">2</style>, Attaque <sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">2</style>. Vous pouvez défausser une <style=\"wound\">Blessure</style> pour augmenter l'effet de <style=\"value\">1</style>",
+    "card.data.power_word.actions.advanced": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">3</style>, Commandement <sprite name=\"card_icon_influence\"><style=\"value\">3</style>, Attaque <sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">3</style>. Vous pouvez défausser des cartes (dont <style=\"value\">1</style> <style=\"wound\">Blessure</style>) pour augmenter l'effet de <style=\"value\">2</style> par carte",
+    "card.data.power_word.actions.advanced.move": "Mouvement <sprite name=\"card_icon_move\"><style=\"value\">3</style> + 2 par carte défaussée (dont <style=\"value\">1</style> <style=\"wound\">Blessure</style>)",
+    "card.data.power_word.actions.advanced.block": "Blocage <sprite name=\"card_icon_block\"><style=\"value\">3</style> + 2 par carte défaussée (dont <style=\"value\">1</style> <style=\"wound\">Blessure</style>)",
+    "card.data.power_word.actions.advanced.influence": "Commandement <sprite name=\"card_icon_influence\"><style=\"value\">3</style> + 2 par carte défaussée (dont <style=\"value\">1</style> <style=\"wound\">Blessure</style>)",
+    "card.data.power_word.actions.advanced.attack": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">3</style> + 2 par carte défaussée (dont <style=\"value\">1</style> <style=\"wound\">Blessure</style>)"
+}

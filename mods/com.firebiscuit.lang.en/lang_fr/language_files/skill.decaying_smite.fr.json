@@ -1,0 +1,7 @@
+{
+    "skill.data.decaying_smite.name": "Frappe de Décomposition",
+    "skill.data.decaying_smite.combo": "Supprimez une <style=\"value\">résistance ou une fortification</style> d'un Ennemi ou un <style=\"value\">élément ou modificateur</style> de ses attaques <size=-2>(inefficace contre l'<style=\"status\">immunité arcanique</style>)</size>",
+    "skill.data.decaying_smite.combo.resistance": "L'Ennemi perd une <style=\"value\">résistance</style>",
+    "skill.data.decaying_smite.combo.attack.element": "L'Ennemi perd un <style=\"value\">élément</style> d'attaque",
+    "skill.data.decaying_smite.combo.attack.modifier": "L'Ennemi perd un <style=\"value\">modificateur</style> d'attaque"
+}

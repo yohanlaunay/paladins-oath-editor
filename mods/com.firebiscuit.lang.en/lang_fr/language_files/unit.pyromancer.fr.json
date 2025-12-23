@@ -1,0 +1,8 @@
+{
+    "unit.data.pyromancer.name": "Pyromancien",
+    "unit.data.pyromancer.lore": "Puissants mages de <style=\"value\">Feu</style>. Leur ordre est (tristement) célèbre pour son désir de <style=\"status\">Ne faire qu'un avec la flamme</style> et ils souffrent tous de graves brûlures sur tout le corps, ce qui les défigure. Ils se déplacent enfermés dans une combinaison magique pour amplifier leur magie tout en cachant leur silhouette hideuse aux regards indiscrets.",
+    "unit.data.pyromancer.combo.0": "Attaque de <style=\"value\">Feu</style> à <i>Distance</i><sprite name=\"card_icon_attack_range\"><style=\"value\">3</style>",
+    "unit.data.pyromancer.combo.1": "Attaque de <style=\"value\">Feu</style><sprite name=\"card_icon_attack\"><style=\"value\">6</style> <b>ou</b> Blocage de <style=\"value\">Feu</style><sprite name=\"card_icon_block\"><style=\"value\">6</style>",
+    "unit.data.pyromancer.combo.2": "Gagnez un Mana <style=\"value\">Rouge</style> et un Cristal <style=\"value\">Rouge</style>",
+    "unit.data.pyromancer.description.visuals": "Petit humain en tenue de protection complète. Utilisant des lunettes orange pour couvrir ses yeux et un chapeau ressemblant à celui d'un pompier. Le feu est omniprésent autour et derrière la combinaison."
+}

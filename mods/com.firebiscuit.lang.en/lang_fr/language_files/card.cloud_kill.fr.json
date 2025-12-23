@@ -1,0 +1,5 @@
+{
+    "card.data.cloud_kill.name": "Brume Mortelle",
+    "card.data.cloud_kill.actions.basic": "L'ennemi ciblé <style=\"status\">n'Attaque pas</style>",
+    "card.data.cloud_kill.actions.advanced": "<style=\"status\">Détruisez</style> l'ennemi ciblé <i>(uniquement en <style=\"value\">Phase d'Attaque</style>)</i>"
+}

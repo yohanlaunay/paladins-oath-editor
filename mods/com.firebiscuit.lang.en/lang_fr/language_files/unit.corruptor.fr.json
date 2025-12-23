@@ -1,0 +1,8 @@
+{
+    "unit.data.corruptor.name": "Corrupteur",
+    "unit.data.corruptor.lore": "Alchimistes baignant dans des vapeurs de Mana décomposé, ce qui leur confère des capacités uniques pour corroder et corrompre le métal et l'esprit.",
+    "unit.data.corruptor.combo.0": "Attaque à <i>Distance</i> <sprite name=\"card_icon_attack\"><style=\"value\">1</style>.\nLes <b>autres</b> Adeptes reçoivent <style=\"value\">+1</style> à leurs Attaques",
+    "unit.data.corruptor.combo.1": "<style=\"status\">Réduisez</style> l'Armure <b>et</b> l'Attaque d'un Ennemi de <style=\"value\">1</style>",
+    "unit.data.corruptor.combo.2": "<style=\"status\">Réduisez</style> l'Attaque d'un Ennemi de <style=\"value\">3</style>",
+    "unit.data.corruptor.description.visuals": "Lourde armure métallique, couvrant entièrement le corps comme une combinaison de protection contre les matières dangereuses en métal. Des tubes métalliques entrent et sortent de l'armure avec un liquide gris s'échappant des joints. L'armure possède une visière violette mais il n'est pas certain que la créature à l'intérieur soit encore humaine. La créature tient plusieurs flacons de liquide corrosif rose. Une aura magnétique émane de l'armure."
+}

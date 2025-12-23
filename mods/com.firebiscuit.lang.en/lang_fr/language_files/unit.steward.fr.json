@@ -1,0 +1,8 @@
+{
+    "unit.data.steward.name": "Intendant de la Nature",
+    "unit.data.steward.lore": "Intendants offrant leur soutien au Gardien de la Nature, ils ont été créés par les Dieux de la Nature pour protéger la terre contre les envahisseurs des autres plans.",
+    "unit.data.steward.combo.0": "Gagnez un Mana <style=\"value\">Vert</style>",
+    "unit.data.steward.combo.1": "Gagnez un Mana <style=\"value\">Blanc</style>",
+    "unit.data.steward.combo.2": "Soignez <style=\"value\">1</style> Blessure <size=-5>(<style=\"status\">Joueur</style>)</size>",
+    "unit.data.steward.description.visuals": "Petite créature bipède en bois. Portant une grande mèche de feuilles d'arbre comme cheveux. Portant un bâton de marche en bois recourbé. Petits yeux ronds en bois. Son corps couvert de lignes d'arbres comme des tatouages."
+}

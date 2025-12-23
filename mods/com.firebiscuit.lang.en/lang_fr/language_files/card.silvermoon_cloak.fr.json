@@ -1,0 +1,5 @@
+{
+    "card.data.silvermoon_cloak.name": "Linceul de Lune d'Argent",
+    "card.data.silvermoon_cloak.actions.basic": "Gagnez un Mana <style=\"value\">Blanc</style> et un Cristal <style=\"value\">Blanc</style>.\n<style=\"value\">+1 XP</style>",
+    "card.data.silvermoon_cloak.actions.throw": "<style=\"sacrifice\">Détruisez</style> pour générer une réserve <style=\"status\">Infinie</style> de Mana <style=\"value\">Blanc</style> et <style=\"value\">Noir</style>.\n<style=\"value\">+1 XP</style> pour chaque <style=\"value\">Sort Blanc</style> que vous <style=\"status\">Lancez</style>"
+}

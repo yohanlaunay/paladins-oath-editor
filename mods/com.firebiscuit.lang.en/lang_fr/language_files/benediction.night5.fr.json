@@ -1,0 +1,15 @@
+{
+    "benediction.data.night.5.name": "Détermination",
+    "benediction.data.night.5.description": {
+        "1": "Cherchez immédiatement dans votre deck <style=\"value\">{0}</style> carte à ajouter à votre main",
+        "n": "Cherchez immédiatement dans votre deck <style=\"value\">{0}</style> cartes à ajouter à votre main",
+        "t": 1
+    },
+    "benediction.data.night.5.selection.close.confirm.title": "Annuler la sélection de cartes ?",
+    "benediction.data.night.5.selection.close.confirm.content": "Si vous ne sélectionnez pas de cartes maintenant pour votre bénédiction, vous ne pourrez plus en sélectionner pour ce round.\n\nAnnuler la sélection ?",
+    "benediction.data.night.5.selection.title": {
+        "1": "Sélectionnez <style=\"value\">{0}</style> carte à déplacer dans votre main",
+        "n": "Sélectionnez <style=\"value\">{0}</style> cartes à déplacer dans votre main",
+        "t": 1
+    }
+}

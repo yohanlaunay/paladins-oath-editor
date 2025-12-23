@@ -1,0 +1,4 @@
+{
+    "skill.data.ice_rain.name": "Pluie de Glace",
+    "skill.data.ice_rain.combo": "Attaque de <i>siège</i><sprite name=\"card_icon_attack_siege\"><style=\"value\">1</style> <b>ou</b>\nAttaque de <i>siège</i> de <style=\"value\">givre</style><sprite name=\"card_icon_attack_siege\"><style=\"value\">1</style>"
+}

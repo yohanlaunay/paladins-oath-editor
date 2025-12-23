@@ -1,0 +1,8 @@
+{
+    "effects.values.data.add.description": "<style=\"value\">+ {0}</style>",
+    "effects.values.data.divide.description": "<style=\"value\">/ {0}</style>",
+    "effects.values.data.multiply.description": "<style=\"value\">x {0}</style>",
+    "effects.values.data.percent_add.description": "<style=\"value\">+ {0} %</style>",
+    "effects.values.data.percent_remove.description": "<style=\"value\">- {0} %</style>",
+    "effects.values.data.remove.description": "<style=\"value\">- {0}</style>"
+}

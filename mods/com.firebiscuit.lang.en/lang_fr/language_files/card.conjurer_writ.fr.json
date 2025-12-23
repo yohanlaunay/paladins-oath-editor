@@ -1,0 +1,5 @@
+{
+    "card.data.conjurer_writ.name": "Mandat du Conjureur",
+    "card.data.conjurer_writ.actions.basic": "<style=\"status\">Défaussez</style> une carte pour utiliser l' <b>Effet Basique</b> d'un <style=\"value\">Sort</style> de la même couleur au Marché <size=-5><style=\"value\">gratuitement</style></size>",
+    "card.data.conjurer_writ.actions.throw": "<style=\"sacrifice\">Détruisez</style> cette Relique et <style=\"status\">Défaussez</style> une carte pour utiliser l' <b>Effet Avancé</b> d'un <style=\"value\">Sort</style> de la même couleur au Marché <size=-5><style=\"value\">gratuitement</style></size>"
+}

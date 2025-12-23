@@ -1,0 +1,4 @@
+{
+    "skill.data.lightning_empowerment.name": "Habilitation de la Foudre",
+    "skill.data.lightning_empowerment.combo": "Gagnez un mana <style=\"value\">blanc</style>.\n<style=\"status\">Piochez</style> <style=\"value\">2</style> cartes\n<i>(Hors combat)</i>"
+}

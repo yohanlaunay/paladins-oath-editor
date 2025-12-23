@@ -1,0 +1,5 @@
+{
+    "card.data.subdue.name": "Assujettir",
+    "card.data.subdue.actions.basic": "Commandement <sprite name=\"card_icon_influence\"><style=\"value\">4</style> <b>ou</b> Attaque <sprite name=\"card_icon_attack\"><style=\"value\">3</style>.\nRéputation <style=\"value\">-1</style> à la fin du tour",
+    "card.data.subdue.actions.advanced": "Commandement <sprite name=\"card_icon_influence\"><style=\"value\">8</style> <b>ou</b> Attaque <sprite name=\"card_icon_attack\"><style=\"value\">7</style>.\nRéputation <style=\"value\">-2</style> à la fin du tour"
+}

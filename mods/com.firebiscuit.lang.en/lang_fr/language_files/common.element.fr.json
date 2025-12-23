@@ -1,0 +1,15 @@
+{
+    "element.condition.any": "<style=\"value\">N'IMPORTE QUEL</style> Élément",
+    "element.condition.except": "Sauf les Éléments <style=\"value\">{0}</style>",
+    "element.condition.if": "Si <style=\"value\">{0}</style>",
+    "element.condition.list": "Élément <style=\"value\">{0}</style>",
+    "element.condition.none": "<style=\"value\">AUCUN</style>",
+    "element.conversion": "Convertir <style=\"value\">{0}</style> en <style=\"value\">{1}</style>",
+    "resistance.condition.any": "<style=\"value\">N'IMPORTE QUELLE</style> <style=\"status\">Résistance</style>",
+    "resistance.condition.except": "Sauf la <style=\"status\">Résistance</style> à <style=\"value\">{0}</style>",
+    "resistance.condition.if": "Si <style=\"value\">{0}</style> de <style=\"status\">Résistance</style>",
+    "resistance.condition.list": "<style=\"status\">Résistance</style> <style=\"value\">{0}</style>",
+    "resistance.condition.none": "<style=\"value\">AUCUNE</style>",
+    "resistance.help.name": "Résistances",
+    "resistance.help.description": "Certains Ennemis ou Adeptes possèdent des Résistances à certains types d'Éléments ou une Résistance Physique. Les Résistances sur les Ennemis rendent les Attaques ou les Blocs du même type inefficaces, nécessitant le double de points. Les Résistances sur les Adeptes signifient qu'avant de subir des dégâts du type résistant, les dégâts sont d'abord réduits par la valeur d'Armure."
+}

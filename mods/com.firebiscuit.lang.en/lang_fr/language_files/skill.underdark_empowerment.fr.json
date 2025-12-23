@@ -1,0 +1,4 @@
+{
+    "skill.data.underdark_empowerment.name": "Habilitation de l'Ombreterre",
+    "skill.data.underdark_empowerment.combo": "Gagnez un Mana <style=\"value\">rouge</style>.\n<style=\"status\">Piochez</style> <style=\"value\">2</style> cartes\n<i>(Hors combat)</i>"
+}

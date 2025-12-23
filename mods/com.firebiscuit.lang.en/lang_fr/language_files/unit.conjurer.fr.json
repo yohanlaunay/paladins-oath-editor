@@ -1,0 +1,8 @@
+{
+    "unit.data.conjurer.name": "Conjurateur",
+    "unit.data.conjurer.lore": "Étudiants de l'Arcane, affinant encore leur art parmi les puissants mages aux Flèches du Royaume. Ils peuvent invoquer une magie offensive et défensive de base, mais sont capables de libérer leur plein potentiel avec l'infusion de Mana appropriée.",
+    "unit.data.conjurer.combo.0": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">2</style>",
+    "unit.data.conjurer.combo.1": "Blocage de <style=\"value\">Feu</style> <sprite name=\"card_icon_block\"><style=\"value\">4</style>",
+    "unit.data.conjurer.combo.2": "Blocage de <style=\"value\">Froid</style> <sprite name=\"card_icon_block\"><style=\"value\">4</style>",
+    "unit.data.conjurer.description.visuals": "Homme barbu à l'allure de druide. Portant des peaux d'animaux sur ses épaules et des crânes d'animaux autour de sa taille. Il tient une grosse boule de cristal bleue avec un tourbillon magique bleu à l'intérieur. Derrière lui, une grande tête squelettique d'animal bleu rugissant, probablement invoquée par sa boule de cristal."
+}

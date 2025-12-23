@@ -1,0 +1,5 @@
+{
+    "card.data.blood_rite.name": "Rite de Sang",
+    "card.data.blood_rite.actions.basic": "Recevez une <style=\"wound\">Blessure</style> et payez un Mana pour prendre une <style=\"value\">Action Avancée</style> de la même couleur au <b>Marché</b> <size=-5>dans votre <b>Main</b></size>",
+    "card.data.blood_rite.actions.advanced": "Recevez une <style=\"wound\">Blessure</style> pour utiliser l' <b>Effet Avancé</b> d'une <style=\"value\">Action Avancée</style> du <b>Marché</b> <size=-5><style=\"value\">gratuitement</style></size>"
+}

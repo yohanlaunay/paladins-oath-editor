@@ -1,0 +1,6 @@
+{
+    "skill.data.offering.name": "Offrande",
+    "skill.data.offering.combo": "L'action <style=\"status\">par défaut</style> d'une carte de <style=\"status\">départ</style> donne <style=\"value\">+2</style> au lieu de <style=\"value\">+1</style>. Toute autre carte <i>(hors blessure)</i> donnera <style=\"value\">+3</style> à la place",
+    "skill.data.offering.combo.starter": "L'action <style=\"status\">par défaut</style> d'une carte de <style=\"status\">départ</style> donne <style=\"value\">+2</style> au lieu de <style=\"value\">+1</style>",
+    "skill.data.offering.combo.non_starter": "L'action <style=\"status\">par défaut</style> d'une carte qui n'est pas de départ donne <style=\"value\">+3</style> au lieu de <style=\"value\">+1</style>"
+}

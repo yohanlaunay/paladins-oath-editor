@@ -1,0 +1,8 @@
+{
+    "unit.data.cryoptera.name": "Cryoptère",
+    "unit.data.cryoptera.lore": "Créatures de l'Inframonde qui errent sous terre et ne se trouvent à la surface que lorsqu'elles sont convoquées par des pratiquants de la magie. Elles se nourrissent généralement des Pacificateurs et d'autres êtres remplis de mana. Elles peuvent absorber et régurgiter le Mana sous différentes formes.",
+    "unit.data.cryoptera.combo.0": "Attaque de <style=\"value\">Froid</style> <sprite name=\"card_icon_attack\"><style=\"value\">4</style> <b>ou</b> Blocage de <style=\"value\">Froid</style> <sprite name=\"card_icon_block\"><style=\"value\">4</style>",
+    "unit.data.cryoptera.combo.1": "Attaque de <style=\"value\">Froid</style> de <i>Siège</i> <sprite name=\"card_icon_attack_siege\"><style=\"value\">4</style>",
+    "unit.data.cryoptera.combo.2": "Gagnez un Mana <style=\"value\">Bleu</style> et un Cristal <style=\"value\">Bleu</style>",
+    "unit.data.cryoptera.description.visuals": "Grande chauve-souris bleue aux longs crocs et aux grandes oreilles. Émet du givre ou de l'énergie froide."
+}

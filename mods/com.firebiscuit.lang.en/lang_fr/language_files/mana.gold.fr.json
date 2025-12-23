@@ -1,0 +1,5 @@
+{
+    "mana.data.gold.name": "Doré",
+    "mana.data.gold.name.full": "Mana Doré",
+    "mana.data.gold.description": "<i><style=\"status\">Couleur de Mana Spéciale.</style></i>\n\nLe mana <style=\"value\">Doré</style> ne peut être utilisé que pendant la <style=\"status\">Journée</style> en remplacement de n'importe quelle Couleur de Mana <style=\"value\">de Base</style>. Le doré sera inerte pendant la nuit."
+}

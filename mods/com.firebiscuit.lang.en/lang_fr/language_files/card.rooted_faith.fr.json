@@ -1,0 +1,5 @@
+{
+    "card.data.rooted_faith.name": "Foi Enracinée",
+    "card.data.rooted_faith.basic": "Blocage <sprite name=\"card_icon_block\"><style=\"value\">3</style>,\n<style=\"value\">x2</style> contre les Attaques <style=\"status\">Rapides</style>",
+    "card.data.rooted_faith.advanced": "Blocage <sprite name=\"card_icon_block\"><style=\"value\">5</style>,\n<style=\"value\">x2</style> contre les Attaques <style=\"status\">Rapides</style>.\nL'ennemi <style=\"status\">Bloqué</style> reçoit <style=\"value\">-1 d'Armure</style> par point de blocage excédentaire"
+}

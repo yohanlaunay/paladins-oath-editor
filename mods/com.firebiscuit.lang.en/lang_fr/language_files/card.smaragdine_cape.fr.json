@@ -1,0 +1,5 @@
+{
+    "card.data.smaragdine_cape.name": "Cape de Smaragdine",
+    "card.data.smaragdine_cape.actions.basic": "Gagnez un Mana <style=\"value\">Vert</style> et un Cristal <style=\"value\">Vert</style>.\n<style=\"value\">+1 XP</style>",
+    "card.data.smaragdine_cape.actions.throw": "<style=\"sacrifice\">Détruisez</style> pour générer une réserve <style=\"status\">Infinie</style> de Mana <style=\"value\">Vert</style> et <style=\"value\">Noir</style>.\n<style=\"value\">+1 XP</style> pour chaque <style=\"value\">Sort Vert</style> que vous <style=\"status\">Lancez</style>"
+}

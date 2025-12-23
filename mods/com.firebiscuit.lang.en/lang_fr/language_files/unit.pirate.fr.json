@@ -1,0 +1,7 @@
+{
+    "unit.data.pirate.name": "Pirate",
+    "unit.data.pirate.lore": "Généralement en mer, mais avec la conjonction des plans, leurs activités maritimes ont été gravement perturbées, ils prennent donc les choses en main avec leurs propres crochets.",
+    "unit.data.pirate.combo.0": "Attaque<sprite name=\"card_icon_attack\"><style=\"value\">5</style> <b>ou</b> Blocage<sprite name=\"card_icon_block\"><style=\"value\">5</style>",
+    "unit.data.pirate.combo.1": "Attaque de <style=\"value\">Feu</style> à <i>Distance</i><sprite name=\"card_icon_attack_range\"><style=\"value\">6</style>",
+    "unit.data.pirate.description.visuals": "Pirate à barbe blanche portant une tenue bleue. Tenant un grand tromblon et portant un sac plein de munitions."
+}

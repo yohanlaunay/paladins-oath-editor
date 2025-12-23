@@ -1,0 +1,4 @@
+{
+    "skill.data.nether_manipulation.name": "Manipulation du Néant",
+    "skill.data.nether_manipulation.combo": "Convertissez un Mana <style=\"value\">doré</style> en <style=\"value\">noir</style> <b>ou</b> un <style=\"value\">rouge</style> en <style=\"value\">bleu</style> <b>ou</b> un <style=\"value\">blanc</style> en <style=\"value\">vert</style> <b>ou</b> <style=\"status\">vice-versa</style>, sans tenir compte des restrictions de Jour/Nuit"
+}

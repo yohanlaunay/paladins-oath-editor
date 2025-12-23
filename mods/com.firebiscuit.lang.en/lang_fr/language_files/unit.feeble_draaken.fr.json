@@ -1,0 +1,7 @@
+{
+    "unit.data.feeble_draaken.name": "Faible Draaken",
+    "unit.data.feeble_draaken.lore": "Il n'en existe que quelques-uns. Ils proviennent d'œufs de Draaken qui ont éclos avant leur terme et n'ont pas atteint leur maturité. Ils partagent des traits similaires mais plus faibles avec leurs cousins Draaken, comme la force, les capacités magiques et une très longue vie.",
+    "unit.data.feeble_draaken.combo.0": "Attaque <sprite name=\"card_icon_attack\"><style=\"value\">3</style> <b>ou</b> Blocage <sprite name=\"card_icon_block\"><style=\"value\">3</style>",
+    "unit.data.feeble_draaken.combo.1": "Attaque de <style=\"value\">Feu</style> à <i>Distance</i> <sprite name=\"card_icon_attack_range\"><style=\"value\">4</style>",
+    "unit.data.feeble_draaken.description.visuals": "Petit dragon à l'allure pathétique avec le squelette visible sous la peau. Membres fins et yeux bruns globuleux avec de petites cornes et de petites ailes. Entouré d'une boule de feu."
+}
