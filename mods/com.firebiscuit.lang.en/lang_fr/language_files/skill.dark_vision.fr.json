@@ -1,4 +1,4 @@
 {
     "skill.data.dark_vision.name": "Vision Nocturne",
-    "skill.data.dark_vision.combo": "Déplacement<sprite name=\"card_icon_move\"><style=\"value\">1</style> <size=-5>(<style=\"status\">Jour</style>)</size>\nDéplacement<sprite name=\"card_icon_move\"><style=\"value\">2</style> <size=-5>(<style=\"status\">Nuit</style>)</size>"
+    "skill.data.dark_vision.combo": "Mouvement<sprite name=\"card_icon_move\"><style=\"value\">1</style> <size=-5>(<style=\"status\">Jour</style>)</size>\nMouvement<sprite name=\"card_icon_move\"><style=\"value\">2</style> <size=-5>(<style=\"status\">Nuit</style>)</size>"
 }

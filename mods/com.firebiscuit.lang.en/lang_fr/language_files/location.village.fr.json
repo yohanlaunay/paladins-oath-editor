@@ -7,6 +7,6 @@
     "location.data.village.interaction.plunder.confirmation.title": "<style=\"status\">Piller</style> le Village ?",
     "location.data.village.interaction.plunder.confirmation.content": "À la <b>fin du tour</b>, vous recevez <style=\"value\">-1 Réputation</style> mais vous piocherez <style=\"value\">2 Cartes</style> lors de votre prochain tour.",
     "location.data.village.effect.recruitment": "<style=\"status\">Recrutez</style> des <style=\"value\">Compagnons</style>.",
-    "location.data.village.effect.heal": "<style=\"status\">Soignez-vous</style> ou soignez vos Compagnons pour <style=\"value\">3</style> Leadership par point de soin.",
+    "location.data.village.effect.heal": "<style=\"status\">Soignez-vous</style> ou soignez vos Compagnons pour <style=\"value\">3</style> Influence par point de soin.",
     "location.data.village.effect.plunder": "<style=\"status\">Pillez</style> pour piocher <style=\"value\">2 Cartes supplémentaires</style> lors de votre prochain tour, au prix de <style=\"value\">-1 Réputation</style>."
 }

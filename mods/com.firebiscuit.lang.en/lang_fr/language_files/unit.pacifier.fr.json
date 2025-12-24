@@ -1,7 +1,7 @@
 {
     "unit.data.pacifier.name": "Pacificateur",
     "unit.data.pacifier.lore": "Tranges créatures du monde souterrain qui n'apparaissent à la surface que lorsqu'elles sont invoquées par des pratiquants de la magie. Les pacificateurs se reproduisent autour des sources souterraines de Mana Ambiant, ce qui leur donne un contrôle unique sur l'énergie électrique. Ils sont également capables de conjurer le mana en collectant l'énergie électrique ambiante.",
-    "unit.data.pacifier.combo.0": "Leadership<sprite name=\"card_icon_influence\"><style=\"value\">4</style>",
+    "unit.data.pacifier.combo.0": "Influence<sprite name=\"card_icon_influence\"><style=\"value\">4</style>",
     "unit.data.pacifier.combo.1": "L'ennemi <style=\"status\">Non Fortifié</style> ciblé <style=\"status\">n'attaque pas</style>",
     "unit.data.pacifier.combo.2": "Gagnez un <style=\"value\">Cristal Blanc</style>",
     "unit.data.pacifier.description.visuals": "Grand œil flottant avec une peau pustuleuse verte. Ailes jaunes avec des appendices verts et des pointes osseuses acérées. Son arrière-plan montre des créatures mourant sous de violents éclairs."

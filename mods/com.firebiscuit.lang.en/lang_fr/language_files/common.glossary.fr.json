@@ -16,7 +16,7 @@
     "glossary.entry.healing.name": "Soin",
     "glossary.entry.healing.description": "Les points de Soin peuvent être utilisés pour retirer des <style=\"wound\">Blessures</style> sur le Joueur ou les Compagnons",
     "glossary.entry.movement.name": "Mouvement",
-    "glossary.entry.movement.description": "Les points de Mouvement permettent à votre personnage de se déplacer sur la carte et d'Explorer. Le coût dépend du type de terrain. Le Mouvement déclenchera aussi les Ennemis sur la carte lors d'un déplacement d'une case adjacente à une autre case adjacente.",
+    "glossary.entry.movement.description": "Les points de Mouvement permettent à votre personnage de se déplacer sur la carte et d'Explorer. Le coût dépend du type de terrain. Le Mouvement déclenchera aussi les Ennemis sur la carte lors d'un mouvement d'une case adjacente à une autre case adjacente.",
     "glossary.entry.teleport.name": "Téléportation",
     "glossary.entry.teleport.description": "Les points de Téléportation permettent à votre personnage de se téléporter sur la carte une case à la fois (1 point = 1 case). Se téléporter ne déclenche pas les Ennemis sur la carte.",
     "glossary.entry.influence.name": "Influence",

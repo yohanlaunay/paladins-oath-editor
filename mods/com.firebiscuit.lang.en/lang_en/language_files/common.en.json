@@ -35,6 +35,8 @@
     "common.hotkeys.market.spells.open_close.description":"Open/Close the Market, on the <b>Spells</b> tab.",
     "common.hotkeys.market.units.open_close.name":"Show/Hide Market Followers",
     "common.hotkeys.market.units.open_close.description":"Open/Close the Market, on the <b>Followers</b> tab.",
+    "common.hotkeys.market.special.locations.open_close.name":"Show/Hide Market Special Location Cards",
+    "common.hotkeys.market.special.locations.open_close.description":"Open/Close the Market, on the <b>Special Locations</b> tab.",
     "common.hotkeys.map.move.left.name":"Map Move Left",
     "common.hotkeys.map.move.left.description":"Move the Map slightly to towards the <b>Left</b> when in Exploration or Pause/Map menu.",
     "common.hotkeys.map.move.right.name":"Map Move Right",

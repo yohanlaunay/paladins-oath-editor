@@ -3,6 +3,6 @@
     "unit.data.wyvaar.lore": "Puissante créature invoquée ressemblant à une panthère noire. Wyvaar est le fidèle compagnon de Zaurahel depuis qu'il a vaincu l'invocateur abusif de Wyvaar dans le monde souterrain. Après la mort de l'invocateur, Wyvaar a décidé de rester dans ce plan d'existence et d'accompagner Zaurahel partout où il va.",
     "unit.data.wyvaar.combo.0": "Attaque à <i>Distance</i><sprite name=\"card_icon_attack_range\"><style=\"value\">2</style>",
     "unit.data.wyvaar.combo.1": "Blocage<sprite name=\"card_icon_block\"><style=\"value\">2</style>",
-    "unit.data.wyvaar.combo.2": "Déplacement<sprite name=\"card_icon_move\"><style=\"value\">2</style>",
+    "unit.data.wyvaar.combo.2": "Mouvement<sprite name=\"card_icon_move\"><style=\"value\">2</style>",
     "unit.data.wyvaar.description.visuals": "Très grande panthère noire aux yeux blancs perçants mais réconfortants. Une lumière bleue émane de sa fourrure noire."
 }

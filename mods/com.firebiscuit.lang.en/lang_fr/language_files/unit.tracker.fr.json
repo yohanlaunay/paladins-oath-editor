@@ -1,7 +1,7 @@
 {
     "unit.data.tracker.name": "Traqueur",
     "unit.data.tracker.lore": "Certains aventuriers venus du pays des Souris avec un flair aiguisé et un grand sens de l'orientation. Ce sont des explorateurs idéaux qui rechercheront les meilleures routes et pistes lorsqu'ils sont dans leur habitat naturel.",
-    "unit.data.tracker.combo.0": "Déplacement<sprite name=\"card_icon_move\"><style=\"value\">2</style>. Le coût de déplacement des Forêts, Collines et Marais est <style=\"status\">réduit de 1</style> ce tour-ci",
+    "unit.data.tracker.combo.0": "Mouvement<sprite name=\"card_icon_move\"><style=\"value\">2</style>. Le coût de Mouvement des Forêts, Collines et Marais est <style=\"status\">réduit de 1</style> ce tour-ci",
     "unit.data.tracker.combo.1": "Blocage<sprite name=\"card_icon_block\"><style=\"value\">3</style>",
     "unit.data.tracker.description.visuals": "Petite souris de la taille d'un enfant. Portant un sac à dos et une tunique vert clair, ainsi qu'un casque d'où sortent des feuilles d'arbre. La souris utilise un bâton de marche en bambou et une épée courte."
 }

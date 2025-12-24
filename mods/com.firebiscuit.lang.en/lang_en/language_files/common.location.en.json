@@ -11,6 +11,7 @@
         "n": "You can only bring <style=\"value\">{0} Followers</style> in this Battle.",
         "t": 1},
     "location.data.common.cta.move_adjacent_to_assault":"Move <style=\"value\">Adjacent</style> to Assault",
+    "location.data.common.cta.need_movement_points_to_reach": "Need <style=\"value\">{0}</style> Movement Points to move there",
     "location.data.common.cta.need_movement_points_to_assault":"Need <style=\"value\">{0}</style> Movement Points to Assault",
     "location.data.common.cta.move_there_to_interact":"Move <style=\"value\">To the Location</style> to Interact",
     "location.data.common.cta.movement_impossible":"Cannot move to this location at this time",

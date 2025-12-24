@@ -424,7 +424,7 @@
         "t": 1
     },
     "effects.counter.tooltip": "Cliquez pour voir les Effets <style=\"status\">Actifs</style> appliqués à cette entité.",
-    "effects.pool.description": "<style=\"status\">Activez</style> des Cartes, des Compagnons ou des Bénédictions pour générer des effets.",
+    "effects.pool.description": "<style=\"status\">Activez</style> des Cartes, des Compagnons ou des Dons Divins pour générer des effets.",
     "effects.spawner.title": "Générer l'Effet",
     "effects.spawner.counter.description": "Combien vous pouvez encore en <style=\"status\">Générer</style>",
     "effects.spawner.btn.label": "Générer",

@@ -2,7 +2,7 @@
     "location.data.spire.descriptor": "Flèche",
     "location.data.spire.name": "Flèche",
     "location.data.spire.reward.name": "Découverte Arcanique",
-    "location.data.spire.effect.training": "<style=\"status\">Apprenez</style> des <style=\"value\">Sorts</style> au Marché pour <style=\"value\">7</style> Leadership + un <style=\"value\">Mana</style> de la <style=\"status\">même</style> couleur que le sort.",
+    "location.data.spire.effect.training": "<style=\"status\">Apprenez</style> des <style=\"value\">Sorts</style> au Marché pour <style=\"value\">7</style> Influence + un <style=\"value\">Mana</style> de la <style=\"status\">même</style> couleur que le sort.",
     "location.data.spire.effect.recruitment": "<style=\"status\">Recrutez</style> des <style=\"value\">Compagnons</style>.",
     "location.data.spire.unconquered.title": "Non conquise",
     "location.data.spire.unrevealed.tooltip.header": "Ennemis non révélés",

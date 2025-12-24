@@ -1,4 +1,4 @@
 {
     "skill.data.divine_aura.name": "Aura Divine",
-    "skill.data.divine_aura.combo": "Leadership<sprite name=\"card_icon_influence\"><style=\"value\">3</style> <size=-5>(<style=\"status\">Jour</style>)</size>\nLeadership<sprite name=\"card_icon_influence\"><style=\"value\">2</style> <size=-5>(<style=\"status\">Nuit</style>)</size>"
+    "skill.data.divine_aura.combo": "Influence<sprite name=\"card_icon_influence\"><style=\"value\">3</style> <size=-5>(<style=\"status\">Jour</style>)</size>\nInfluence<sprite name=\"card_icon_influence\"><style=\"value\">2</style> <size=-5>(<style=\"status\">Nuit</style>)</size>"
 }

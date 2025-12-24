@@ -2,7 +2,7 @@
     "unit.data.traveller.name": "Voyageur",
     "unit.data.traveller.lore": "Aventuriers humains, éclaireurs et explorateurs. Ils connaissent les routes et les sentiers du Royaume comme leur poche. Leurs voyages fréquents leur ont également valu de nombreux amis et des faveurs à encaisser si nécessaire.",
     "unit.data.traveller.combo.0": "Attaque<sprite name=\"card_icon_attack\"><style=\"value\">2</style> <b>ou</b> Blocage<sprite name=\"card_icon_block\"><style=\"value\">2</style>",
-    "unit.data.traveller.combo.1": "Leadership<sprite name=\"card_icon_influence\"><style=\"value\">2</style>",
-    "unit.data.traveller.combo.2": "Déplacement<sprite name=\"card_icon_move\"><style=\"value\">2</style>",
+    "unit.data.traveller.combo.1": "Influence<sprite name=\"card_icon_influence\"><style=\"value\">2</style>",
+    "unit.data.traveller.combo.2": "Mouvement<sprite name=\"card_icon_move\"><style=\"value\">2</style>",
     "unit.data.traveller.description.visuals": "Humain portant un grand sac d'où dépassent des perches en bois et des outils (probablement une sorte de matériel de tente). Il porte un chapeau de paille, une barbe brune et une tenue de cuir légère avec quelques sacs autour de sa taille."
 }
