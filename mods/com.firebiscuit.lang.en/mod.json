@@ -25,6 +25,9 @@
 	"scenarioMods.comments": "(Optional) List<string>. List of folder names that contain scenario modding data. One folder per scenario mod.",
 	"scenarioExtensionMods": [],
 	"scenarioExtensionMods.comments": "(Optional) List<string>. List of folder names that contain scenario extensions modding data. One folder per scenario extension mod.",
-	"languageMods": ["lang_en"],
+	"languageMods": [
+		"lang_en",
+		"lang_fr"
+	],
 	"languageMods.comments": "(Optional) List<string>. List of folder names that contain language modding data. One folder per language mod."
 }
